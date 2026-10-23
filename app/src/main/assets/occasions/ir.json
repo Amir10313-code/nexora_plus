@@ -1,0 +1,649 @@
+{
+ "schema": 1,
+ "regionId": "ir",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "ir-new-year-g",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "ir-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "ir-nowruz-1",
+   "calendar": "J",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "جشن نوروز",
+    "en": "Nowruz (Persian New Year)"
+   }
+  },
+  {
+   "id": "ir-nowruz-2",
+   "calendar": "J",
+   "month": 1,
+   "day": 2,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "تعطیلات نوروز (روز دوم)",
+    "en": "Nowruz holiday (day 2)"
+   }
+  },
+  {
+   "id": "ir-nowruz-3",
+   "calendar": "J",
+   "month": 1,
+   "day": 3,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "تعطیلات نوروز (روز سوم)",
+    "en": "Nowruz holiday (day 3)"
+   }
+  },
+  {
+   "id": "ir-nowruz-4",
+   "calendar": "J",
+   "month": 1,
+   "day": 4,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "تعطیلات نوروز (روز چهارم)",
+    "en": "Nowruz holiday (day 4)"
+   }
+  },
+  {
+   "id": "ir-islamic-republic-day",
+   "calendar": "J",
+   "month": 1,
+   "day": 12,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جمهوری اسلامی",
+    "en": "Islamic Republic Day"
+   }
+  },
+  {
+   "id": "ir-sizdah-bedar",
+   "calendar": "J",
+   "month": 1,
+   "day": 13,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز طبیعت (سیزده‌بدر)",
+    "en": "Nature Day (Sizdah Bedar)"
+   }
+  },
+  {
+   "id": "ir-saadi-day",
+   "calendar": "J",
+   "month": 2,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز بزرگداشت سعدی",
+    "en": "Saadi Commemoration Day"
+   }
+  },
+  {
+   "id": "ir-persian-gulf-day",
+   "calendar": "J",
+   "month": 2,
+   "day": 10,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز ملی خلیج فارس",
+    "en": "National Persian Gulf Day"
+   }
+  },
+  {
+   "id": "ir-teachers-day",
+   "calendar": "J",
+   "month": 2,
+   "day": 12,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز معلم",
+    "en": "Teacher's Day"
+   }
+  },
+  {
+   "id": "ir-ferdowsi-day",
+   "calendar": "J",
+   "month": 2,
+   "day": 25,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز بزرگداشت فردوسی",
+    "en": "Ferdowsi Commemoration Day"
+   }
+  },
+  {
+   "id": "ir-khayyam-day",
+   "calendar": "J",
+   "month": 2,
+   "day": 28,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز بزرگداشت حکیم عمر خیام",
+    "en": "Omar Khayyam Commemoration Day"
+   }
+  },
+  {
+   "id": "ir-khomeini-death",
+   "calendar": "J",
+   "month": 3,
+   "day": 14,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "رحلت امام خمینی",
+    "en": "Demise of Imam Khomeini"
+   }
+  },
+  {
+   "id": "ir-khordad-15",
+   "calendar": "J",
+   "month": 3,
+   "day": 15,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "قیام ۱۵ خرداد",
+    "en": "Uprising of 15 Khordad"
+   }
+  },
+  {
+   "id": "ir-constitution-day",
+   "calendar": "J",
+   "month": 5,
+   "day": 14,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "سالروز مشروطیت",
+    "en": "Anniversary of the Constitutional Revolution"
+   }
+  },
+  {
+   "id": "ir-journalists-day",
+   "calendar": "J",
+   "month": 5,
+   "day": 17,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز خبرنگار",
+    "en": "Journalists' Day"
+   }
+  },
+  {
+   "id": "ir-hafez-day",
+   "calendar": "J",
+   "month": 7,
+   "day": 20,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز بزرگداشت حافظ",
+    "en": "Hafez Commemoration Day"
+   }
+  },
+  {
+   "id": "ir-student-day-aban",
+   "calendar": "J",
+   "month": 8,
+   "day": 13,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز دانش‌آموز",
+    "en": "Students' Day"
+   }
+  },
+  {
+   "id": "ir-student-day-azar",
+   "calendar": "J",
+   "month": 9,
+   "day": 16,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز دانشجو",
+    "en": "University Students' Day"
+   }
+  },
+  {
+   "id": "ir-yalda",
+   "calendar": "J",
+   "month": 9,
+   "day": 30,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "شب یلدا",
+    "en": "Yalda Night"
+   }
+  },
+  {
+   "id": "ir-revolution-victory",
+   "calendar": "J",
+   "month": 11,
+   "day": 22,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "پیروزی انقلاب اسلامی",
+    "en": "Victory of the Islamic Revolution"
+   }
+  },
+  {
+   "id": "ir-oil-nationalization",
+   "calendar": "J",
+   "month": 12,
+   "day": 29,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "ملی شدن صنعت نفت ایران",
+    "en": "Nationalization of the Iranian Oil Industry"
+   }
+  },
+  {
+   "id": "ir-muharram-1",
+   "calendar": "H",
+   "month": 1,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "آغاز سال هجری قمری",
+    "en": "Islamic New Year",
+    "ar": "رأس السنة الهجرية",
+    "tr": "Hicri Yılbaşı",
+    "ur": "اسلامی نیا سال",
+    "hi": "इस्लामी नववर्ष",
+    "id": "Tahun Baru Islam"
+   }
+  },
+  {
+   "id": "ir-tasua",
+   "calendar": "H",
+   "month": 1,
+   "day": 9,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "تاسوعای حسینی",
+    "en": "Tasua",
+    "ur": "یومِ تاسوعا"
+   }
+  },
+  {
+   "id": "ir-ashura",
+   "calendar": "H",
+   "month": 1,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عاشورای حسینی",
+    "en": "Ashura",
+    "ar": "يوم عاشوراء",
+    "tr": "Aşure Günü",
+    "ur": "یومِ عاشورہ",
+    "hi": "आशूरा (मुहर्रम)",
+    "id": "Hari Asyura"
+   }
+  },
+  {
+   "id": "ir-arbaeen",
+   "calendar": "H",
+   "month": 2,
+   "day": 20,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "اربعین حسینی",
+    "en": "Arbaeen"
+   }
+  },
+  {
+   "id": "ir-safar-28",
+   "calendar": "H",
+   "month": 2,
+   "day": 28,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "رحلت پیامبر اکرم و شهادت امام حسن مجتبی (ع)",
+    "en": "Demise of the Prophet and martyrdom of Imam Hassan"
+   }
+  },
+  {
+   "id": "ir-safar-end",
+   "calendar": "H",
+   "month": 2,
+   "day": 30,
+   "clamp": true,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "verified": false,
+   "titles": {
+    "fa": "شهادت امام رضا (ع)",
+    "en": "Martyrdom of Imam Reza"
+   }
+  },
+  {
+   "id": "ir-mawlid-sunni",
+   "calendar": "H",
+   "month": 3,
+   "day": 12,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "میلاد پیامبر اکرم (به روایت اهل سنت)",
+    "en": "Mawlid an-Nabi (Prophet's birthday)",
+    "ar": "المولد النبوي الشريف",
+    "ur": "عیدِ میلادالنبیؐ",
+    "hi": "मिलाद-उन-नबी",
+    "id": "Maulid Nabi Muhammad SAW"
+   }
+  },
+  {
+   "id": "ir-mawlid-shia",
+   "calendar": "H",
+   "month": 3,
+   "day": 17,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "میلاد پیامبر اکرم و امام جعفر صادق (ع)",
+    "en": "Birth of the Prophet and Imam Jafar al-Sadiq"
+   }
+  },
+  {
+   "id": "ir-fatima-martyrdom",
+   "calendar": "H",
+   "month": 6,
+   "day": 3,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "verified": false,
+   "titles": {
+    "fa": "شهادت حضرت فاطمه زهرا (س)",
+    "en": "Martyrdom of Fatima al-Zahra"
+   }
+  },
+  {
+   "id": "ir-fatima-birth",
+   "calendar": "H",
+   "month": 6,
+   "day": 20,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "ولادت حضرت فاطمه زهرا (س) و روز مادر",
+    "en": "Birth of Fatima al-Zahra and Mother's Day"
+   }
+  },
+  {
+   "id": "ir-ali-birth",
+   "calendar": "H",
+   "month": 7,
+   "day": 13,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "ولادت امام علی (ع) و روز پدر",
+    "en": "Birth of Imam Ali and Father's Day"
+   }
+  },
+  {
+   "id": "ir-mabath",
+   "calendar": "H",
+   "month": 7,
+   "day": 27,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "مبعث پیامبر اکرم (ص)",
+    "en": "Mab'ath (the Prophet's mission)"
+   }
+  },
+  {
+   "id": "ir-hussein-birth",
+   "calendar": "H",
+   "month": 8,
+   "day": 3,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "ولادت امام حسین (ع)",
+    "en": "Birth of Imam Hussein"
+   }
+  },
+  {
+   "id": "ir-mahdi-birth",
+   "calendar": "H",
+   "month": 8,
+   "day": 15,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "ولادت امام مهدی (عج)",
+    "en": "Birth of Imam Mahdi"
+   }
+  },
+  {
+   "id": "ir-ramadan-1",
+   "calendar": "H",
+   "month": 9,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "آغاز ماه رمضان",
+    "en": "Start of Ramadan",
+    "ar": "بداية شهر رمضان",
+    "tr": "Ramazan başlangıcı",
+    "ur": "آغازِ رمضان",
+    "id": "Awal Ramadan"
+   }
+  },
+  {
+   "id": "ir-hassan-birth",
+   "calendar": "H",
+   "month": 9,
+   "day": 15,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "ولادت امام حسن مجتبی (ع)",
+    "en": "Birth of Imam Hassan"
+   }
+  },
+  {
+   "id": "ir-ali-struck",
+   "calendar": "H",
+   "month": 9,
+   "day": 19,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "ضربت خوردن امام علی (ع)",
+    "en": "Imam Ali struck"
+   }
+  },
+  {
+   "id": "ir-ali-martyrdom",
+   "calendar": "H",
+   "month": 9,
+   "day": 21,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "شهادت امام علی (ع)",
+    "en": "Martyrdom of Imam Ali"
+   }
+  },
+  {
+   "id": "ir-eid-fitr",
+   "calendar": "H",
+   "month": 10,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر",
+    "en": "Eid al-Fitr",
+    "ar": "عيد الفطر",
+    "tr": "Ramazan Bayramı",
+    "ur": "عیدالفطر",
+    "hi": "ईद-उल-फ़ित्र",
+    "id": "Idulfitri"
+   }
+  },
+  {
+   "id": "ir-eid-fitr-2",
+   "calendar": "H",
+   "month": 10,
+   "day": 2,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر (روز دوم)",
+    "en": "Eid al-Fitr (day 2)",
+    "ar": "عيد الفطر (اليوم الثاني)",
+    "tr": "Ramazan Bayramı (2. gün)",
+    "ur": "عیدالفطر (دوسرا دن)",
+    "hi": "ईद-उल-फ़ित्र (दूसरा दिन)",
+    "id": "Idulfitri (hari ke-2)"
+   }
+  },
+  {
+   "id": "ir-sadiq-martyrdom",
+   "calendar": "H",
+   "month": 10,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "شهادت امام جعفر صادق (ع)",
+    "en": "Martyrdom of Imam Jafar al-Sadiq"
+   }
+  },
+  {
+   "id": "ir-reza-birth",
+   "calendar": "H",
+   "month": 11,
+   "day": 11,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "ولادت امام رضا (ع)",
+    "en": "Birth of Imam Reza"
+   }
+  },
+  {
+   "id": "ir-arafah",
+   "calendar": "H",
+   "month": 12,
+   "day": 9,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "روز عرفه",
+    "en": "Day of Arafah",
+    "ar": "يوم عرفة",
+    "tr": "Arefe Günü",
+    "ur": "یومِ عرفہ"
+   }
+  },
+  {
+   "id": "ir-eid-adha",
+   "calendar": "H",
+   "month": 12,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید قربان",
+    "en": "Eid al-Adha",
+    "ar": "عيد الأضحى",
+    "tr": "Kurban Bayramı",
+    "ur": "عیدالاضحیٰ",
+    "hi": "ईद-उल-अज़हा (बकरीद)",
+    "id": "Iduladha"
+   }
+  },
+  {
+   "id": "ir-ghadir",
+   "calendar": "H",
+   "month": 12,
+   "day": 18,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید غدیر خم",
+    "en": "Eid al-Ghadir"
+   }
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "schema": 1,
+ "regionId": "in",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "in-new-year-g",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "in-republic-day",
+   "calendar": "G",
+   "month": 1,
+   "day": 26,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جمهوری هند",
+    "en": "Republic Day",
+    "hi": "गणतंत्र दिवस"
+   }
+  },
+  {
+   "id": "in-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "in-ambedkar",
+   "calendar": "G",
+   "month": 4,
+   "day": 14,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "زادروز آمبدکار",
+    "en": "Ambedkar Jayanti",
+    "hi": "अम्बेडकर जयंती"
+   }
+  },
+  {
+   "id": "in-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "in-teachers-day",
+   "calendar": "G",
+   "month": 9,
+   "day": 5,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز معلم هند",
+    "en": "Teachers' Day",
+    "hi": "शिक्षक दिवस"
+   }
+  },
+  {
+   "id": "in-independence-day",
+   "calendar": "G",
+   "month": 8,
+   "day": 15,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز استقلال هند",
+    "en": "Independence Day",
+    "hi": "स्वतंत्रता दिवस"
+   }
+  },
+  {
+   "id": "in-gandhi",
+   "calendar": "G",
+   "month": 10,
+   "day": 2,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "زادروز گاندی",
+    "en": "Gandhi Jayanti",
+    "hi": "गांधी जयंती"
+   }
+  },
+  {
+   "id": "in-unity-day",
+   "calendar": "G",
+   "month": 10,
+   "day": 31,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز وحدت ملی",
+    "en": "National Unity Day",
+    "hi": "राष्ट्रीय एकता दिवस"
+   }
+  },
+  {
+   "id": "in-childrens-day",
+   "calendar": "G",
+   "month": 11,
+   "day": 14,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز کودک هند",
+    "en": "Children's Day",
+    "hi": "बाल दिवस"
+   }
+  },
+  {
+   "id": "in-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  },
+  {
+   "id": "in-good-friday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -2
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "جمعهٔ نیک (جمعه پیش از عید پاک)",
+    "en": "Good Friday",
+    "de": "Karfreitag",
+    "es": "Viernes Santo",
+    "pt": "Sexta-feira Santa",
+    "id": "Wafat Yesus Kristus",
+    "hi": "गुड फ्राइडे"
+   }
+  },
+  {
+   "id": "in-muharram",
+   "calendar": "H",
+   "month": 1,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "verified": false,
+   "titles": {
+    "fa": "عاشورای حسینی",
+    "en": "Ashura",
+    "ar": "يوم عاشوراء",
+    "tr": "Aşure Günü",
+    "ur": "یومِ عاشورہ",
+    "hi": "आशूरा (मुहर्रम)",
+    "id": "Hari Asyura"
+   }
+  },
+  {
+   "id": "in-milad-un-nabi",
+   "calendar": "H",
+   "month": 3,
+   "day": 12,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "verified": false,
+   "titles": {
+    "fa": "میلاد پیامبر اکرم (به روایت اهل سنت)",
+    "en": "Mawlid an-Nabi (Prophet's birthday)",
+    "ar": "المولد النبوي الشريف",
+    "ur": "عیدِ میلادالنبیؐ",
+    "hi": "मिलाद-उन-नबी",
+    "id": "Maulid Nabi Muhammad SAW"
+   }
+  },
+  {
+   "id": "in-eid-fitr",
+   "calendar": "H",
+   "month": 10,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "verified": false,
+   "titles": {
+    "fa": "عید سعید فطر",
+    "en": "Eid al-Fitr",
+    "ar": "عيد الفطر",
+    "tr": "Ramazan Bayramı",
+    "ur": "عیدالفطر",
+    "hi": "ईद-उल-फ़ित्र",
+    "id": "Idulfitri"
+   }
+  },
+  {
+   "id": "in-eid-adha",
+   "calendar": "H",
+   "month": 12,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "verified": false,
+   "titles": {
+    "fa": "عید سعید قربان",
+    "en": "Eid al-Adha",
+    "ar": "عيد الأضحى",
+    "tr": "Kurban Bayramı",
+    "ur": "عیدالاضحیٰ",
+    "hi": "ईद-उल-अज़हा (बकरीद)",
+    "id": "Iduladha"
+   }
+  }
+ ]
+}

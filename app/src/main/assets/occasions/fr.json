@@ -1,0 +1,250 @@
+{
+ "schema": 1,
+ "regionId": "fr",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "fr-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "fr-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "fr-easter-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 0
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه عید پاک",
+    "en": "Easter Sunday",
+    "de": "Ostersonntag",
+    "fr": "Pâques",
+    "es": "Domingo de Resurrección",
+    "it": "Pasqua",
+    "pt": "Domingo de Páscoa"
+   }
+  },
+  {
+   "id": "fr-easter-monday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 1
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "دوشنبه عید پاک",
+    "en": "Easter Monday",
+    "de": "Ostermontag",
+    "fr": "Lundi de Pâques",
+    "it": "Lunedì dell'Angelo (Pasquetta)"
+   }
+  },
+  {
+   "id": "fr-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "fr-victory-1945",
+   "calendar": "G",
+   "month": 5,
+   "day": 8,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "پیروزی ۱۹۴۵",
+    "en": "Victory in Europe Day",
+    "fr": "Victoire 1945"
+   }
+  },
+  {
+   "id": "fr-ascension",
+   "rule": {
+    "type": "easterOffset",
+    "days": 39
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید صعود مسیح",
+    "en": "Ascension Day",
+    "de": "Christi Himmelfahrt",
+    "fr": "Ascension",
+    "id": "Kenaikan Yesus Kristus"
+   }
+  },
+  {
+   "id": "fr-whit-monday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 50
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "دوشنبه پنطیکاست",
+    "en": "Whit Monday",
+    "de": "Pfingstmontag",
+    "fr": "Lundi de Pentecôte"
+   }
+  },
+  {
+   "id": "fr-music-day",
+   "calendar": "G",
+   "month": 6,
+   "day": 21,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "جشن موسیقی",
+    "en": "Fête de la Musique",
+    "fr": "Fête de la Musique"
+   }
+  },
+  {
+   "id": "fr-bastille-day",
+   "calendar": "G",
+   "month": 7,
+   "day": 14,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز ملی فرانسه",
+    "en": "Bastille Day",
+    "fr": "Fête nationale"
+   }
+  },
+  {
+   "id": "fr-assumption",
+   "calendar": "G",
+   "month": 8,
+   "day": 15,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید انتقال مریم عذرا",
+    "en": "Assumption of Mary",
+    "fr": "Assomption",
+    "es": "Asunción de la Virgen",
+    "it": "Assunzione di Maria (Ferragosto)"
+   }
+  },
+  {
+   "id": "fr-all-saints",
+   "calendar": "G",
+   "month": 11,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید همهٔ قدیسان",
+    "en": "All Saints' Day",
+    "fr": "Toussaint",
+    "es": "Todos los Santos",
+    "it": "Ognissanti"
+   }
+  },
+  {
+   "id": "fr-armistice",
+   "calendar": "G",
+   "month": 11,
+   "day": 11,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز آتش‌بس ۱۹۱۸",
+    "en": "Armistice Day",
+    "fr": "Armistice 1918"
+   }
+  },
+  {
+   "id": "fr-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  }
+ ]
+}

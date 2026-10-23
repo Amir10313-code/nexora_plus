@@ -1,0 +1,398 @@
+{
+ "schema": 1,
+ "regionId": "tr",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "tr-new-year-g",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "tr-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "tr-canakkale",
+   "calendar": "G",
+   "month": 3,
+   "day": 18,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز شهدای چاناک‌قلعه",
+    "en": "Çanakkale Victory and Martyrs Day",
+    "tr": "Çanakkale Zaferi ve Şehitleri Anma Günü"
+   }
+  },
+  {
+   "id": "tr-national-sovereignty",
+   "calendar": "G",
+   "month": 4,
+   "day": 23,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز حاکمیت ملی و کودک",
+    "en": "National Sovereignty and Children's Day",
+    "tr": "Ulusal Egemenlik ve Çocuk Bayramı"
+   }
+  },
+  {
+   "id": "tr-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "tr-youth-sports-day",
+   "calendar": "G",
+   "month": 5,
+   "day": 19,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز بزرگداشت آتاتورک، جوانان و ورزش",
+    "en": "Commemoration of Atatürk, Youth and Sports Day",
+    "tr": "Atatürk'ü Anma, Gençlik ve Spor Bayramı"
+   }
+  },
+  {
+   "id": "tr-democracy-day",
+   "calendar": "G",
+   "month": 7,
+   "day": 15,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز دموکراسی و وحدت ملی",
+    "en": "Democracy and National Unity Day",
+    "tr": "Demokrasi ve Millî Birlik Günü"
+   }
+  },
+  {
+   "id": "tr-victory-day",
+   "calendar": "G",
+   "month": 8,
+   "day": 30,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز پیروزی",
+    "en": "Victory Day",
+    "tr": "Zafer Bayramı"
+   }
+  },
+  {
+   "id": "tr-republic-eve",
+   "calendar": "G",
+   "month": 10,
+   "day": 28,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "آستانه روز جمهوری (نیم‌روز تعطیل)",
+    "en": "Republic Day eve (half day)",
+    "tr": "Cumhuriyet Bayramı arifesi (yarım gün)"
+   }
+  },
+  {
+   "id": "tr-republic-day",
+   "calendar": "G",
+   "month": 10,
+   "day": 29,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جمهوری",
+    "en": "Republic Day",
+    "tr": "Cumhuriyet Bayramı"
+   }
+  },
+  {
+   "id": "tr-ataturk-memorial",
+   "calendar": "G",
+   "month": 11,
+   "day": 10,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز درگذشت آتاتورک",
+    "en": "Atatürk Memorial Day",
+    "tr": "Atatürk'ü Anma Günü"
+   }
+  },
+  {
+   "id": "tr-muharram-1",
+   "calendar": "H",
+   "month": 1,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "آغاز سال هجری قمری",
+    "en": "Islamic New Year",
+    "ar": "رأس السنة الهجرية",
+    "tr": "Hicri Yılbaşı",
+    "ur": "اسلامی نیا سال",
+    "hi": "इस्लामी नववर्ष",
+    "id": "Tahun Baru Islam"
+   }
+  },
+  {
+   "id": "tr-ashura",
+   "calendar": "H",
+   "month": 1,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "عاشورای حسینی",
+    "en": "Ashura",
+    "ar": "يوم عاشوراء",
+    "tr": "Aşure Günü",
+    "ur": "یومِ عاشورہ",
+    "hi": "आशूरा (मुहर्रम)",
+    "id": "Hari Asyura"
+   }
+  },
+  {
+   "id": "tr-ramadan-1",
+   "calendar": "H",
+   "month": 9,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "آغاز ماه رمضان",
+    "en": "Start of Ramadan",
+    "ar": "بداية شهر رمضان",
+    "tr": "Ramazan başlangıcı",
+    "ur": "آغازِ رمضان",
+    "id": "Awal Ramadan"
+   }
+  },
+  {
+   "id": "tr-laylat-qadr",
+   "calendar": "H",
+   "month": 9,
+   "day": 27,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "verified": false,
+   "titles": {
+    "fa": "شب قدر (۲۷ رمضان)",
+    "en": "Laylat al-Qadr (27 Ramadan)",
+    "ar": "ليلة القدر (٢٧ رمضان)",
+    "tr": "Kadir Gecesi",
+    "ur": "شبِ قدر"
+   }
+  },
+  {
+   "id": "tr-fitr-eve",
+   "calendar": "H",
+   "month": 9,
+   "day": 30,
+   "clamp": true,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "verified": false,
+   "titles": {
+    "fa": "آستانه عید فطر (نیم‌روز تعطیل)",
+    "en": "Ramadan Feast eve (half day)",
+    "tr": "Ramazan Bayramı arifesi (yarım gün)"
+   }
+  },
+  {
+   "id": "tr-eid-fitr-1",
+   "calendar": "H",
+   "month": 10,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر",
+    "en": "Eid al-Fitr",
+    "ar": "عيد الفطر",
+    "tr": "Ramazan Bayramı",
+    "ur": "عیدالفطر",
+    "hi": "ईद-उल-फ़ित्र",
+    "id": "Idulfitri"
+   }
+  },
+  {
+   "id": "tr-eid-fitr-2",
+   "calendar": "H",
+   "month": 10,
+   "day": 2,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر (روز دوم)",
+    "en": "Eid al-Fitr (day 2)",
+    "ar": "عيد الفطر (اليوم الثاني)",
+    "tr": "Ramazan Bayramı (2. gün)",
+    "ur": "عیدالفطر (دوسرا دن)",
+    "hi": "ईद-उल-फ़ित्र (दूसरा दिन)",
+    "id": "Idulfitri (hari ke-2)"
+   }
+  },
+  {
+   "id": "tr-eid-fitr-3",
+   "calendar": "H",
+   "month": 10,
+   "day": 3,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر (روز سوم)",
+    "en": "Eid al-Fitr (day 3)",
+    "ar": "عيد الفطر (اليوم الثالث)",
+    "tr": "Ramazan Bayramı (3. gün)",
+    "ur": "عیدالفطر (تیسرا دن)",
+    "hi": "ईद-उल-फ़ित्र (तीसरा दिन)",
+    "id": "Idulfitri (hari ke-3)"
+   }
+  },
+  {
+   "id": "tr-arife",
+   "calendar": "H",
+   "month": 12,
+   "day": 9,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "آستانه عید قربان (نیم‌روز تعطیل)",
+    "en": "Feast of Sacrifice eve (half day)",
+    "tr": "Kurban Bayramı arifesi (yarım gün)"
+   }
+  },
+  {
+   "id": "tr-eid-adha-1",
+   "calendar": "H",
+   "month": 12,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید قربان",
+    "en": "Eid al-Adha",
+    "ar": "عيد الأضحى",
+    "tr": "Kurban Bayramı",
+    "ur": "عیدالاضحیٰ",
+    "hi": "ईद-उल-अज़हा (बकरीद)",
+    "id": "Iduladha"
+   }
+  },
+  {
+   "id": "tr-eid-adha-2",
+   "calendar": "H",
+   "month": 12,
+   "day": 11,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید قربان (روز دوم)",
+    "en": "Eid al-Adha (day 2)",
+    "ar": "عيد الأضحى (اليوم الثاني)",
+    "tr": "Kurban Bayramı (2. gün)",
+    "ur": "عیدالاضحیٰ (دوسرا دن)",
+    "hi": "ईद-उल-अज़हा (बकरीद) (दूसरा दिन)",
+    "id": "Iduladha (hari ke-2)"
+   }
+  },
+  {
+   "id": "tr-eid-adha-3",
+   "calendar": "H",
+   "month": 12,
+   "day": 12,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید قربان (روز سوم)",
+    "en": "Eid al-Adha (day 3)",
+    "ar": "عيد الأضحى (اليوم الثالث)",
+    "tr": "Kurban Bayramı (3. gün)",
+    "ur": "عیدالاضحیٰ (تیسرا دن)",
+    "hi": "ईद-उल-अज़हा (बकरीद) (तीसरा दिन)",
+    "id": "Iduladha (hari ke-3)"
+   }
+  },
+  {
+   "id": "tr-eid-adha-4",
+   "calendar": "H",
+   "month": 12,
+   "day": 13,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید قربان (روز چهارم)",
+    "en": "Eid al-Adha (day 4)",
+    "ar": "عيد الأضحى (اليوم الرابع)",
+    "tr": "Kurban Bayramı (4. gün)",
+    "ur": "عیدالاضحیٰ (چوتھا دن)",
+    "hi": "ईद-उल-अज़हा (बकरीद) (चौथा दिन)",
+    "id": "Iduladha (hari ke-4)"
+   }
+  }
+ ]
+}

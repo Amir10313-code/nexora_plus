@@ -1,0 +1,238 @@
+{
+ "schema": 1,
+ "regionId": "es",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "es-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "es-epiphany",
+   "calendar": "G",
+   "month": 1,
+   "day": 6,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید ظهور (۶ ژانویه)",
+    "en": "Epiphany",
+    "de": "Heilige Drei Könige",
+    "es": "Epifanía del Señor",
+    "it": "Epifania"
+   }
+  },
+  {
+   "id": "es-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "es-holy-thursday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -3
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "پنجشنبه مقدس (در بیشتر مناطق تعطیل)",
+    "en": "Maundy Thursday (holiday in most regions)",
+    "es": "Jueves Santo"
+   }
+  },
+  {
+   "id": "es-good-friday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -2
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "جمعهٔ نیک (جمعه پیش از عید پاک)",
+    "en": "Good Friday",
+    "de": "Karfreitag",
+    "es": "Viernes Santo",
+    "pt": "Sexta-feira Santa",
+    "id": "Wafat Yesus Kristus",
+    "hi": "गुड फ्राइडे"
+   }
+  },
+  {
+   "id": "es-easter-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 0
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه عید پاک",
+    "en": "Easter Sunday",
+    "de": "Ostersonntag",
+    "fr": "Pâques",
+    "es": "Domingo de Resurrección",
+    "it": "Pasqua",
+    "pt": "Domingo de Páscoa"
+   }
+  },
+  {
+   "id": "es-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "es-assumption",
+   "calendar": "G",
+   "month": 8,
+   "day": 15,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید انتقال مریم عذرا",
+    "en": "Assumption of Mary",
+    "fr": "Assomption",
+    "es": "Asunción de la Virgen",
+    "it": "Assunzione di Maria (Ferragosto)"
+   }
+  },
+  {
+   "id": "es-hispanic-day",
+   "calendar": "G",
+   "month": 10,
+   "day": 12,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز ملی اسپانیا",
+    "en": "National Day of Spain",
+    "es": "Fiesta Nacional de España"
+   }
+  },
+  {
+   "id": "es-all-saints",
+   "calendar": "G",
+   "month": 11,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید همهٔ قدیسان",
+    "en": "All Saints' Day",
+    "fr": "Toussaint",
+    "es": "Todos los Santos",
+    "it": "Ognissanti"
+   }
+  },
+  {
+   "id": "es-constitution-day",
+   "calendar": "G",
+   "month": 12,
+   "day": 6,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز قانون اساسی",
+    "en": "Constitution Day",
+    "es": "Día de la Constitución"
+   }
+  },
+  {
+   "id": "es-immaculate",
+   "calendar": "G",
+   "month": 12,
+   "day": 8,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید حبل بی‌لکه مریم",
+    "en": "Immaculate Conception",
+    "es": "Inmaculada Concepción",
+    "it": "Immacolata Concezione"
+   }
+  },
+  {
+   "id": "es-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  }
+ ]
+}

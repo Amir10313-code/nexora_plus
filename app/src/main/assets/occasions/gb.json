@@ -1,0 +1,302 @@
+{
+ "schema": 1,
+ "regionId": "gb",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "gb-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "gb-valentine",
+   "calendar": "G",
+   "month": 2,
+   "day": 14,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز ولنتاین",
+    "en": "Valentine's Day"
+   }
+  },
+  {
+   "id": "gb-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "gb-mothering-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -21
+   },
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز مادر (بریتانیا)",
+    "en": "Mothering Sunday"
+   }
+  },
+  {
+   "id": "gb-good-friday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -2
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "جمعهٔ نیک (جمعه پیش از عید پاک)",
+    "en": "Good Friday",
+    "de": "Karfreitag",
+    "es": "Viernes Santo",
+    "pt": "Sexta-feira Santa",
+    "id": "Wafat Yesus Kristus",
+    "hi": "गुड फ्राइडे"
+   }
+  },
+  {
+   "id": "gb-easter-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 0
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه عید پاک",
+    "en": "Easter Sunday",
+    "de": "Ostersonntag",
+    "fr": "Pâques",
+    "es": "Domingo de Resurrección",
+    "it": "Pasqua",
+    "pt": "Domingo de Páscoa"
+   }
+  },
+  {
+   "id": "gb-easter-monday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 1
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "دوشنبه عید پاک (به‌جز اسکاتلند)",
+    "en": "Easter Monday (not Scotland)"
+   }
+  },
+  {
+   "id": "gb-st-georges-day",
+   "calendar": "G",
+   "month": 4,
+   "day": 23,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز سنت جورج",
+    "en": "St George's Day"
+   }
+  },
+  {
+   "id": "gb-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "gb-early-may",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 5,
+    "weekday": 1,
+    "n": 1
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "تعطیلی بانکی اوایل ماه مه",
+    "en": "Early May bank holiday"
+   }
+  },
+  {
+   "id": "gb-spring-bank",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 5,
+    "weekday": 1,
+    "n": -1
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "تعطیلی بانکی بهار",
+    "en": "Spring bank holiday"
+   }
+  },
+  {
+   "id": "gb-fathers-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 6,
+    "weekday": 7,
+    "n": 3
+   },
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز پدر (یکشنبه سوم ژوئن)",
+    "en": "Father's Day"
+   }
+  },
+  {
+   "id": "gb-summer-bank",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 8,
+    "weekday": 1,
+    "n": -1
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "تعطیلی بانکی تابستان (انگلستان و ولز)",
+    "en": "Summer bank holiday (England and Wales)"
+   }
+  },
+  {
+   "id": "gb-halloween",
+   "calendar": "G",
+   "month": 10,
+   "day": 31,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "هالووین",
+    "en": "Halloween"
+   }
+  },
+  {
+   "id": "gb-bonfire-night",
+   "calendar": "G",
+   "month": 11,
+   "day": 5,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "شب آتش‌بازی (گای فاکس)",
+    "en": "Bonfire Night"
+   }
+  },
+  {
+   "id": "gb-remembrance-sunday",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 11,
+    "weekday": 7,
+    "n": 2
+   },
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه یادبود",
+    "en": "Remembrance Sunday"
+   }
+  },
+  {
+   "id": "gb-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  },
+  {
+   "id": "gb-boxing-day",
+   "calendar": "G",
+   "month": 12,
+   "day": 26,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "روز بعد از کریسمس",
+    "en": "Boxing Day",
+    "de": "Zweiter Weihnachtstag",
+    "it": "Santo Stefano"
+   }
+  }
+ ]
+}

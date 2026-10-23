@@ -1,0 +1,356 @@
+{
+ "schema": 1,
+ "regionId": "id",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "id-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "id-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "id-good-friday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -2
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "جمعهٔ نیک (جمعه پیش از عید پاک)",
+    "en": "Good Friday",
+    "de": "Karfreitag",
+    "es": "Viernes Santo",
+    "pt": "Sexta-feira Santa",
+    "id": "Wafat Yesus Kristus",
+    "hi": "गुड फ्राइडे"
+   }
+  },
+  {
+   "id": "id-kartini",
+   "calendar": "G",
+   "month": 4,
+   "day": 21,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز کارتینی",
+    "en": "Kartini Day",
+    "id": "Hari Kartini"
+   }
+  },
+  {
+   "id": "id-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "id-ascension",
+   "rule": {
+    "type": "easterOffset",
+    "days": 39
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید صعود مسیح",
+    "en": "Ascension Day",
+    "de": "Christi Himmelfahrt",
+    "fr": "Ascension",
+    "id": "Kenaikan Yesus Kristus"
+   }
+  },
+  {
+   "id": "id-harkitnas",
+   "calendar": "G",
+   "month": 5,
+   "day": 20,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز بیداری ملی",
+    "en": "National Awakening Day",
+    "id": "Hari Kebangkitan Nasional"
+   }
+  },
+  {
+   "id": "id-pancasila",
+   "calendar": "G",
+   "month": 6,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز پانچاسیلا",
+    "en": "Pancasila Day",
+    "id": "Hari Lahir Pancasila"
+   }
+  },
+  {
+   "id": "id-independence-day",
+   "calendar": "G",
+   "month": 8,
+   "day": 17,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز استقلال اندونزی",
+    "en": "Independence Day",
+    "id": "Hari Kemerdekaan"
+   }
+  },
+  {
+   "id": "id-youth-pledge",
+   "calendar": "G",
+   "month": 10,
+   "day": 28,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز سوگند جوانان",
+    "en": "Youth Pledge Day",
+    "id": "Hari Sumpah Pemuda"
+   }
+  },
+  {
+   "id": "id-heroes-day",
+   "calendar": "G",
+   "month": 11,
+   "day": 10,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز قهرمانان",
+    "en": "Heroes' Day",
+    "id": "Hari Pahlawan"
+   }
+  },
+  {
+   "id": "id-mothers-day",
+   "calendar": "G",
+   "month": 12,
+   "day": 22,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز مادر",
+    "en": "Mother's Day",
+    "id": "Hari Ibu"
+   }
+  },
+  {
+   "id": "id-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  },
+  {
+   "id": "id-muharram-1",
+   "calendar": "H",
+   "month": 1,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "آغاز سال هجری قمری",
+    "en": "Islamic New Year",
+    "ar": "رأس السنة الهجرية",
+    "tr": "Hicri Yılbaşı",
+    "ur": "اسلامی نیا سال",
+    "hi": "इस्लामी नववर्ष",
+    "id": "Tahun Baru Islam"
+   }
+  },
+  {
+   "id": "id-mawlid",
+   "calendar": "H",
+   "month": 3,
+   "day": 12,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "میلاد پیامبر اکرم (به روایت اهل سنت)",
+    "en": "Mawlid an-Nabi (Prophet's birthday)",
+    "ar": "المولد النبوي الشريف",
+    "ur": "عیدِ میلادالنبیؐ",
+    "hi": "मिलाद-उन-नबी",
+    "id": "Maulid Nabi Muhammad SAW"
+   }
+  },
+  {
+   "id": "id-isra-miraj",
+   "calendar": "H",
+   "month": 7,
+   "day": 27,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "معراج پیامبر اکرم",
+    "en": "Isra and Mi'raj",
+    "ar": "ليلة الإسراء والمعراج",
+    "ur": "شبِ معراج",
+    "id": "Isra Mi'raj Nabi Muhammad SAW"
+   }
+  },
+  {
+   "id": "id-ramadan-1",
+   "calendar": "H",
+   "month": 9,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "آغاز ماه رمضان",
+    "en": "Start of Ramadan",
+    "ar": "بداية شهر رمضان",
+    "tr": "Ramazan başlangıcı",
+    "ur": "آغازِ رمضان",
+    "id": "Awal Ramadan"
+   }
+  },
+  {
+   "id": "id-nuzul-quran",
+   "calendar": "H",
+   "month": 9,
+   "day": 17,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "نزول قرآن (۱۷ رمضان)",
+    "en": "Nuzul al-Qur'an (17 Ramadan)",
+    "id": "Nuzulul Quran"
+   }
+  },
+  {
+   "id": "id-eid-fitr-1",
+   "calendar": "H",
+   "month": 10,
+   "day": 1,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر",
+    "en": "Eid al-Fitr",
+    "ar": "عيد الفطر",
+    "tr": "Ramazan Bayramı",
+    "ur": "عیدالفطر",
+    "hi": "ईद-उल-फ़ित्र",
+    "id": "Idulfitri"
+   }
+  },
+  {
+   "id": "id-eid-fitr-2",
+   "calendar": "H",
+   "month": 10,
+   "day": 2,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید فطر (روز دوم)",
+    "en": "Eid al-Fitr (day 2)",
+    "ar": "عيد الفطر (اليوم الثاني)",
+    "tr": "Ramazan Bayramı (2. gün)",
+    "ur": "عیدالفطر (دوسرا دن)",
+    "hi": "ईद-उल-फ़ित्र (दूसरा दिन)",
+    "id": "Idulfitri (hari ke-2)"
+   }
+  },
+  {
+   "id": "id-eid-adha",
+   "calendar": "H",
+   "month": 12,
+   "day": 10,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید سعید قربان",
+    "en": "Eid al-Adha",
+    "ar": "عيد الأضحى",
+    "tr": "Kurban Bayramı",
+    "ur": "عیدالاضحیٰ",
+    "hi": "ईद-उल-अज़हा (बकरीद)",
+    "id": "Iduladha"
+   }
+  }
+ ]
+}

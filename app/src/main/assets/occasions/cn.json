@@ -1,0 +1,220 @@
+{
+ "schema": 1,
+ "regionId": "cn",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "cn-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "cn-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "cn-arbor-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 12,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز درخت‌کاری",
+    "en": "Arbor Day",
+    "zh": "植树节"
+   }
+  },
+  {
+   "id": "cn-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "cn-youth-day",
+   "calendar": "G",
+   "month": 5,
+   "day": 4,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جوانان",
+    "en": "Youth Day",
+    "zh": "青年节"
+   }
+  },
+  {
+   "id": "cn-childrens-day",
+   "calendar": "G",
+   "month": 6,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز کودک",
+    "en": "Children's Day",
+    "zh": "儿童节"
+   }
+  },
+  {
+   "id": "cn-party-day",
+   "calendar": "G",
+   "month": 7,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "سالروز تأسیس حزب کمونیست",
+    "en": "CPC Founding Anniversary",
+    "zh": "建党节"
+   }
+  },
+  {
+   "id": "cn-army-day",
+   "calendar": "G",
+   "month": 8,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز ارتش آزادیبخش",
+    "en": "PLA Day",
+    "zh": "建军节"
+   }
+  },
+  {
+   "id": "cn-teachers-day",
+   "calendar": "G",
+   "month": 9,
+   "day": 10,
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز معلم",
+    "en": "Teachers' Day",
+    "zh": "教师节"
+   }
+  },
+  {
+   "id": "cn-national-day-1",
+   "calendar": "G",
+   "month": 10,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز ملی چین",
+    "en": "National Day",
+    "zh": "国庆节"
+   }
+  },
+  {
+   "id": "cn-national-day-2",
+   "calendar": "G",
+   "month": 10,
+   "day": 2,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز ملی چین (روز دوم)",
+    "en": "National Day (day 2)",
+    "zh": "国庆节（第二天）"
+   }
+  },
+  {
+   "id": "cn-national-day-3",
+   "calendar": "G",
+   "month": 10,
+   "day": 3,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز ملی چین (روز سوم)",
+    "en": "National Day (day 3)",
+    "zh": "国庆节（第三天）"
+   }
+  },
+  {
+   "id": "cn-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  }
+ ]
+}

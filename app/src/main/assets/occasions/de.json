@@ -1,0 +1,300 @@
+{
+ "schema": 1,
+ "regionId": "de",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "de-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "de-epiphany",
+   "calendar": "G",
+   "month": 1,
+   "day": 6,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "عید ظهور (۶ ژانویه)",
+    "en": "Epiphany",
+    "de": "Heilige Drei Könige",
+    "es": "Epifanía del Señor",
+    "it": "Epifania"
+   }
+  },
+  {
+   "id": "de-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "de-good-friday",
+   "rule": {
+    "type": "easterOffset",
+    "days": -2
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "جمعهٔ نیک (جمعه پیش از عید پاک)",
+    "en": "Good Friday",
+    "de": "Karfreitag",
+    "es": "Viernes Santo",
+    "pt": "Sexta-feira Santa",
+    "id": "Wafat Yesus Kristus",
+    "hi": "गुड फ्राइडे"
+   }
+  },
+  {
+   "id": "de-easter-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 0
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه عید پاک",
+    "en": "Easter Sunday",
+    "de": "Ostersonntag",
+    "fr": "Pâques",
+    "es": "Domingo de Resurrección",
+    "it": "Pasqua",
+    "pt": "Domingo de Páscoa"
+   }
+  },
+  {
+   "id": "de-easter-monday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 1
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "دوشنبه عید پاک",
+    "en": "Easter Monday",
+    "de": "Ostermontag",
+    "fr": "Lundi de Pâques",
+    "it": "Lunedì dell'Angelo (Pasquetta)"
+   }
+  },
+  {
+   "id": "de-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "de-ascension",
+   "rule": {
+    "type": "easterOffset",
+    "days": 39
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "عید صعود مسیح",
+    "en": "Ascension Day",
+    "de": "Christi Himmelfahrt",
+    "fr": "Ascension",
+    "id": "Kenaikan Yesus Kristus"
+   }
+  },
+  {
+   "id": "de-mothers-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 5,
+    "weekday": 7,
+    "n": 2
+   },
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز مادر (یکشنبه دوم ماه مه)",
+    "en": "Mother's Day",
+    "de": "Muttertag",
+    "pt": "Dia das Mães"
+   }
+  },
+  {
+   "id": "de-whit-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 49
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه پنطیکاست",
+    "en": "Whit Sunday (Pentecost)",
+    "de": "Pfingstsonntag"
+   }
+  },
+  {
+   "id": "de-whit-monday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 50
+   },
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "دوشنبه پنطیکاست",
+    "en": "Whit Monday",
+    "de": "Pfingstmontag",
+    "fr": "Lundi de Pentecôte"
+   }
+  },
+  {
+   "id": "de-corpus-christi",
+   "rule": {
+    "type": "easterOffset",
+    "days": 60
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "عید تن مسیح",
+    "en": "Corpus Christi",
+    "de": "Fronleichnam",
+    "pt": "Corpus Christi"
+   }
+  },
+  {
+   "id": "de-unity-day",
+   "calendar": "G",
+   "month": 10,
+   "day": 3,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز وحدت آلمان",
+    "en": "German Unity Day",
+    "de": "Tag der Deutschen Einheit"
+   }
+  },
+  {
+   "id": "de-reformation-day",
+   "calendar": "G",
+   "month": 10,
+   "day": 31,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "روز اصلاح دینی (در برخی ایالت‌ها تعطیل)",
+    "en": "Reformation Day (holiday in some states)",
+    "de": "Reformationstag"
+   }
+  },
+  {
+   "id": "de-christmas-eve",
+   "calendar": "G",
+   "month": 12,
+   "day": 24,
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "شب کریسمس",
+    "en": "Christmas Eve",
+    "de": "Heiligabend"
+   }
+  },
+  {
+   "id": "de-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  },
+  {
+   "id": "de-boxing-day",
+   "calendar": "G",
+   "month": 12,
+   "day": 26,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "روز بعد از کریسمس",
+    "en": "Boxing Day",
+    "de": "Zweiter Weihnachtstag",
+    "it": "Santo Stefano"
+   }
+  }
+ ]
+}

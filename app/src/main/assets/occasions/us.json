@@ -1,0 +1,303 @@
+{
+ "schema": 1,
+ "regionId": "us",
+ "datasetVersion": 1,
+ "publishedAt": "2026-10-22",
+ "minAppVersionCode": 30,
+ "occasions": [
+  {
+   "id": "us-new-year",
+   "calendar": "G",
+   "month": 1,
+   "day": 1,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "سال نو میلادی",
+    "en": "New Year's Day",
+    "ar": "رأس السنة الميلادية",
+    "tr": "Yılbaşı",
+    "ur": "نیا سال",
+    "hi": "नया साल",
+    "ru": "Новый год",
+    "de": "Neujahr",
+    "fr": "Jour de l'an",
+    "es": "Año Nuevo",
+    "it": "Capodanno",
+    "pt": "Confraternização Universal (Ano-Novo)",
+    "id": "Tahun Baru Masehi",
+    "zh": "元旦"
+   }
+  },
+  {
+   "id": "us-mlk-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 1,
+    "weekday": 1,
+    "n": 3
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز مارتین لوتر کینگ",
+    "en": "Martin Luther King Jr. Day"
+   }
+  },
+  {
+   "id": "us-valentine",
+   "calendar": "G",
+   "month": 2,
+   "day": 14,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز ولنتاین",
+    "en": "Valentine's Day"
+   }
+  },
+  {
+   "id": "us-presidents-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 2,
+    "weekday": 1,
+    "n": 3
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز رؤسای جمهور",
+    "en": "Presidents' Day"
+   }
+  },
+  {
+   "id": "us-womens-day",
+   "calendar": "G",
+   "month": 3,
+   "day": 8,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی زن",
+    "en": "International Women's Day",
+    "ar": "اليوم العالمي للمرأة",
+    "tr": "Dünya Kadınlar Günü",
+    "ur": "عالمی یومِ خواتین",
+    "hi": "अंतर्राष्ट्रीय महिला दिवस",
+    "ru": "Международный женский день",
+    "de": "Internationaler Frauentag",
+    "fr": "Journée internationale des droits des femmes",
+    "es": "Día Internacional de la Mujer",
+    "it": "Giornata internazionale della donna",
+    "pt": "Dia Internacional da Mulher",
+    "id": "Hari Perempuan Internasional",
+    "zh": "国际妇女节"
+   }
+  },
+  {
+   "id": "us-easter-sunday",
+   "rule": {
+    "type": "easterOffset",
+    "days": 0
+   },
+   "category": "RELIGIOUS",
+   "holiday": false,
+   "titles": {
+    "fa": "یکشنبه عید پاک",
+    "en": "Easter Sunday",
+    "de": "Ostersonntag",
+    "fr": "Pâques",
+    "es": "Domingo de Resurrección",
+    "it": "Pasqua",
+    "pt": "Domingo de Páscoa"
+   }
+  },
+  {
+   "id": "us-labour",
+   "calendar": "G",
+   "month": 5,
+   "day": 1,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز جهانی کارگر",
+    "en": "International Workers' Day",
+    "ar": "عيد العمال العالمي",
+    "tr": "Emek ve Dayanışma Günü",
+    "ur": "یوم مزدور",
+    "hi": "अंतर्राष्ट्रीय श्रमिक दिवस",
+    "ru": "Праздник Весны и Труда",
+    "de": "Tag der Arbeit",
+    "fr": "Fête du Travail",
+    "es": "Día del Trabajo",
+    "it": "Festa dei lavoratori",
+    "pt": "Dia do Trabalhador",
+    "id": "Hari Buruh Internasional",
+    "zh": "国际劳动节"
+   }
+  },
+  {
+   "id": "us-mothers-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 5,
+    "weekday": 7,
+    "n": 2
+   },
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز مادر (یکشنبه دوم ماه مه)",
+    "en": "Mother's Day",
+    "de": "Muttertag",
+    "pt": "Dia das Mães"
+   }
+  },
+  {
+   "id": "us-memorial-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 5,
+    "weekday": 1,
+    "n": -1
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز یادبود",
+    "en": "Memorial Day"
+   }
+  },
+  {
+   "id": "us-juneteenth",
+   "calendar": "G",
+   "month": 6,
+   "day": 19,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "جونتینث (روز آزادی بردگان)",
+    "en": "Juneteenth"
+   }
+  },
+  {
+   "id": "us-fathers-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 6,
+    "weekday": 7,
+    "n": 3
+   },
+   "category": "NATIONAL",
+   "holiday": false,
+   "titles": {
+    "fa": "روز پدر (یکشنبه سوم ژوئن)",
+    "en": "Father's Day"
+   }
+  },
+  {
+   "id": "us-independence-day",
+   "calendar": "G",
+   "month": 7,
+   "day": 4,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز استقلال آمریکا",
+    "en": "Independence Day"
+   }
+  },
+  {
+   "id": "us-labor-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 9,
+    "weekday": 1,
+    "n": 1
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز کار (کارگر آمریکا)",
+    "en": "Labor Day"
+   }
+  },
+  {
+   "id": "us-columbus-day",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 10,
+    "weekday": 1,
+    "n": 2
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز کریستف کلمب / بومیان آمریکا",
+    "en": "Columbus Day / Indigenous Peoples' Day"
+   }
+  },
+  {
+   "id": "us-halloween",
+   "calendar": "G",
+   "month": 10,
+   "day": 31,
+   "category": "GLOBAL",
+   "holiday": false,
+   "titles": {
+    "fa": "هالووین",
+    "en": "Halloween"
+   }
+  },
+  {
+   "id": "us-veterans-day",
+   "calendar": "G",
+   "month": 11,
+   "day": 11,
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز کهنه‌سربازان",
+    "en": "Veterans Day"
+   }
+  },
+  {
+   "id": "us-thanksgiving",
+   "rule": {
+    "type": "nthWeekday",
+    "month": 11,
+    "weekday": 4,
+    "n": 4
+   },
+   "category": "NATIONAL",
+   "holiday": true,
+   "titles": {
+    "fa": "روز شکرگزاری",
+    "en": "Thanksgiving"
+   }
+  },
+  {
+   "id": "us-christmas",
+   "calendar": "G",
+   "month": 12,
+   "day": 25,
+   "category": "RELIGIOUS",
+   "holiday": true,
+   "titles": {
+    "fa": "کریسمس",
+    "en": "Christmas Day",
+    "ar": "عيد الميلاد المجيد",
+    "ur": "کرسمس",
+    "hi": "क्रिसमस",
+    "de": "Erster Weihnachtstag",
+    "fr": "Noël",
+    "es": "Navidad",
+    "it": "Natale",
+    "pt": "Natal",
+    "id": "Hari Raya Natal",
+    "zh": "圣诞节"
+   }
+  }
+ ]
+}
