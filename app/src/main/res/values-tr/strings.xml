@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">Her şey çevrimdışı çalışır. Verileriniz cihazınızda kalır. İnternet yalnızca özel gün listesini güncellemek için ve ancak bir adres belirlediyseniz kullanılır.</string>
+    <string name="about_sources" formatted="false">Günlük fal, Şirazlı Hâfız\'ın beyitlerini kullanır (kamu malı); yorumlar bu uygulama için yazılmış özgün metinlerdir. Özel günler uygulamayla gelen verilerden alınır; “Doğrulanmadı” işaretli tarihleri kontrol edin.</string>
+    <string name="about_tagline" formatted="false">Takvim, planlayıcı ve günlük arkadaşınız</string>
+    <string name="about_title" formatted="false">Hakkında</string>
+    <string name="about_version" formatted="false">Sürüm</string>
+    <string name="account_active" formatted="false">Etkin hesap</string>
+    <string name="account_name" formatted="false">Hesap adı</string>
+    <string name="accounts_count_format">Hesaplar: %1$d / %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">En fazla 3 hesabınız olabilir.</string>
+    <string name="accounts_title" formatted="false">Hesaplar</string>
+    <string name="add" formatted="false">Ekle</string>
+    <string name="add_account" formatted="false">Yeni hesap</string>
+    <string name="add_block" formatted="false">Blok ekle</string>
+    <string name="add_event" formatted="false">Özel gün ekle</string>
+    <string name="add_goal" formatted="false">Yeni hedef</string>
+    <string name="add_habit" formatted="false">Yeni alışkanlık</string>
+    <string name="add_item_hint" formatted="false">Bir öğe ekleyin</string>
+    <string name="add_list" formatted="false">Yeni liste</string>
+    <string name="add_task" formatted="false">Yeni görev</string>
+    <string name="app_name" formatted="false">Nexora Plus</string>
+    <string name="back" formatted="false">Geri</string>
+    <string name="backup_export" formatted="false">Yedeği dışa aktar</string>
+    <string name="backup_export_done" formatted="false">Yedek kaydedildi.</string>
+    <string name="backup_export_failed" formatted="false">Yedek kaydedilemedi.</string>
+    <string name="backup_import" formatted="false">Yedeği içe aktar</string>
+    <string name="backup_import_done">Yedek içe aktarıldı (%1$d hesap eklendi).</string>
+    <string name="backup_import_invalid" formatted="false">Bu dosya geçerli bir Nexora yedeği değil.</string>
+    <string name="backup_import_too_many" formatted="false">İçe aktarma 3 hesap sınırını aşar. Önce bir hesabı silin.</string>
+    <string name="backup_import_unsupported" formatted="false">Bu yedek uygulamanın daha yeni bir sürümüyle oluşturulmuş.</string>
+    <string name="block_name" formatted="false">Blok adı</string>
+    <string name="cal_gregorian" formatted="false">Miladi</string>
+    <string name="cal_hijri" formatted="false">Hicri</string>
+    <string name="cal_jalali" formatted="false">Celali</string>
+    <string name="calendar_gregorian" formatted="false">Miladi</string>
+    <string name="calendar_hijri" formatted="false">Hicri</string>
+    <string name="calendar_jalali" formatted="false">Celali (Hicri Şemsi)</string>
+    <string name="cancel" formatted="false">İptal</string>
+    <string name="cat_global" formatted="false">Dünya geneli</string>
+    <string name="cat_national" formatted="false">Ulusal</string>
+    <string name="cat_official" formatted="false">Resmî</string>
+    <string name="cat_religious" formatted="false">Dinî</string>
+    <string name="cell_text" formatted="false">Metin</string>
+    <string name="clear" formatted="false">Temizle</string>
+    <string name="confirm_delete_account_message" formatted="false">Bu hesap; tüm görevleri, hedefleri, alışkanlıkları, listeleri, programı ve geçmişiyle birlikte kalıcı olarak silinecek.</string>
+    <string name="confirm_delete_message" formatted="false">Bu öğe silinecek. Bu işlem geri alınamaz.</string>
+    <string name="daily_fortune" formatted="false">Günlük fal</string>
+    <string name="decrease" formatted="false">Azalt</string>
+    <string name="default_account_name" formatted="false">Hesabım</string>
+    <string name="default_saved" formatted="false">Varsayılan olarak kaydedildi</string>
+    <string name="delete" formatted="false">Sil</string>
+    <string name="due_date" formatted="false">Son tarih</string>
+    <string name="edit" formatted="false">Düzenle</string>
+    <string name="edit_account" formatted="false">Hesabı düzenle</string>
+    <string name="edit_cell" formatted="false">Hücreyi düzenle</string>
+    <string name="edit_goal" formatted="false">Hedefi düzenle</string>
+    <string name="edit_habit" formatted="false">Alışkanlığı düzenle</string>
+    <string name="edit_list" formatted="false">Listeyi düzenle</string>
+    <string name="edit_task" formatted="false">Görevi düzenle</string>
+    <string name="empty_goals_message" formatted="false">Bir hedef ekleyin ve ilerlemenizi izleyin.</string>
+    <string name="empty_goals_title" formatted="false">Henüz hedef yok</string>
+    <string name="empty_habits_message" formatted="false">Bir alışkanlık ekleyin ve seri oluşturmak için her gün işaretleyin.</string>
+    <string name="empty_habits_title" formatted="false">Henüz alışkanlık yok</string>
+    <string name="empty_lists_message" formatted="false">Alışveriş, seyahat ya da başka bir şey için liste oluşturun.</string>
+    <string name="empty_lists_title" formatted="false">Henüz liste yok</string>
+    <string name="empty_tasks_message" formatted="false">+ düğmesiyle ilk görevinizi ekleyin.</string>
+    <string name="empty_tasks_title" formatted="false">Henüz görev yok</string>
+    <string name="focus_completed" formatted="false">Tamamlandı</string>
+    <string name="focus_dnd" formatted="false">Rahatsız Etmeyin</string>
+    <string name="focus_dnd_hint" formatted="false">Oturum boyunca bildirimleri sessize al</string>
+    <string name="focus_dnd_needs_access" formatted="false">Rahatsız Etmeyin erişimi gerekir</string>
+    <string name="focus_history" formatted="false">Geçmiş</string>
+    <string name="focus_history_empty" formatted="false">Henüz oturum yok.</string>
+    <string name="focus_open_settings" formatted="false">Erişim ayarlarını aç</string>
+    <string name="focus_start" formatted="false">Başlat</string>
+    <string name="focus_stop" formatted="false">Durdur</string>
+    <string name="focus_stopped_early" formatted="false">Erken durduruldu</string>
+    <string name="focus_title" formatted="false">Derin odak</string>
+    <string name="fortune_disclaimer" formatted="false">Beyitler Hâfız\'a aittir (kamu malı); metin basımlar arasında küçük farklar gösterir. Yorumlar ilham içindir, kehanet değildir.</string>
+    <string name="fortune_history" formatted="false">Önceki günler</string>
+    <string name="fortune_meaning_1" formatted="false">Başlangıçlar kolay görünüp sonra zorluklarını gösterebilir. Sakin ilerleyin; sabır zor bir başlangıcı istikrarlı ilerlemeye çevirir.</string>
+    <string name="fortune_meaning_10" formatted="false">Yeni bir şeye başlamak için güzel bir gün. Eski alışkanlığı bozun, yeni bir plan deneyin.</string>
+    <string name="fortune_meaning_11" formatted="false">Bir aksilikten sonra umut sizi ileri taşıyan rüzgârdır. Denemeye devam edin; dost bir yüz çıkabilir.</string>
+    <string name="fortune_meaning_12" formatted="false">Alçakgönüllülük gözleri açar. Tanıştığınız herkesten öğrenin, bakışınız berraklaşsın.</string>
+    <string name="fortune_meaning_2" formatted="false">Sessiz bir ilham anı yakın. Bugün küçük işaretlere dikkat edin ve size verilenler için şükredin.</string>
+    <string name="fortune_meaning_3" formatted="false">Zor bir dönem geçiyor. Kaybedilen yeni bir biçimde geri dönebilir; umudu canlı tutun.</string>
+    <string name="fortune_meaning_4" formatted="false">Güzel anılar güç kaynağıdır. Bugün sevdiğiniz birine ulaşın.</string>
+    <string name="fortune_meaning_5" formatted="false">Uzakta aradığınız şey belki zaten içinizdedir. Başka yere bakmadan önce içinize bakın.</string>
+    <string name="fortune_meaning_6" formatted="false">Bir haber ya da buluşma yolda olabilir. Ulaşırken nazik olun, yanıt da nazik gelsin.</string>
+    <string name="fortune_meaning_7" formatted="false">Dünyevi kaygılar sizi bağlamasın. Sizi aşağı çekenden kurtulun ve daha yükseği hedefleyin.</string>
+    <string name="fortune_meaning_8" formatted="false">Özgürlük daha azına ihtiyaç duymaktan gelir. Bugün bırakacağınız bir şey seçin ve hafifliğini hissedin.</string>
+    <string name="fortune_meaning_9" formatted="false">Dostlara sıcak, karşı çıkanlara adil olun. Güzel davranış tartışmadan çok şey çözer.</string>
+    <string name="fortune_meaning_label" formatted="false">Yorum</string>
+    <string name="greeting_afternoon" formatted="false">İyi günler</string>
+    <string name="greeting_evening" formatted="false">İyi akşamlar</string>
+    <string name="greeting_morning" formatted="false">Günaydın</string>
+    <string name="greeting_night" formatted="false">İyi geceler</string>
+    <string name="holiday" formatted="false">Tatil</string>
+    <string name="increase" formatted="false">Artır</string>
+    <string name="items_done_format">%1$d / %2$d tamamlandı</string>
+    <string name="kind_event" formatted="false">Özel gün</string>
+    <string name="kind_goal" formatted="false">Hedef</string>
+    <string name="kind_habit" formatted="false">Alışkanlık</string>
+    <string name="kind_list" formatted="false">Liste</string>
+    <string name="kind_list_item" formatted="false">Liste öğesi</string>
+    <string name="kind_task" formatted="false">Görev</string>
+    <string name="language_device_default" formatted="false">Cihaz varsayılanı</string>
+    <string name="lists_title" formatted="false">Listeler</string>
+    <string name="manage_blocks" formatted="false">Blokları yönet</string>
+    <string name="mark_today" formatted="false">Bugünü işaretle</string>
+    <string name="minutes_format">%1$d dk</string>
+    <string name="minutes_unit" formatted="false">Dakika</string>
+    <string name="move_down" formatted="false">Aşağı taşı</string>
+    <string name="move_up" formatted="false">Yukarı taşı</string>
+    <string name="my_event_prefix">Özel günüm: %1$s</string>
+    <string name="my_events" formatted="false">Özel günlerim</string>
+    <string name="nav_calendar" formatted="false">Takvim</string>
+    <string name="nav_home" formatted="false">Ana sayfa</string>
+    <string name="nav_more" formatted="false">Daha fazla</string>
+    <string name="nav_tasks" formatted="false">Görevler</string>
+    <string name="nav_weekly" formatted="false">Haftalık</string>
+    <string name="next" formatted="false">Sonraki</string>
+    <string name="no_blocks_message" formatted="false">Haftalık programınızı oluşturmaya başlamak için bir zaman bloğu ekleyin.</string>
+    <string name="no_blocks_title" formatted="false">Henüz blok yok</string>
+    <string name="no_color" formatted="false">Renksiz</string>
+    <string name="no_occasions_day" formatted="false">Bu günde özel gün yok.</string>
+    <string name="no_occasions_today" formatted="false">Bugün özel gün yok.</string>
+    <string name="note" formatted="false">Not</string>
+    <string name="ok" formatted="false">Tamam</string>
+    <string name="overdue" formatted="false">Gecikmiş</string>
+    <string name="percent_format">%%%1$d</string>
+    <string name="pin" formatted="false">Sabitle</string>
+    <string name="previous" formatted="false">Önceki</string>
+    <string name="priority_high" formatted="false">Yüksek</string>
+    <string name="priority_low" formatted="false">Düşük</string>
+    <string name="priority_normal" formatted="false">Normal</string>
+    <string name="progress" formatted="false">İlerleme</string>
+    <string name="quote_1" formatted="false">Her gün atılan küçük adımlar büyük değişimlere dönüşür.</string>
+    <string name="quote_10" formatted="false">Geleceğini bugünün alışkanlıkları kurar.</string>
+    <string name="quote_2" formatted="false">Bulunduğun yerden başla, elindekini kullan, yapabildiğini yap.</string>
+    <string name="quote_3" formatted="false">Mükemmelliğe değil, ilerlemeye odaklan.</string>
+    <string name="quote_4" formatted="false">Dinlenmek işin bir parçasıdır, ondan bir ara değil.</string>
+    <string name="quote_5" formatted="false">Bugün yeni bir sayfa. Gurur duyacağın bir şey yaz.</string>
+    <string name="quote_6" formatted="false">Her gün yaptıkların, ara sıra yaptıklarından daha önemlidir.</string>
+    <string name="quote_7" formatted="false">Kendine karşı sabırlı ol; gelişim zaman alır.</string>
+    <string name="quote_8" formatted="false">Tamamlanmış bir görev, on kusursuz plandan değerlidir.</string>
+    <string name="quote_9" formatted="false">Nezaket hiçbir şeye mal olmaz, her şeyi değiştirir.</string>
+    <string name="repeat_yearly" formatted="false">Her yıl tekrarla</string>
+    <string name="repeats_yearly" formatted="false">Her yıl</string>
+    <string name="reset" formatted="false">Sıfırla</string>
+    <string name="reset_blocks_message" formatted="false">Bloklar ve hücreler, kaydettiğiniz varsayılanla (veya fabrika varsayılanıyla) değiştirilecek.</string>
+    <string name="reset_to_default" formatted="false">Varsayılana dön</string>
+    <string name="save" formatted="false">Kaydet</string>
+    <string name="save_as_default" formatted="false">Varsayılan olarak kaydet</string>
+    <string name="search" formatted="false">Ara</string>
+    <string name="search_empty_message" formatted="false">Başka sözcükler deneyin.</string>
+    <string name="search_empty_title" formatted="false">Sonuç yok</string>
+    <string name="search_hint" formatted="false">Görev, liste, özel gün ara…</string>
+    <string name="search_title" formatted="false">Arama</string>
+    <string name="set_due_date" formatted="false">Son tarih belirle</string>
+    <string name="set_target_date" formatted="false">Hedef tarih belirle</string>
+    <string name="settings_auto" formatted="false">Otomatik</string>
+    <string name="settings_auto_update" formatted="false">Otomatik güncelle</string>
+    <string name="settings_backup" formatted="false">Yedekleme</string>
+    <string name="settings_backup_hint" formatted="false">Verilerinizi bir JSON dosyasına kaydedin veya ondan geri yükleyin.</string>
+    <string name="settings_calendar" formatted="false">Takvim ve özel günler</string>
+    <string name="settings_calendar_type" formatted="false">Takvim türü</string>
+    <string name="settings_general" formatted="false">Genel</string>
+    <string name="settings_hijri_correction" formatted="false">Hicri tarih düzeltmesi</string>
+    <string name="settings_hijri_correction_hint" formatted="false">Yerel hilal gözlemine uymak için gün kaydırın</string>
+    <string name="settings_language" formatted="false">Dil</string>
+    <string name="settings_occasions_update" formatted="false">Özel gün güncellemeleri</string>
+    <string name="settings_region" formatted="false">Özel gün ülkesi</string>
+    <string name="settings_show_hijri" formatted="false">Hicri tarihi de göster</string>
+    <string name="settings_theme" formatted="false">Tema</string>
+    <string name="settings_title" formatted="false">Ayarlar</string>
+    <string name="settings_update_now" formatted="false">Şimdi güncelle</string>
+    <string name="settings_update_url" formatted="false">Güncelleme adresi</string>
+    <string name="settings_update_url_empty" formatted="false">Ayarlanmadı</string>
+    <string name="settings_update_url_hint" formatted="false">Bölge kodunun yerine {region} yazın, örneğin ir veya global.</string>
+    <string name="settings_updating" formatted="false">Güncelleniyor…</string>
+    <string name="settings_week_start" formatted="false">Haftanın ilk günü</string>
+    <string name="source_bundled" formatted="false">Yerleşik</string>
+    <string name="source_online" formatted="false">Çevrimiçi</string>
+    <string name="stats_current_streak">En iyi güncel seri: %1$d gün</string>
+    <string name="stats_done_of">%1$d / %2$d tamamlandı</string>
+    <string name="stats_focus_sessions">Oturum: %1$d</string>
+    <string name="stats_focus_total">Toplam odak: %1$d dk</string>
+    <string name="stats_focus_week">Son 7 gün: %1$d dk</string>
+    <string name="stats_habits_count">Alışkanlık: %1$d</string>
+    <string name="stats_lists_count">Liste: %1$d</string>
+    <string name="stats_longest_streak">En uzun seri: %1$d gün</string>
+    <string name="stats_overdue">Geciken görev: %1$d</string>
+    <string name="stats_title" formatted="false">İstatistikler</string>
+    <string name="streak_format">%1$d günlük seri</string>
+    <string name="sync_status_error" formatted="false">Hata</string>
+    <string name="sync_status_invalid" formatted="false">Geçersiz veri</string>
+    <string name="sync_status_not_configured" formatted="false">Ayarlanmadı</string>
+    <string name="sync_status_ok" formatted="false">Güncellendi</string>
+    <string name="sync_status_up_to_date" formatted="false">Güncel</string>
+    <string name="sync_summary_failed">%1$d başarısız</string>
+    <string name="sync_summary_not_configured" formatted="false">Önce bir güncelleme adresi belirleyin.</string>
+    <string name="sync_summary_up_to_date" formatted="false">Her şey güncel.</string>
+    <string name="sync_summary_updated">%1$d güncellendi</string>
+    <string name="tab_goals" formatted="false">Hedefler</string>
+    <string name="tab_habits" formatted="false">Alışkanlıklar</string>
+    <string name="tab_tasks" formatted="false">Görevler</string>
+    <string name="target" formatted="false">Hedef</string>
+    <string name="theme_dark" formatted="false">Koyu</string>
+    <string name="theme_light" formatted="false">Açık</string>
+    <string name="theme_system" formatted="false">Sistem</string>
+    <string name="title" formatted="false">Başlık</string>
+    <string name="today" formatted="false">Bugün</string>
+    <string name="today_in_calendar" formatted="false">Takvimde bugün</string>
+    <string name="unverified" formatted="false">Doğrulanmadı</string>
+    <string name="week_starts_on" formatted="false">Hafta başlangıcı</string>
+    <string name="widget_description" formatted="false">Bugünün tarihi ve özel günleri</string>
+    <string name="widget_name" formatted="false">Nexora Bugün</string>
+    <string name="widget_no_occasion" formatted="false">Bugün özel gün yok</string>
+    <string-array name="jalali_months">
+        <item>Ferverdin</item>
+        <item>Ordibeheşt</item>
+        <item>Hordad</item>
+        <item>Tir</item>
+        <item>Mordad</item>
+        <item>Şehriver</item>
+        <item>Mihr</item>
+        <item>Aban</item>
+        <item>Azer</item>
+        <item>Dey</item>
+        <item>Behmen</item>
+        <item>İsfend</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>Muharrem</item>
+        <item>Safer</item>
+        <item>Rebiülevvel</item>
+        <item>Rebiülahir</item>
+        <item>Cemaziyelevvel</item>
+        <item>Cemaziyelahir</item>
+        <item>Recep</item>
+        <item>Şaban</item>
+        <item>Ramazan</item>
+        <item>Şevval</item>
+        <item>Zilkade</item>
+        <item>Zilhicce</item>
+    </string-array>
+</resources>

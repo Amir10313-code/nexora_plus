@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">كل شيء يعمل دون إنترنت وتبقى بياناتك على جهازك. يُستخدم الإنترنت فقط لتحديث قائمة المناسبات، وفقط إذا حددت عنواناً لذلك.</string>
+    <string name="about_sources" formatted="false">تعتمد الفأل اليومي على أبيات حافظ الشيرازي (ملكية عامة)، أما التفسيرات فهي نصوص أصلية كُتبت لهذا التطبيق. تأتي المناسبات من البيانات المرفقة؛ يُرجى التحقق من التواريخ المعلَّمة بـ«غير مؤكد».</string>
+    <string name="about_tagline" formatted="false">تقويم ومخطط ورفيق يومي</string>
+    <string name="about_title" formatted="false">حول التطبيق</string>
+    <string name="about_version" formatted="false">الإصدار</string>
+    <string name="account_active" formatted="false">الحساب النشط</string>
+    <string name="account_name" formatted="false">اسم الحساب</string>
+    <string name="accounts_count_format">الحسابات: %1$d من %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">يمكنك امتلاك 3 حسابات كحد أقصى.</string>
+    <string name="accounts_title" formatted="false">الحسابات</string>
+    <string name="add" formatted="false">إضافة</string>
+    <string name="add_account" formatted="false">حساب جديد</string>
+    <string name="add_block" formatted="false">إضافة فترة</string>
+    <string name="add_event" formatted="false">إضافة مناسبة</string>
+    <string name="add_goal" formatted="false">هدف جديد</string>
+    <string name="add_habit" formatted="false">عادة جديدة</string>
+    <string name="add_item_hint" formatted="false">أضف عنصراً</string>
+    <string name="add_list" formatted="false">قائمة جديدة</string>
+    <string name="add_task" formatted="false">مهمة جديدة</string>
+    <string name="app_name" formatted="false">نكسورا بلس</string>
+    <string name="back" formatted="false">رجوع</string>
+    <string name="backup_export" formatted="false">تصدير نسخة احتياطية</string>
+    <string name="backup_export_done" formatted="false">تم حفظ النسخة الاحتياطية.</string>
+    <string name="backup_export_failed" formatted="false">تعذّر حفظ النسخة الاحتياطية.</string>
+    <string name="backup_import" formatted="false">استيراد نسخة احتياطية</string>
+    <string name="backup_import_done">تم استيراد النسخة الاحتياطية (أُضيف %1$d حساب).</string>
+    <string name="backup_import_invalid" formatted="false">هذا الملف ليس نسخة احتياطية صالحة من نكسورا.</string>
+    <string name="backup_import_too_many" formatted="false">الاستيراد سيتجاوز حد 3 حسابات. احذف حساباً أولاً.</string>
+    <string name="backup_import_unsupported" formatted="false">أُنشئت هذه النسخة بإصدار أحدث من التطبيق.</string>
+    <string name="block_name" formatted="false">اسم الفترة</string>
+    <string name="cal_gregorian" formatted="false">ميلادي</string>
+    <string name="cal_hijri" formatted="false">هجري</string>
+    <string name="cal_jalali" formatted="false">جلالي</string>
+    <string name="calendar_gregorian" formatted="false">ميلادي</string>
+    <string name="calendar_hijri" formatted="false">هجري</string>
+    <string name="calendar_jalali" formatted="false">جلالي (شمسي)</string>
+    <string name="cancel" formatted="false">إلغاء</string>
+    <string name="cat_global" formatted="false">عالمي</string>
+    <string name="cat_national" formatted="false">وطني</string>
+    <string name="cat_official" formatted="false">رسمي</string>
+    <string name="cat_religious" formatted="false">ديني</string>
+    <string name="cell_text" formatted="false">النص</string>
+    <string name="clear" formatted="false">مسح</string>
+    <string name="confirm_delete_account_message" formatted="false">سيتم حذف هذا الحساب وكل مهامه وأهدافه وعاداته وقوائمه وجدوله وسجله نهائياً.</string>
+    <string name="confirm_delete_message" formatted="false">سيتم حذف هذا العنصر ولا يمكن التراجع.</string>
+    <string name="daily_fortune" formatted="false">الفأل اليومي</string>
+    <string name="decrease" formatted="false">إنقاص</string>
+    <string name="default_account_name" formatted="false">حسابي</string>
+    <string name="default_saved" formatted="false">حُفظ كإعداد افتراضي</string>
+    <string name="delete" formatted="false">حذف</string>
+    <string name="due_date" formatted="false">تاريخ الاستحقاق</string>
+    <string name="edit" formatted="false">تعديل</string>
+    <string name="edit_account" formatted="false">تعديل الحساب</string>
+    <string name="edit_cell" formatted="false">تعديل الخلية</string>
+    <string name="edit_goal" formatted="false">تعديل الهدف</string>
+    <string name="edit_habit" formatted="false">تعديل العادة</string>
+    <string name="edit_list" formatted="false">تعديل القائمة</string>
+    <string name="edit_task" formatted="false">تعديل المهمة</string>
+    <string name="empty_goals_message" formatted="false">أضف هدفاً وتابع تقدمك نحوه.</string>
+    <string name="empty_goals_title" formatted="false">لا أهداف بعد</string>
+    <string name="empty_habits_message" formatted="false">أضف عادة وعلّمها كل يوم لتبني سلسلة متواصلة.</string>
+    <string name="empty_habits_title" formatted="false">لا عادات بعد</string>
+    <string name="empty_lists_message" formatted="false">أنشئ قائمة للتسوق أو السفر أو أي شيء آخر.</string>
+    <string name="empty_lists_title" formatted="false">لا قوائم بعد</string>
+    <string name="empty_tasks_message" formatted="false">أضف أول مهمة بزر +.</string>
+    <string name="empty_tasks_title" formatted="false">لا مهام بعد</string>
+    <string name="focus_completed" formatted="false">اكتملت</string>
+    <string name="focus_dnd" formatted="false">عدم الإزعاج</string>
+    <string name="focus_dnd_hint" formatted="false">كتم الإشعارات أثناء الجلسة</string>
+    <string name="focus_dnd_needs_access" formatted="false">يتطلب إذن «عدم الإزعاج»</string>
+    <string name="focus_history" formatted="false">السجل</string>
+    <string name="focus_history_empty" formatted="false">لا جلسات بعد.</string>
+    <string name="focus_open_settings" formatted="false">فتح إعدادات الإذن</string>
+    <string name="focus_start" formatted="false">ابدأ</string>
+    <string name="focus_stop" formatted="false">إيقاف</string>
+    <string name="focus_stopped_early" formatted="false">أُوقفت مبكراً</string>
+    <string name="focus_title" formatted="false">التركيز العميق</string>
+    <string name="fortune_disclaimer" formatted="false">الأبيات لحافظ الشيرازي (ملكية عامة) وتختلف ألفاظها قليلاً بين الطبعات. التفسيرات للإلهام وليست تنبؤات.</string>
+    <string name="fortune_history" formatted="false">الأيام السابقة</string>
+    <string name="fortune_meaning_1" formatted="false">قد تبدو البدايات سهلة ثم تظهر صعوباتها. واصل بهدوء؛ فالصبر يحوّل البداية الصعبة إلى تقدم ثابت.</string>
+    <string name="fortune_meaning_10" formatted="false">يوم مناسب لبداية جديدة. اكسر الروتين القديم وجرّب خطة مختلفة.</string>
+    <string name="fortune_meaning_11" formatted="false">بعد الانتكاسة، الأمل هو الريح التي تدفعك إلى الأمام. واصل المحاولة؛ فقد يظهر وجه صديق.</string>
+    <string name="fortune_meaning_12" formatted="false">التواضع يفتح العينين. تعلّم من كل من تلقاه فتزداد رؤيتك وضوحاً.</string>
+    <string name="fortune_meaning_2" formatted="false">لحظة إلهام هادئة قريبة. انتبه اليوم إلى العلامات الصغيرة وكن شاكراً لما مُنحتَه.</string>
+    <string name="fortune_meaning_3" formatted="false">مرحلة صعبة توشك أن تمرّ. قد يعود ما فُقد بصورة جديدة، فأبقِ الأمل حياً.</string>
+    <string name="fortune_meaning_4" formatted="false">الذكريات الجميلة مصدر قوة. تواصل اليوم مع شخص تحبه.</string>
+    <string name="fortune_meaning_5" formatted="false">ما تبحث عنه بعيداً قد يكون في داخلك. انظر إلى داخلك قبل أن تبحث في الخارج.</string>
+    <string name="fortune_meaning_6" formatted="false">قد تصل رسالة أو يحدث لقاء. كن لطيفاً في تواصلك يأتِك الرد لطيفاً.</string>
+    <string name="fortune_meaning_7" formatted="false">لا تدع هموم الدنيا تقيّدك. تحرّر مما يشدك إلى الأسفل وارفع هدفك.</string>
+    <string name="fortune_meaning_8" formatted="false">الحرية تأتي من الحاجة إلى القليل. اختر شيئاً واحداً تتخلى عنه اليوم وانتبه لخفّته.</string>
+    <string name="fortune_meaning_9" formatted="false">كن ودوداً مع الأصدقاء، منصفاً مع المخالفين. حسن الخلق يحل ما لا تحله الجدالات.</string>
+    <string name="fortune_meaning_label" formatted="false">التفسير</string>
+    <string name="greeting_afternoon" formatted="false">طاب يومك</string>
+    <string name="greeting_evening" formatted="false">مساء الخير</string>
+    <string name="greeting_morning" formatted="false">صباح الخير</string>
+    <string name="greeting_night" formatted="false">تصبح على خير</string>
+    <string name="holiday" formatted="false">عطلة</string>
+    <string name="increase" formatted="false">زيادة</string>
+    <string name="items_done_format">تم %1$d من %2$d</string>
+    <string name="kind_event" formatted="false">مناسبة</string>
+    <string name="kind_goal" formatted="false">هدف</string>
+    <string name="kind_habit" formatted="false">عادة</string>
+    <string name="kind_list" formatted="false">قائمة</string>
+    <string name="kind_list_item" formatted="false">عنصر قائمة</string>
+    <string name="kind_task" formatted="false">مهمة</string>
+    <string name="language_device_default" formatted="false">افتراضي الجهاز</string>
+    <string name="lists_title" formatted="false">القوائم</string>
+    <string name="manage_blocks" formatted="false">إدارة الفترات</string>
+    <string name="mark_today" formatted="false">تعليم اليوم</string>
+    <string name="minutes_format">%1$d دقيقة</string>
+    <string name="minutes_unit" formatted="false">دقائق</string>
+    <string name="move_down" formatted="false">نقل للأسفل</string>
+    <string name="move_up" formatted="false">نقل للأعلى</string>
+    <string name="my_event_prefix">مناسبتي: %1$s</string>
+    <string name="my_events" formatted="false">مناسباتي</string>
+    <string name="nav_calendar" formatted="false">التقويم</string>
+    <string name="nav_home" formatted="false">الرئيسية</string>
+    <string name="nav_more" formatted="false">المزيد</string>
+    <string name="nav_tasks" formatted="false">المهام</string>
+    <string name="nav_weekly" formatted="false">الأسبوعي</string>
+    <string name="next" formatted="false">التالي</string>
+    <string name="no_blocks_message" formatted="false">أضف فترة زمنية لتبدأ ببناء جدولك الأسبوعي.</string>
+    <string name="no_blocks_title" formatted="false">لا فترات بعد</string>
+    <string name="no_color" formatted="false">بلا لون</string>
+    <string name="no_occasions_day" formatted="false">لا مناسبات في هذا اليوم.</string>
+    <string name="no_occasions_today" formatted="false">لا مناسبات اليوم.</string>
+    <string name="note" formatted="false">ملاحظة</string>
+    <string name="ok" formatted="false">موافق</string>
+    <string name="overdue" formatted="false">متأخرة</string>
+    <string name="percent_format">%1$d٪</string>
+    <string name="pin" formatted="false">تثبيت</string>
+    <string name="previous" formatted="false">السابق</string>
+    <string name="priority_high" formatted="false">عالية</string>
+    <string name="priority_low" formatted="false">منخفضة</string>
+    <string name="priority_normal" formatted="false">عادية</string>
+    <string name="progress" formatted="false">التقدم</string>
+    <string name="quote_1" formatted="false">الخطوات الصغيرة كل يوم تتراكم لتصنع تغييرات كبيرة.</string>
+    <string name="quote_10" formatted="false">مستقبلك تصنعه عادات اليوم.</string>
+    <string name="quote_2" formatted="false">ابدأ من حيث أنت، بما لديك، وافعل ما تستطيع.</string>
+    <string name="quote_3" formatted="false">ركّز على التقدم لا على الكمال.</string>
+    <string name="quote_4" formatted="false">الراحة جزء من العمل وليست انقطاعاً عنه.</string>
+    <string name="quote_5" formatted="false">اليوم صفحة جديدة. اكتب فيها ما تفخر به.</string>
+    <string name="quote_6" formatted="false">ما تفعله كل يوم أهم مما تفعله من حين لآخر.</string>
+    <string name="quote_7" formatted="false">كن صبوراً مع نفسك؛ فالنمو يحتاج وقتاً.</string>
+    <string name="quote_8" formatted="false">مهمة واحدة منجزة خير من عشر خطط مثالية.</string>
+    <string name="quote_9" formatted="false">اللطف لا يكلّف شيئاً ويغيّر كل شيء.</string>
+    <string name="repeat_yearly" formatted="false">تكرار كل سنة</string>
+    <string name="repeats_yearly" formatted="false">كل سنة</string>
+    <string name="reset" formatted="false">إعادة تعيين</string>
+    <string name="reset_blocks_message" formatted="false">ستُستبدل الفترات والخلايا بإعدادك الافتراضي المحفوظ (أو إعداد المصنع).</string>
+    <string name="reset_to_default" formatted="false">العودة إلى الافتراضي</string>
+    <string name="save" formatted="false">حفظ</string>
+    <string name="save_as_default" formatted="false">حفظ كافتراضي</string>
+    <string name="search" formatted="false">بحث</string>
+    <string name="search_empty_message" formatted="false">جرّب كلمات أخرى.</string>
+    <string name="search_empty_title" formatted="false">لا نتائج</string>
+    <string name="search_hint" formatted="false">ابحث في المهام والقوائم والمناسبات…</string>
+    <string name="search_title" formatted="false">البحث</string>
+    <string name="set_due_date" formatted="false">تحديد تاريخ الاستحقاق</string>
+    <string name="set_target_date" formatted="false">تحديد التاريخ المستهدف</string>
+    <string name="settings_auto" formatted="false">تلقائي</string>
+    <string name="settings_auto_update" formatted="false">التحديث التلقائي</string>
+    <string name="settings_backup" formatted="false">النسخ الاحتياطي</string>
+    <string name="settings_backup_hint" formatted="false">احفظ بياناتك في ملف JSON أو استعدها منه.</string>
+    <string name="settings_calendar" formatted="false">التقويم والمناسبات</string>
+    <string name="settings_calendar_type" formatted="false">نوع التقويم</string>
+    <string name="settings_general" formatted="false">عام</string>
+    <string name="settings_hijri_correction" formatted="false">تصحيح التاريخ الهجري</string>
+    <string name="settings_hijri_correction_hint" formatted="false">أزِح بعدد أيام ليوافق رؤية الهلال المحلية</string>
+    <string name="settings_language" formatted="false">اللغة</string>
+    <string name="settings_occasions_update" formatted="false">تحديث المناسبات</string>
+    <string name="settings_region" formatted="false">بلد المناسبات</string>
+    <string name="settings_show_hijri" formatted="false">إظهار التاريخ الهجري بجانب التاريخ</string>
+    <string name="settings_theme" formatted="false">المظهر</string>
+    <string name="settings_title" formatted="false">الإعدادات</string>
+    <string name="settings_update_now" formatted="false">حدّث الآن</string>
+    <string name="settings_update_url" formatted="false">عنوان التحديث</string>
+    <string name="settings_update_url_empty" formatted="false">غير محدد</string>
+    <string name="settings_update_url_hint" formatted="false">استخدم {region} مكان رمز المنطقة، مثل ir أو global.</string>
+    <string name="settings_updating" formatted="false">جارٍ التحديث…</string>
+    <string name="settings_week_start" formatted="false">أول يوم في الأسبوع</string>
+    <string name="source_bundled" formatted="false">مضمّن</string>
+    <string name="source_online" formatted="false">عبر الإنترنت</string>
+    <string name="stats_current_streak">أفضل سلسلة حالية: %1$d يوماً</string>
+    <string name="stats_done_of">تم %1$d من %2$d</string>
+    <string name="stats_focus_sessions">الجلسات: %1$d</string>
+    <string name="stats_focus_total">إجمالي التركيز: %1$d دقيقة</string>
+    <string name="stats_focus_week">آخر 7 أيام: %1$d دقيقة</string>
+    <string name="stats_habits_count">العادات: %1$d</string>
+    <string name="stats_lists_count">القوائم: %1$d</string>
+    <string name="stats_longest_streak">أطول سلسلة: %1$d يوماً</string>
+    <string name="stats_overdue">مهام متأخرة: %1$d</string>
+    <string name="stats_title" formatted="false">الإحصاءات</string>
+    <string name="streak_format">سلسلة %1$d يوماً</string>
+    <string name="sync_status_error" formatted="false">خطأ</string>
+    <string name="sync_status_invalid" formatted="false">بيانات غير صالحة</string>
+    <string name="sync_status_not_configured" formatted="false">غير مُعدّ</string>
+    <string name="sync_status_ok" formatted="false">تم التحديث</string>
+    <string name="sync_status_up_to_date" formatted="false">محدّث</string>
+    <string name="sync_summary_failed">فشل %1$d</string>
+    <string name="sync_summary_not_configured" formatted="false">حدّد عنوان التحديث أولاً.</string>
+    <string name="sync_summary_up_to_date" formatted="false">كل شيء محدّث.</string>
+    <string name="sync_summary_updated">تم تحديث %1$d</string>
+    <string name="tab_goals" formatted="false">الأهداف</string>
+    <string name="tab_habits" formatted="false">العادات</string>
+    <string name="tab_tasks" formatted="false">المهام</string>
+    <string name="target" formatted="false">المستهدف</string>
+    <string name="theme_dark" formatted="false">داكن</string>
+    <string name="theme_light" formatted="false">فاتح</string>
+    <string name="theme_system" formatted="false">النظام</string>
+    <string name="title" formatted="false">العنوان</string>
+    <string name="today" formatted="false">اليوم</string>
+    <string name="today_in_calendar" formatted="false">اليوم في التقويم</string>
+    <string name="unverified" formatted="false">غير مؤكد</string>
+    <string name="week_starts_on" formatted="false">يبدأ الأسبوع من</string>
+    <string name="widget_description" formatted="false">تاريخ اليوم ومناسباته</string>
+    <string name="widget_name" formatted="false">نكسورا اليوم</string>
+    <string name="widget_no_occasion" formatted="false">لا مناسبات اليوم</string>
+    <string-array name="jalali_months">
+        <item>فروردين</item>
+        <item>أرديبهشت</item>
+        <item>خرداد</item>
+        <item>تير</item>
+        <item>مرداد</item>
+        <item>شهريور</item>
+        <item>مهر</item>
+        <item>آبان</item>
+        <item>آذر</item>
+        <item>دي</item>
+        <item>بهمن</item>
+        <item>إسفند</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>محرّم</item>
+        <item>صفر</item>
+        <item>ربيع الأول</item>
+        <item>ربيع الآخر</item>
+        <item>جمادى الأولى</item>
+        <item>جمادى الآخرة</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوّال</item>
+        <item>ذو القعدة</item>
+        <item>ذو الحجة</item>
+    </string-array>
+</resources>

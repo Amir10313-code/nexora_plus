@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">सब कुछ बिना इंटरनेट के चलता है और आपका डेटा आपके डिवाइस पर ही रहता है। इंटरनेट केवल अवसरों की सूची अपडेट करने के लिए, और तभी इस्तेमाल होता है जब आपने उसके लिए पता तय किया हो।</string>
+    <string name="about_sources" formatted="false">दैनिक फ़ाल शिराज़ के हाफ़िज़ के शेरों (सार्वजनिक डोमेन) पर आधारित है; व्याख्याएँ इसी ऐप के लिए लिखे गए मौलिक पाठ हैं। अवसर ऐप के साथ आए डेटा से लिए गए हैं; “असत्यापित” चिह्नित तिथियाँ दोबारा जाँच लें।</string>
+    <string name="about_tagline" formatted="false">कैलेंडर, प्लानर और रोज़ का साथी</string>
+    <string name="about_title" formatted="false">ऐप के बारे में</string>
+    <string name="about_version" formatted="false">संस्करण</string>
+    <string name="account_active" formatted="false">सक्रिय खाता</string>
+    <string name="account_name" formatted="false">खाते का नाम</string>
+    <string name="accounts_count_format">खाते: %1$d / %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">आप अधिकतम 3 खाते रख सकते हैं।</string>
+    <string name="accounts_title" formatted="false">खाते</string>
+    <string name="add" formatted="false">जोड़ें</string>
+    <string name="add_account" formatted="false">नया खाता</string>
+    <string name="add_block" formatted="false">ब्लॉक जोड़ें</string>
+    <string name="add_event" formatted="false">अवसर जोड़ें</string>
+    <string name="add_goal" formatted="false">नया लक्ष्य</string>
+    <string name="add_habit" formatted="false">नई आदत</string>
+    <string name="add_item_hint" formatted="false">एक आइटम जोड़ें</string>
+    <string name="add_list" formatted="false">नई सूची</string>
+    <string name="add_task" formatted="false">नया कार्य</string>
+    <string name="app_name" formatted="false">नेक्सोरा प्लस</string>
+    <string name="back" formatted="false">वापस</string>
+    <string name="backup_export" formatted="false">बैकअप निर्यात करें</string>
+    <string name="backup_export_done" formatted="false">बैकअप सहेज लिया गया।</string>
+    <string name="backup_export_failed" formatted="false">बैकअप सहेजा नहीं जा सका।</string>
+    <string name="backup_import" formatted="false">बैकअप आयात करें</string>
+    <string name="backup_import_done">बैकअप आयात हो गया (%1$d खाते जोड़े गए)।</string>
+    <string name="backup_import_invalid" formatted="false">यह फ़ाइल मान्य Nexora बैकअप नहीं है।</string>
+    <string name="backup_import_too_many" formatted="false">आयात से 3 खातों की सीमा पार हो जाएगी। पहले कोई खाता हटाएँ।</string>
+    <string name="backup_import_unsupported" formatted="false">यह बैकअप ऐप के नए संस्करण से बना है।</string>
+    <string name="block_name" formatted="false">ब्लॉक का नाम</string>
+    <string name="cal_gregorian" formatted="false">ग्रेगोरियन</string>
+    <string name="cal_hijri" formatted="false">हिजरी</string>
+    <string name="cal_jalali" formatted="false">जलाली</string>
+    <string name="calendar_gregorian" formatted="false">ग्रेगोरियन</string>
+    <string name="calendar_hijri" formatted="false">हिजरी</string>
+    <string name="calendar_jalali" formatted="false">जलाली (फ़ारसी सौर)</string>
+    <string name="cancel" formatted="false">रद्द करें</string>
+    <string name="cat_global" formatted="false">वैश्विक</string>
+    <string name="cat_national" formatted="false">राष्ट्रीय</string>
+    <string name="cat_official" formatted="false">आधिकारिक</string>
+    <string name="cat_religious" formatted="false">धार्मिक</string>
+    <string name="cell_text" formatted="false">पाठ</string>
+    <string name="clear" formatted="false">साफ़ करें</string>
+    <string name="confirm_delete_account_message" formatted="false">यह खाता अपने सभी कार्यों, लक्ष्यों, आदतों, सूचियों, समय-सारणी और इतिहास सहित स्थायी रूप से हटा दिया जाएगा।</string>
+    <string name="confirm_delete_message" formatted="false">यह आइटम हटा दिया जाएगा। इसे वापस नहीं किया जा सकता।</string>
+    <string name="daily_fortune" formatted="false">दैनिक फ़ाल</string>
+    <string name="decrease" formatted="false">घटाएँ</string>
+    <string name="default_account_name" formatted="false">मेरा खाता</string>
+    <string name="default_saved" formatted="false">डिफ़ॉल्ट के रूप में सहेजा गया</string>
+    <string name="delete" formatted="false">हटाएँ</string>
+    <string name="due_date" formatted="false">नियत तिथि</string>
+    <string name="edit" formatted="false">संपादित करें</string>
+    <string name="edit_account" formatted="false">खाता संपादित करें</string>
+    <string name="edit_cell" formatted="false">खाना संपादित करें</string>
+    <string name="edit_goal" formatted="false">लक्ष्य संपादित करें</string>
+    <string name="edit_habit" formatted="false">आदत संपादित करें</string>
+    <string name="edit_list" formatted="false">सूची संपादित करें</string>
+    <string name="edit_task" formatted="false">कार्य संपादित करें</string>
+    <string name="empty_goals_message" formatted="false">एक लक्ष्य जोड़ें और अपनी प्रगति देखें।</string>
+    <string name="empty_goals_title" formatted="false">अभी कोई लक्ष्य नहीं</string>
+    <string name="empty_habits_message" formatted="false">एक आदत जोड़ें और लगातार क्रम बनाने के लिए रोज़ उसे चिह्नित करें।</string>
+    <string name="empty_habits_title" formatted="false">अभी कोई आदत नहीं</string>
+    <string name="empty_lists_message" formatted="false">खरीदारी, यात्रा या किसी और चीज़ के लिए सूची बनाएँ।</string>
+    <string name="empty_lists_title" formatted="false">अभी कोई सूची नहीं</string>
+    <string name="empty_tasks_message" formatted="false">+ बटन से अपना पहला कार्य जोड़ें।</string>
+    <string name="empty_tasks_title" formatted="false">अभी कोई कार्य नहीं</string>
+    <string name="focus_completed" formatted="false">पूरा हुआ</string>
+    <string name="focus_dnd" formatted="false">परेशान न करें</string>
+    <string name="focus_dnd_hint" formatted="false">सत्र के दौरान सूचनाएँ मौन रहेंगी</string>
+    <string name="focus_dnd_needs_access" formatted="false">“परेशान न करें” की अनुमति चाहिए</string>
+    <string name="focus_history" formatted="false">इतिहास</string>
+    <string name="focus_history_empty" formatted="false">अभी कोई सत्र नहीं।</string>
+    <string name="focus_open_settings" formatted="false">अनुमति सेटिंग खोलें</string>
+    <string name="focus_start" formatted="false">शुरू करें</string>
+    <string name="focus_stop" formatted="false">रोकें</string>
+    <string name="focus_stopped_early" formatted="false">जल्दी रोका गया</string>
+    <string name="focus_title" formatted="false">गहरा फ़ोकस</string>
+    <string name="fortune_disclaimer" formatted="false">शेर हाफ़िज़ के हैं (सार्वजनिक डोमेन); अलग-अलग संस्करणों में शब्दों में थोड़ा अंतर होता है। व्याख्याएँ प्रेरणा के लिए हैं, भविष्यवाणी के लिए नहीं।</string>
+    <string name="fortune_history" formatted="false">पिछले दिन</string>
+    <string name="fortune_meaning_1" formatted="false">शुरुआतें आसान लग सकती हैं और फिर कठिनाइयाँ दिखती हैं। शांति से आगे बढ़ते रहें; धैर्य कठिन शुरुआत को स्थिर प्रगति में बदल देता है।</string>
+    <string name="fortune_meaning_10" formatted="false">कुछ नया शुरू करने के लिए अच्छा दिन है। पुरानी दिनचर्या तोड़ें और नई योजना आज़माएँ।</string>
+    <string name="fortune_meaning_11" formatted="false">असफलता के बाद उम्मीद वह हवा है जो आपको आगे बढ़ाती है। कोशिश करते रहें; कोई अपना-सा चेहरा मिल सकता है।</string>
+    <string name="fortune_meaning_12" formatted="false">विनम्रता आँखें खोलती है। हर मिलने वाले से सीखें, आपकी दृष्टि और साफ़ होगी।</string>
+    <string name="fortune_meaning_2" formatted="false">प्रेरणा का एक शांत क्षण निकट है। आज छोटे संकेतों पर ध्यान दें और जो मिला है उसके लिए आभारी रहें।</string>
+    <string name="fortune_meaning_3" formatted="false">कठिन दौर बीत रहा है। जो खो गया वह नए रूप में लौट सकता है, इसलिए उम्मीद बनाए रखें।</string>
+    <string name="fortune_meaning_4" formatted="false">अच्छी यादें शक्ति का स्रोत हैं। आज किसी अपने से संपर्क करें।</string>
+    <string name="fortune_meaning_5" formatted="false">जिसे आप दूर खोज रहे हैं वह शायद आपके भीतर ही है। बाहर देखने से पहले भीतर देखें।</string>
+    <string name="fortune_meaning_6" formatted="false">कोई संदेश या मुलाकात रास्ते में हो सकती है। संपर्क करते समय नरम रहें, जवाब भी नरम मिलेगा।</string>
+    <string name="fortune_meaning_7" formatted="false">दुनियावी चिंताओं को खुद को बाँधने न दें। जो आपको नीचे खींचता है उससे मुक्त हों और ऊँचा लक्ष्य रखें।</string>
+    <string name="fortune_meaning_8" formatted="false">आज़ादी कम की ज़रूरत से आती है। आज एक चीज़ छोड़ने के लिए चुनें और उसका हल्कापन महसूस करें।</string>
+    <string name="fortune_meaning_9" formatted="false">दोस्तों के साथ स्नेहपूर्ण और असहमत लोगों के साथ निष्पक्ष रहें। अच्छा व्यवहार बहस से ज़्यादा सुलझाता है।</string>
+    <string name="fortune_meaning_label" formatted="false">व्याख्या</string>
+    <string name="greeting_afternoon" formatted="false">नमस्कार</string>
+    <string name="greeting_evening" formatted="false">शुभ संध्या</string>
+    <string name="greeting_morning" formatted="false">सुप्रभात</string>
+    <string name="greeting_night" formatted="false">शुभ रात्रि</string>
+    <string name="holiday" formatted="false">अवकाश</string>
+    <string name="increase" formatted="false">बढ़ाएँ</string>
+    <string name="items_done_format">%1$d / %2$d पूरे</string>
+    <string name="kind_event" formatted="false">अवसर</string>
+    <string name="kind_goal" formatted="false">लक्ष्य</string>
+    <string name="kind_habit" formatted="false">आदत</string>
+    <string name="kind_list" formatted="false">सूची</string>
+    <string name="kind_list_item" formatted="false">सूची आइटम</string>
+    <string name="kind_task" formatted="false">कार्य</string>
+    <string name="language_device_default" formatted="false">डिवाइस की डिफ़ॉल्ट</string>
+    <string name="lists_title" formatted="false">सूचियाँ</string>
+    <string name="manage_blocks" formatted="false">ब्लॉक प्रबंधित करें</string>
+    <string name="mark_today" formatted="false">आज चिह्नित करें</string>
+    <string name="minutes_format">%1$d मिनट</string>
+    <string name="minutes_unit" formatted="false">मिनट</string>
+    <string name="move_down" formatted="false">नीचे ले जाएँ</string>
+    <string name="move_up" formatted="false">ऊपर ले जाएँ</string>
+    <string name="my_event_prefix">मेरा अवसर: %1$s</string>
+    <string name="my_events" formatted="false">मेरे अवसर</string>
+    <string name="nav_calendar" formatted="false">कैलेंडर</string>
+    <string name="nav_home" formatted="false">होम</string>
+    <string name="nav_more" formatted="false">और</string>
+    <string name="nav_tasks" formatted="false">कार्य</string>
+    <string name="nav_weekly" formatted="false">साप्ताहिक</string>
+    <string name="next" formatted="false">अगला</string>
+    <string name="no_blocks_message" formatted="false">साप्ताहिक समय-सारणी बनाना शुरू करने के लिए एक समय-ब्लॉक जोड़ें।</string>
+    <string name="no_blocks_title" formatted="false">अभी कोई ब्लॉक नहीं</string>
+    <string name="no_color" formatted="false">कोई रंग नहीं</string>
+    <string name="no_occasions_day" formatted="false">इस दिन कोई अवसर नहीं।</string>
+    <string name="no_occasions_today" formatted="false">आज कोई अवसर नहीं।</string>
+    <string name="note" formatted="false">टिप्पणी</string>
+    <string name="ok" formatted="false">ठीक है</string>
+    <string name="overdue" formatted="false">देर से</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="pin" formatted="false">पिन करें</string>
+    <string name="previous" formatted="false">पिछला</string>
+    <string name="priority_high" formatted="false">उच्च</string>
+    <string name="priority_low" formatted="false">निम्न</string>
+    <string name="priority_normal" formatted="false">सामान्य</string>
+    <string name="progress" formatted="false">प्रगति</string>
+    <string name="quote_1" formatted="false">हर दिन उठाए गए छोटे कदम मिलकर बड़े बदलाव बनते हैं।</string>
+    <string name="quote_10" formatted="false">आपका भविष्य आज की आदतों से बनता है।</string>
+    <string name="quote_2" formatted="false">जहाँ हैं वहीं से शुरू करें, जो है उसका उपयोग करें, जो हो सके वह करें।</string>
+    <string name="quote_3" formatted="false">पूर्णता पर नहीं, प्रगति पर ध्यान दें।</string>
+    <string name="quote_4" formatted="false">आराम काम का हिस्सा है, उससे अलग कोई विराम नहीं।</string>
+    <string name="quote_5" formatted="false">आज एक नया पन्ना है। कुछ ऐसा लिखें जिस पर आपको गर्व हो।</string>
+    <string name="quote_6" formatted="false">आप रोज़ जो करते हैं, वह कभी-कभार किए गए काम से ज़्यादा मायने रखता है।</string>
+    <string name="quote_7" formatted="false">खुद के साथ धैर्य रखें; विकास में समय लगता है।</string>
+    <string name="quote_8" formatted="false">एक पूरा किया हुआ काम दस आदर्श योजनाओं से बेहतर है।</string>
+    <string name="quote_9" formatted="false">दयालुता की कोई कीमत नहीं लगती, पर वह सब कुछ बदल देती है।</string>
+    <string name="repeat_yearly" formatted="false">हर साल दोहराएँ</string>
+    <string name="repeats_yearly" formatted="false">हर साल</string>
+    <string name="reset" formatted="false">रीसेट</string>
+    <string name="reset_blocks_message" formatted="false">ब्लॉक और खाने आपके सहेजे गए डिफ़ॉल्ट (या फ़ैक्टरी डिफ़ॉल्ट) से बदल दिए जाएँगे।</string>
+    <string name="reset_to_default" formatted="false">डिफ़ॉल्ट पर लौटें</string>
+    <string name="save" formatted="false">सहेजें</string>
+    <string name="save_as_default" formatted="false">डिफ़ॉल्ट के रूप में सहेजें</string>
+    <string name="search" formatted="false">खोजें</string>
+    <string name="search_empty_message" formatted="false">अलग शब्द आज़माएँ।</string>
+    <string name="search_empty_title" formatted="false">कुछ नहीं मिला</string>
+    <string name="search_hint" formatted="false">कार्य, सूचियाँ, अवसर खोजें…</string>
+    <string name="search_title" formatted="false">खोज</string>
+    <string name="set_due_date" formatted="false">नियत तिथि चुनें</string>
+    <string name="set_target_date" formatted="false">लक्ष्य तिथि चुनें</string>
+    <string name="settings_auto" formatted="false">स्वचालित</string>
+    <string name="settings_auto_update" formatted="false">स्वतः अपडेट करें</string>
+    <string name="settings_backup" formatted="false">बैकअप</string>
+    <string name="settings_backup_hint" formatted="false">अपना डेटा JSON फ़ाइल में सहेजें या उससे बहाल करें।</string>
+    <string name="settings_calendar" formatted="false">कैलेंडर और अवसर</string>
+    <string name="settings_calendar_type" formatted="false">कैलेंडर का प्रकार</string>
+    <string name="settings_general" formatted="false">सामान्य</string>
+    <string name="settings_hijri_correction" formatted="false">हिजरी तिथि सुधार</string>
+    <string name="settings_hijri_correction_hint" formatted="false">स्थानीय चंद्र-दर्शन से मिलाने के लिए दिनों में खिसकाएँ</string>
+    <string name="settings_language" formatted="false">भाषा</string>
+    <string name="settings_occasions_update" formatted="false">अवसर अपडेट</string>
+    <string name="settings_region" formatted="false">अवसरों का देश</string>
+    <string name="settings_show_hijri" formatted="false">हिजरी तिथि साथ में दिखाएँ</string>
+    <string name="settings_theme" formatted="false">थीम</string>
+    <string name="settings_title" formatted="false">सेटिंग</string>
+    <string name="settings_update_now" formatted="false">अभी अपडेट करें</string>
+    <string name="settings_update_url" formatted="false">अपडेट का पता</string>
+    <string name="settings_update_url_empty" formatted="false">तय नहीं</string>
+    <string name="settings_update_url_hint" formatted="false">क्षेत्र कोड की जगह {region} लिखें, जैसे ir या global।</string>
+    <string name="settings_updating" formatted="false">अपडेट हो रहा है…</string>
+    <string name="settings_week_start" formatted="false">सप्ताह का पहला दिन</string>
+    <string name="source_bundled" formatted="false">ऐप के साथ</string>
+    <string name="source_online" formatted="false">ऑनलाइन</string>
+    <string name="stats_current_streak">सर्वश्रेष्ठ मौजूदा क्रम: %1$d दिन</string>
+    <string name="stats_done_of">%1$d / %2$d पूरे</string>
+    <string name="stats_focus_sessions">सत्र: %1$d</string>
+    <string name="stats_focus_total">कुल फ़ोकस: %1$d मिनट</string>
+    <string name="stats_focus_week">पिछले 7 दिन: %1$d मिनट</string>
+    <string name="stats_habits_count">आदतें: %1$d</string>
+    <string name="stats_lists_count">सूचियाँ: %1$d</string>
+    <string name="stats_longest_streak">सबसे लंबा क्रम: %1$d दिन</string>
+    <string name="stats_overdue">देर से चल रहे कार्य: %1$d</string>
+    <string name="stats_title" formatted="false">आँकड़े</string>
+    <string name="streak_format">%1$d दिन का क्रम</string>
+    <string name="sync_status_error" formatted="false">त्रुटि</string>
+    <string name="sync_status_invalid" formatted="false">अमान्य डेटा</string>
+    <string name="sync_status_not_configured" formatted="false">तय नहीं</string>
+    <string name="sync_status_ok" formatted="false">अपडेट हुआ</string>
+    <string name="sync_status_up_to_date" formatted="false">अद्यतन</string>
+    <string name="sync_summary_failed">%1$d विफल</string>
+    <string name="sync_summary_not_configured" formatted="false">पहले अपडेट का पता तय करें।</string>
+    <string name="sync_summary_up_to_date" formatted="false">सब कुछ अद्यतन है।</string>
+    <string name="sync_summary_updated">%1$d अपडेट हुए</string>
+    <string name="tab_goals" formatted="false">लक्ष्य</string>
+    <string name="tab_habits" formatted="false">आदतें</string>
+    <string name="tab_tasks" formatted="false">कार्य</string>
+    <string name="target" formatted="false">लक्ष्य</string>
+    <string name="theme_dark" formatted="false">गहरा</string>
+    <string name="theme_light" formatted="false">हल्का</string>
+    <string name="theme_system" formatted="false">सिस्टम</string>
+    <string name="title" formatted="false">शीर्षक</string>
+    <string name="today" formatted="false">आज</string>
+    <string name="today_in_calendar" formatted="false">कैलेंडर में आज</string>
+    <string name="unverified" formatted="false">असत्यापित</string>
+    <string name="week_starts_on" formatted="false">सप्ताह की शुरुआत</string>
+    <string name="widget_description" formatted="false">आज की तिथि और अवसर</string>
+    <string name="widget_name" formatted="false">नेक्सोरा आज</string>
+    <string name="widget_no_occasion" formatted="false">आज कोई अवसर नहीं</string>
+    <string-array name="jalali_months">
+        <item>Farvardin</item>
+        <item>Ordibehesht</item>
+        <item>Khordad</item>
+        <item>Tir</item>
+        <item>Mordad</item>
+        <item>Shahrivar</item>
+        <item>Mehr</item>
+        <item>Aban</item>
+        <item>Azar</item>
+        <item>Dey</item>
+        <item>Bahman</item>
+        <item>Esfand</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>मुहर्रम</item>
+        <item>सफ़र</item>
+        <item>रबी-उल-अव्वल</item>
+        <item>रबी-उस-सानी</item>
+        <item>जमादि-उल-अव्वल</item>
+        <item>जमादि-उस-सानी</item>
+        <item>रजब</item>
+        <item>शाबान</item>
+        <item>रमज़ान</item>
+        <item>शव्वाल</item>
+        <item>ज़ीक़ादा</item>
+        <item>ज़िलहिज्जा</item>
+    </string-array>
+</resources>

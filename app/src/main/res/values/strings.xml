@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default (English). Translations live in values-<lang>/. -->
+    <string name="about_offline" formatted="false">Everything works offline. Your data stays on your device. The internet is used only to update the list of occasions, and only if you set an address for it.</string>
+    <string name="about_sources" formatted="false">Daily fortunes use couplets by Hafez of Shiraz (public domain); the interpretations are original texts written for this app. Occasions come from the bundled data; dates marked “Unverified” should be double-checked.</string>
+    <string name="about_tagline" formatted="false">Calendar, planner and daily companion</string>
+    <string name="about_title" formatted="false">About</string>
+    <string name="about_version" formatted="false">Version</string>
+    <string name="account_active" formatted="false">Active account</string>
+    <string name="account_name" formatted="false">Account name</string>
+    <string name="accounts_count_format">Accounts: %1$d of %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">You can have at most 3 accounts.</string>
+    <string name="accounts_title" formatted="false">Accounts</string>
+    <string name="add" formatted="false">Add</string>
+    <string name="add_account" formatted="false">New account</string>
+    <string name="add_block" formatted="false">Add block</string>
+    <string name="add_event" formatted="false">Add occasion</string>
+    <string name="add_goal" formatted="false">New goal</string>
+    <string name="add_habit" formatted="false">New habit</string>
+    <string name="add_item_hint" formatted="false">Add an item</string>
+    <string name="add_list" formatted="false">New list</string>
+    <string name="add_task" formatted="false">New task</string>
+    <string name="app_name" formatted="false">Nexora Plus</string>
+    <string name="back" formatted="false">Back</string>
+    <string name="backup_export" formatted="false">Export backup</string>
+    <string name="backup_export_done" formatted="false">Backup saved.</string>
+    <string name="backup_export_failed" formatted="false">The backup could not be saved.</string>
+    <string name="backup_import" formatted="false">Import backup</string>
+    <string name="backup_import_done">Backup imported (%1$d accounts added).</string>
+    <string name="backup_import_invalid" formatted="false">This file is not a valid Nexora backup.</string>
+    <string name="backup_import_too_many" formatted="false">Importing would exceed the limit of 3 accounts. Delete an account first.</string>
+    <string name="backup_import_unsupported" formatted="false">This backup was made by a newer version of the app.</string>
+    <string name="block_name" formatted="false">Block name</string>
+    <string name="cal_gregorian" formatted="false">Gregorian</string>
+    <string name="cal_hijri" formatted="false">Hijri</string>
+    <string name="cal_jalali" formatted="false">Jalali</string>
+    <string name="calendar_gregorian" formatted="false">Gregorian</string>
+    <string name="calendar_hijri" formatted="false">Hijri</string>
+    <string name="calendar_jalali" formatted="false">Jalali</string>
+    <string name="cancel" formatted="false">Cancel</string>
+    <string name="cat_global" formatted="false">Worldwide</string>
+    <string name="cat_national" formatted="false">National</string>
+    <string name="cat_official" formatted="false">Official</string>
+    <string name="cat_religious" formatted="false">Religious</string>
+    <string name="cell_text" formatted="false">Text</string>
+    <string name="clear" formatted="false">Clear</string>
+    <string name="confirm_delete_account_message" formatted="false">This account and all its tasks, goals, habits, lists, schedule and history will be deleted permanently.</string>
+    <string name="confirm_delete_message" formatted="false">This item will be deleted. This cannot be undone.</string>
+    <string name="daily_fortune" formatted="false">Daily fortune</string>
+    <string name="decrease" formatted="false">Decrease</string>
+    <string name="default_account_name" formatted="false">My account</string>
+    <string name="default_saved" formatted="false">Saved as default</string>
+    <string name="delete" formatted="false">Delete</string>
+    <string name="due_date" formatted="false">Due date</string>
+    <string name="edit" formatted="false">Edit</string>
+    <string name="edit_account" formatted="false">Edit account</string>
+    <string name="edit_cell" formatted="false">Edit cell</string>
+    <string name="edit_goal" formatted="false">Edit goal</string>
+    <string name="edit_habit" formatted="false">Edit habit</string>
+    <string name="edit_list" formatted="false">Edit list</string>
+    <string name="edit_task" formatted="false">Edit task</string>
+    <string name="empty_goals_message" formatted="false">Add a goal and track your progress toward it.</string>
+    <string name="empty_goals_title" formatted="false">No goals yet</string>
+    <string name="empty_habits_message" formatted="false">Add a habit and mark it every day to build a streak.</string>
+    <string name="empty_habits_title" formatted="false">No habits yet</string>
+    <string name="empty_lists_message" formatted="false">Create a checklist for shopping, travel or anything else.</string>
+    <string name="empty_lists_title" formatted="false">No lists yet</string>
+    <string name="empty_tasks_message" formatted="false">Add your first task with the + button.</string>
+    <string name="empty_tasks_title" formatted="false">No tasks yet</string>
+    <string name="focus_completed" formatted="false">Completed</string>
+    <string name="focus_dnd" formatted="false">Do Not Disturb</string>
+    <string name="focus_dnd_hint" formatted="false">Silence notifications during the session</string>
+    <string name="focus_dnd_needs_access" formatted="false">Needs Do Not Disturb access</string>
+    <string name="focus_history" formatted="false">History</string>
+    <string name="focus_history_empty" formatted="false">No sessions yet.</string>
+    <string name="focus_open_settings" formatted="false">Open access settings</string>
+    <string name="focus_start" formatted="false">Start</string>
+    <string name="focus_stop" formatted="false">Stop</string>
+    <string name="focus_stopped_early" formatted="false">Stopped early</string>
+    <string name="focus_title" formatted="false">Deep focus</string>
+    <string name="fortune_disclaimer" formatted="false">The couplets are by Hafez (public domain); the wording differs slightly between editions. The interpretations are meant for inspiration, not prediction.</string>
+    <string name="fortune_history" formatted="false">Previous days</string>
+    <string name="fortune_meaning_1" formatted="false">Beginnings can look easy and then reveal their difficulties. Keep going calmly; patience turns a hard start into steady progress.</string>
+    <string name="fortune_meaning_10" formatted="false">It is a good day to start something new. Break the old routine and try a fresh plan.</string>
+    <string name="fortune_meaning_11" formatted="false">After a setback, hope is the wind that moves you forward. Keep trying; a friendly face may appear.</string>
+    <string name="fortune_meaning_12" formatted="false">Humility opens the eyes. Learn from everyone you meet and your vision will become clearer.</string>
+    <string name="fortune_meaning_2" formatted="false">A quiet moment of inspiration is near. Notice the small signs today and be grateful for what you have been given.</string>
+    <string name="fortune_meaning_3" formatted="false">A hard period is passing. What was lost may return in a new form, so keep hope alive.</string>
+    <string name="fortune_meaning_4" formatted="false">Good memories are a source of strength. Reach out to someone you care about today.</string>
+    <string name="fortune_meaning_5" formatted="false">What you look for far away may already be within you. Look inward before looking elsewhere.</string>
+    <string name="fortune_meaning_6" formatted="false">A message or a reunion may be on its way. Be kind in how you reach out and the answer will be kind too.</string>
+    <string name="fortune_meaning_7" formatted="false">Do not let worldly worries tie you down. Free yourself from what drags you and aim higher.</string>
+    <string name="fortune_meaning_8" formatted="false">Freedom comes from needing less. Choose one thing to let go of today and notice how light it feels.</string>
+    <string name="fortune_meaning_9" formatted="false">Be warm with friends and fair with those who disagree. Good manners solve more than arguments do.</string>
+    <string name="fortune_meaning_label" formatted="false">Interpretation</string>
+    <string name="greeting_afternoon" formatted="false">Good afternoon</string>
+    <string name="greeting_evening" formatted="false">Good evening</string>
+    <string name="greeting_morning" formatted="false">Good morning</string>
+    <string name="greeting_night" formatted="false">Good night</string>
+    <string name="holiday" formatted="false">Holiday</string>
+    <string name="increase" formatted="false">Increase</string>
+    <string name="items_done_format">%1$d of %2$d done</string>
+    <string name="kind_event" formatted="false">Occasion</string>
+    <string name="kind_goal" formatted="false">Goal</string>
+    <string name="kind_habit" formatted="false">Habit</string>
+    <string name="kind_list" formatted="false">List</string>
+    <string name="kind_list_item" formatted="false">List item</string>
+    <string name="kind_task" formatted="false">Task</string>
+    <string name="language_device_default" formatted="false">Device default</string>
+    <string name="lists_title" formatted="false">Lists</string>
+    <string name="manage_blocks" formatted="false">Manage blocks</string>
+    <string name="mark_today" formatted="false">Mark today</string>
+    <string name="minutes_format">%1$d min</string>
+    <string name="minutes_unit" formatted="false">Minutes</string>
+    <string name="move_down" formatted="false">Move down</string>
+    <string name="move_up" formatted="false">Move up</string>
+    <string name="my_event_prefix">My occasion: %1$s</string>
+    <string name="my_events" formatted="false">My occasions</string>
+    <string name="nav_calendar" formatted="false">Calendar</string>
+    <string name="nav_home" formatted="false">Home</string>
+    <string name="nav_more" formatted="false">More</string>
+    <string name="nav_tasks" formatted="false">Tasks</string>
+    <string name="nav_weekly" formatted="false">Weekly</string>
+    <string name="next" formatted="false">Next</string>
+    <string name="no_blocks_message" formatted="false">Add a time block to start building your weekly schedule.</string>
+    <string name="no_blocks_title" formatted="false">No blocks yet</string>
+    <string name="no_color" formatted="false">No color</string>
+    <string name="no_occasions_day" formatted="false">No occasions on this day.</string>
+    <string name="no_occasions_today" formatted="false">No occasions today.</string>
+    <string name="note" formatted="false">Note</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="overdue" formatted="false">Overdue</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="pin" formatted="false">Pin</string>
+    <string name="previous" formatted="false">Previous</string>
+    <string name="priority_high" formatted="false">High</string>
+    <string name="priority_low" formatted="false">Low</string>
+    <string name="priority_normal" formatted="false">Normal</string>
+    <string name="progress" formatted="false">Progress</string>
+    <string name="quote_1" formatted="false">Small steps taken every day add up to big changes.</string>
+    <string name="quote_10" formatted="false">Your future is built by the habits of today.</string>
+    <string name="quote_2" formatted="false">Start where you are, use what you have, do what you can.</string>
+    <string name="quote_3" formatted="false">Focus on progress, not perfection.</string>
+    <string name="quote_4" formatted="false">Rest is part of the work, not a break from it.</string>
+    <string name="quote_5" formatted="false">Today is a fresh page. Write something you are proud of.</string>
+    <string name="quote_6" formatted="false">What you do every day matters more than what you do once in a while.</string>
+    <string name="quote_7" formatted="false">Be patient with yourself; growth takes time.</string>
+    <string name="quote_8" formatted="false">One finished task is worth more than ten perfect plans.</string>
+    <string name="quote_9" formatted="false">Kindness costs nothing and changes everything.</string>
+    <string name="repeat_yearly" formatted="false">Repeat every year</string>
+    <string name="repeats_yearly" formatted="false">Every year</string>
+    <string name="reset" formatted="false">Reset</string>
+    <string name="reset_blocks_message" formatted="false">Blocks and cells will be replaced by your saved default (or the factory default).</string>
+    <string name="reset_to_default" formatted="false">Reset to default</string>
+    <string name="save" formatted="false">Save</string>
+    <string name="save_as_default" formatted="false">Save as default</string>
+    <string name="search" formatted="false">Search</string>
+    <string name="search_empty_message" formatted="false">Try different words.</string>
+    <string name="search_empty_title" formatted="false">Nothing found</string>
+    <string name="search_hint" formatted="false">Search tasks, lists, occasions…</string>
+    <string name="search_title" formatted="false">Search</string>
+    <string name="set_due_date" formatted="false">Set due date</string>
+    <string name="set_target_date" formatted="false">Set target date</string>
+    <string name="settings_auto" formatted="false">Automatic</string>
+    <string name="settings_auto_update" formatted="false">Update automatically</string>
+    <string name="settings_backup" formatted="false">Backup</string>
+    <string name="settings_backup_hint" formatted="false">Save your data to a JSON file or restore it from one.</string>
+    <string name="settings_calendar" formatted="false">Calendar and occasions</string>
+    <string name="settings_calendar_type" formatted="false">Calendar type</string>
+    <string name="settings_general" formatted="false">General</string>
+    <string name="settings_hijri_correction" formatted="false">Hijri date correction</string>
+    <string name="settings_hijri_correction_hint" formatted="false">Shift by days to match local moon sighting</string>
+    <string name="settings_language" formatted="false">Language</string>
+    <string name="settings_occasions_update" formatted="false">Occasion updates</string>
+    <string name="settings_region" formatted="false">Occasion country</string>
+    <string name="settings_show_hijri" formatted="false">Show Hijri date alongside</string>
+    <string name="settings_theme" formatted="false">Theme</string>
+    <string name="settings_title" formatted="false">Settings</string>
+    <string name="settings_update_now" formatted="false">Update now</string>
+    <string name="settings_update_url" formatted="false">Update address</string>
+    <string name="settings_update_url_empty" formatted="false">Not set</string>
+    <string name="settings_update_url_hint" formatted="false">Use {region} where the region code goes, for example ir or global.</string>
+    <string name="settings_updating" formatted="false">Updating…</string>
+    <string name="settings_week_start" formatted="false">First day of the week</string>
+    <string name="source_bundled" formatted="false">Built-in</string>
+    <string name="source_online" formatted="false">Online</string>
+    <string name="stats_current_streak">Best current streak: %1$d days</string>
+    <string name="stats_done_of">%1$d of %2$d done</string>
+    <string name="stats_focus_sessions">Sessions: %1$d</string>
+    <string name="stats_focus_total">Total focus: %1$d min</string>
+    <string name="stats_focus_week">Last 7 days: %1$d min</string>
+    <string name="stats_habits_count">Habits: %1$d</string>
+    <string name="stats_lists_count">Lists: %1$d</string>
+    <string name="stats_longest_streak">Longest streak: %1$d days</string>
+    <string name="stats_overdue">Overdue tasks: %1$d</string>
+    <string name="stats_title" formatted="false">Statistics</string>
+    <string name="streak_format">%1$d-day streak</string>
+    <string name="sync_status_error" formatted="false">Error</string>
+    <string name="sync_status_invalid" formatted="false">Invalid data</string>
+    <string name="sync_status_not_configured" formatted="false">Not configured</string>
+    <string name="sync_status_ok" formatted="false">Updated</string>
+    <string name="sync_status_up_to_date" formatted="false">Up to date</string>
+    <string name="sync_summary_failed">%1$d failed</string>
+    <string name="sync_summary_not_configured" formatted="false">Set an update address first.</string>
+    <string name="sync_summary_up_to_date" formatted="false">Everything is up to date.</string>
+    <string name="sync_summary_updated">%1$d updated</string>
+    <string name="tab_goals" formatted="false">Goals</string>
+    <string name="tab_habits" formatted="false">Habits</string>
+    <string name="tab_tasks" formatted="false">Tasks</string>
+    <string name="target" formatted="false">Target</string>
+    <string name="theme_dark" formatted="false">Dark</string>
+    <string name="theme_light" formatted="false">Light</string>
+    <string name="theme_system" formatted="false">System</string>
+    <string name="title" formatted="false">Title</string>
+    <string name="today" formatted="false">Today</string>
+    <string name="today_in_calendar" formatted="false">Today in the calendar</string>
+    <string name="unverified" formatted="false">Unverified</string>
+    <string name="week_starts_on" formatted="false">Week starts on</string>
+    <string name="widget_description" formatted="false">Today\'s date and occasions</string>
+    <string name="widget_name" formatted="false">Nexora Today</string>
+    <string name="widget_no_occasion" formatted="false">No occasions today</string>
+    <string-array name="jalali_months">
+        <item>Farvardin</item>
+        <item>Ordibehesht</item>
+        <item>Khordad</item>
+        <item>Tir</item>
+        <item>Mordad</item>
+        <item>Shahrivar</item>
+        <item>Mehr</item>
+        <item>Aban</item>
+        <item>Azar</item>
+        <item>Dey</item>
+        <item>Bahman</item>
+        <item>Esfand</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi\' al-awwal</item>
+        <item>Rabi\' al-thani</item>
+        <item>Jumada al-awwal</item>
+        <item>Jumada al-thani</item>
+        <item>Rajab</item>
+        <item>Sha\'ban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhu al-Qi\'dah</item>
+        <item>Dhu al-Hijjah</item>
+    </string-array>
+</resources>

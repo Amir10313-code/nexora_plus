@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">Всё работает без интернета, ваши данные остаются на устройстве. Интернет нужен только для обновления списка событий и только если вы указали для него адрес.</string>
+    <string name="about_sources" formatted="false">Ежедневное гадание использует бейты Хафиза Ширази (общественное достояние); толкования — оригинальные тексты, написанные для этого приложения. События берутся из встроенных данных; даты с пометкой «Не проверено» стоит перепроверить.</string>
+    <string name="about_tagline" formatted="false">Календарь, планировщик и ежедневный помощник</string>
+    <string name="about_title" formatted="false">О приложении</string>
+    <string name="about_version" formatted="false">Версия</string>
+    <string name="account_active" formatted="false">Активный аккаунт</string>
+    <string name="account_name" formatted="false">Название аккаунта</string>
+    <string name="accounts_count_format">Аккаунты: %1$d из %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">Можно создать не более 3 аккаунтов.</string>
+    <string name="accounts_title" formatted="false">Аккаунты</string>
+    <string name="add" formatted="false">Добавить</string>
+    <string name="add_account" formatted="false">Новый аккаунт</string>
+    <string name="add_block" formatted="false">Добавить блок</string>
+    <string name="add_event" formatted="false">Добавить событие</string>
+    <string name="add_goal" formatted="false">Новая цель</string>
+    <string name="add_habit" formatted="false">Новая привычка</string>
+    <string name="add_item_hint" formatted="false">Добавьте пункт</string>
+    <string name="add_list" formatted="false">Новый список</string>
+    <string name="add_task" formatted="false">Новая задача</string>
+    <string name="app_name" formatted="false">Nexora Plus</string>
+    <string name="back" formatted="false">Назад</string>
+    <string name="backup_export" formatted="false">Экспорт резервной копии</string>
+    <string name="backup_export_done" formatted="false">Резервная копия сохранена.</string>
+    <string name="backup_export_failed" formatted="false">Не удалось сохранить резервную копию.</string>
+    <string name="backup_import" formatted="false">Импорт резервной копии</string>
+    <string name="backup_import_done">Копия импортирована (добавлено аккаунтов: %1$d).</string>
+    <string name="backup_import_invalid" formatted="false">Этот файл не является корректной копией Nexora.</string>
+    <string name="backup_import_too_many" formatted="false">Импорт превысит лимит в 3 аккаунта. Сначала удалите аккаунт.</string>
+    <string name="backup_import_unsupported" formatted="false">Эта копия создана более новой версией приложения.</string>
+    <string name="block_name" formatted="false">Название блока</string>
+    <string name="cal_gregorian" formatted="false">Григорианский</string>
+    <string name="cal_hijri" formatted="false">Хиджри</string>
+    <string name="cal_jalali" formatted="false">Джалали</string>
+    <string name="calendar_gregorian" formatted="false">Григорианский</string>
+    <string name="calendar_hijri" formatted="false">Хиджры (лунный)</string>
+    <string name="calendar_jalali" formatted="false">Джалали (персидский)</string>
+    <string name="cancel" formatted="false">Отмена</string>
+    <string name="cat_global" formatted="false">Всемирное</string>
+    <string name="cat_national" formatted="false">Национальное</string>
+    <string name="cat_official" formatted="false">Официальное</string>
+    <string name="cat_religious" formatted="false">Религиозное</string>
+    <string name="cell_text" formatted="false">Текст</string>
+    <string name="clear" formatted="false">Очистить</string>
+    <string name="confirm_delete_account_message" formatted="false">Аккаунт будет удалён навсегда вместе со всеми задачами, целями, привычками, списками, расписанием и историей.</string>
+    <string name="confirm_delete_message" formatted="false">Элемент будет удалён. Это нельзя отменить.</string>
+    <string name="daily_fortune" formatted="false">Гадание дня</string>
+    <string name="decrease" formatted="false">Уменьшить</string>
+    <string name="default_account_name" formatted="false">Мой аккаунт</string>
+    <string name="default_saved" formatted="false">Сохранено как стандартное</string>
+    <string name="delete" formatted="false">Удалить</string>
+    <string name="due_date" formatted="false">Срок</string>
+    <string name="edit" formatted="false">Изменить</string>
+    <string name="edit_account" formatted="false">Изменить аккаунт</string>
+    <string name="edit_cell" formatted="false">Изменить ячейку</string>
+    <string name="edit_goal" formatted="false">Изменить цель</string>
+    <string name="edit_habit" formatted="false">Изменить привычку</string>
+    <string name="edit_list" formatted="false">Изменить список</string>
+    <string name="edit_task" formatted="false">Изменить задачу</string>
+    <string name="empty_goals_message" formatted="false">Добавьте цель и следите за прогрессом.</string>
+    <string name="empty_goals_title" formatted="false">Целей пока нет</string>
+    <string name="empty_habits_message" formatted="false">Добавьте привычку и отмечайте её каждый день, чтобы набрать серию.</string>
+    <string name="empty_habits_title" formatted="false">Привычек пока нет</string>
+    <string name="empty_lists_message" formatted="false">Создайте список для покупок, поездки или чего угодно.</string>
+    <string name="empty_lists_title" formatted="false">Списков пока нет</string>
+    <string name="empty_tasks_message" formatted="false">Добавьте первую задачу кнопкой +.</string>
+    <string name="empty_tasks_title" formatted="false">Задач пока нет</string>
+    <string name="focus_completed" formatted="false">Завершено</string>
+    <string name="focus_dnd" formatted="false">Не беспокоить</string>
+    <string name="focus_dnd_hint" formatted="false">Отключить уведомления на время сессии</string>
+    <string name="focus_dnd_needs_access" formatted="false">Нужен доступ к режиму «Не беспокоить»</string>
+    <string name="focus_history" formatted="false">История</string>
+    <string name="focus_history_empty" formatted="false">Сессий пока нет.</string>
+    <string name="focus_open_settings" formatted="false">Открыть настройки доступа</string>
+    <string name="focus_start" formatted="false">Начать</string>
+    <string name="focus_stop" formatted="false">Остановить</string>
+    <string name="focus_stopped_early" formatted="false">Остановлено досрочно</string>
+    <string name="focus_title" formatted="false">Глубокий фокус</string>
+    <string name="fortune_disclaimer" formatted="false">Бейты принадлежат Хафизу (общественное достояние); в разных изданиях текст немного отличается. Толкования предназначены для вдохновения, а не для предсказаний.</string>
+    <string name="fortune_history" formatted="false">Предыдущие дни</string>
+    <string name="fortune_meaning_1" formatted="false">Начало может казаться лёгким, а трудности проявляются позже. Двигайтесь спокойно: терпение превращает тяжёлый старт в ровный прогресс.</string>
+    <string name="fortune_meaning_10" formatted="false">Хороший день, чтобы начать новое. Нарушьте привычный порядок и попробуйте свежий план.</string>
+    <string name="fortune_meaning_11" formatted="false">После неудачи надежда — ветер, что несёт вперёд. Пробуйте снова: может появиться дружеское лицо.</string>
+    <string name="fortune_meaning_12" formatted="false">Скромность открывает глаза. Учитесь у каждого встречного, и взгляд станет яснее.</string>
+    <string name="fortune_meaning_2" formatted="false">Близок тихий миг вдохновения. Сегодня замечайте мелкие знаки и будьте благодарны за то, что вам дано.</string>
+    <string name="fortune_meaning_3" formatted="false">Трудный период проходит. Потерянное может вернуться в новом виде, так что сохраняйте надежду.</string>
+    <string name="fortune_meaning_4" formatted="false">Тёплые воспоминания — источник силы. Сегодня свяжитесь с тем, кто вам дорог.</string>
+    <string name="fortune_meaning_5" formatted="false">То, что вы ищете вдали, возможно, уже в вас. Загляните внутрь, прежде чем искать снаружи.</string>
+    <string name="fortune_meaning_6" formatted="false">Возможно, в пути весточка или встреча. Будьте добры, когда обращаетесь к людям, и ответ будет добрым.</string>
+    <string name="fortune_meaning_7" formatted="false">Не позволяйте мирским заботам связать вас. Освободитесь от того, что тянет вниз, и цельтесь выше.</string>
+    <string name="fortune_meaning_8" formatted="false">Свобода приходит, когда нужно меньше. Выберите сегодня одну вещь, от которой откажетесь, и почувствуйте лёгкость.</string>
+    <string name="fortune_meaning_9" formatted="false">Будьте тёплыми с друзьями и справедливыми с несогласными. Хорошие манеры решают больше, чем споры.</string>
+    <string name="fortune_meaning_label" formatted="false">Толкование</string>
+    <string name="greeting_afternoon" formatted="false">Добрый день</string>
+    <string name="greeting_evening" formatted="false">Добрый вечер</string>
+    <string name="greeting_morning" formatted="false">Доброе утро</string>
+    <string name="greeting_night" formatted="false">Доброй ночи</string>
+    <string name="holiday" formatted="false">Выходной</string>
+    <string name="increase" formatted="false">Увеличить</string>
+    <string name="items_done_format">Выполнено %1$d из %2$d</string>
+    <string name="kind_event" formatted="false">Событие</string>
+    <string name="kind_goal" formatted="false">Цель</string>
+    <string name="kind_habit" formatted="false">Привычка</string>
+    <string name="kind_list" formatted="false">Список</string>
+    <string name="kind_list_item" formatted="false">Пункт списка</string>
+    <string name="kind_task" formatted="false">Задача</string>
+    <string name="language_device_default" formatted="false">Как в устройстве</string>
+    <string name="lists_title" formatted="false">Списки</string>
+    <string name="manage_blocks" formatted="false">Управление блоками</string>
+    <string name="mark_today" formatted="false">Отметить сегодня</string>
+    <string name="minutes_format">%1$d мин</string>
+    <string name="minutes_unit" formatted="false">Минуты</string>
+    <string name="move_down" formatted="false">Вниз</string>
+    <string name="move_up" formatted="false">Вверх</string>
+    <string name="my_event_prefix">Моё событие: %1$s</string>
+    <string name="my_events" formatted="false">Мои события</string>
+    <string name="nav_calendar" formatted="false">Календарь</string>
+    <string name="nav_home" formatted="false">Главная</string>
+    <string name="nav_more" formatted="false">Ещё</string>
+    <string name="nav_tasks" formatted="false">Задачи</string>
+    <string name="nav_weekly" formatted="false">Неделя</string>
+    <string name="next" formatted="false">Далее</string>
+    <string name="no_blocks_message" formatted="false">Добавьте временной блок, чтобы начать составлять недельное расписание.</string>
+    <string name="no_blocks_title" formatted="false">Блоков пока нет</string>
+    <string name="no_color" formatted="false">Без цвета</string>
+    <string name="no_occasions_day" formatted="false">В этот день событий нет.</string>
+    <string name="no_occasions_today" formatted="false">Сегодня событий нет.</string>
+    <string name="note" formatted="false">Заметка</string>
+    <string name="ok" formatted="false">ОК</string>
+    <string name="overdue" formatted="false">Просрочено</string>
+    <string name="percent_format">%1$d %%</string>
+    <string name="pin" formatted="false">Закрепить</string>
+    <string name="previous" formatted="false">Назад</string>
+    <string name="priority_high" formatted="false">Высокий</string>
+    <string name="priority_low" formatted="false">Низкий</string>
+    <string name="priority_normal" formatted="false">Обычный</string>
+    <string name="progress" formatted="false">Прогресс</string>
+    <string name="quote_1" formatted="false">Маленькие шаги каждый день складываются в большие перемены.</string>
+    <string name="quote_10" formatted="false">Ваше будущее строится из сегодняшних привычек.</string>
+    <string name="quote_2" formatted="false">Начинайте там, где вы есть, с тем, что имеете, делайте, что можете.</string>
+    <string name="quote_3" formatted="false">Думайте о прогрессе, а не о совершенстве.</string>
+    <string name="quote_4" formatted="false">Отдых — часть работы, а не перерыв в ней.</string>
+    <string name="quote_5" formatted="false">Сегодня чистая страница. Напишите на ней то, чем будете гордиться.</string>
+    <string name="quote_6" formatted="false">То, что вы делаете каждый день, важнее того, что делаете время от времени.</string>
+    <string name="quote_7" formatted="false">Будьте терпеливы к себе: рост требует времени.</string>
+    <string name="quote_8" formatted="false">Одно завершённое дело ценнее десяти идеальных планов.</string>
+    <string name="quote_9" formatted="false">Доброта ничего не стоит и меняет всё.</string>
+    <string name="repeat_yearly" formatted="false">Повторять каждый год</string>
+    <string name="repeats_yearly" formatted="false">Каждый год</string>
+    <string name="reset" formatted="false">Сбросить</string>
+    <string name="reset_blocks_message" formatted="false">Блоки и ячейки будут заменены вашим сохранённым стандартным расписанием (или заводским).</string>
+    <string name="reset_to_default" formatted="false">Вернуть стандартное</string>
+    <string name="save" formatted="false">Сохранить</string>
+    <string name="save_as_default" formatted="false">Сохранить как стандартное</string>
+    <string name="search" formatted="false">Поиск</string>
+    <string name="search_empty_message" formatted="false">Попробуйте другие слова.</string>
+    <string name="search_empty_title" formatted="false">Ничего не найдено</string>
+    <string name="search_hint" formatted="false">Поиск задач, списков, событий…</string>
+    <string name="search_title" formatted="false">Поиск</string>
+    <string name="set_due_date" formatted="false">Указать срок</string>
+    <string name="set_target_date" formatted="false">Указать целевую дату</string>
+    <string name="settings_auto" formatted="false">Автоматически</string>
+    <string name="settings_auto_update" formatted="false">Обновлять автоматически</string>
+    <string name="settings_backup" formatted="false">Резервная копия</string>
+    <string name="settings_backup_hint" formatted="false">Сохраните данные в JSON-файл или восстановите их из него.</string>
+    <string name="settings_calendar" formatted="false">Календарь и события</string>
+    <string name="settings_calendar_type" formatted="false">Тип календаря</string>
+    <string name="settings_general" formatted="false">Общие</string>
+    <string name="settings_hijri_correction" formatted="false">Поправка даты хиджри</string>
+    <string name="settings_hijri_correction_hint" formatted="false">Сдвиг в днях по местному наблюдению луны</string>
+    <string name="settings_language" formatted="false">Язык</string>
+    <string name="settings_occasions_update" formatted="false">Обновление событий</string>
+    <string name="settings_region" formatted="false">Страна событий</string>
+    <string name="settings_show_hijri" formatted="false">Показывать дату хиджри рядом</string>
+    <string name="settings_theme" formatted="false">Тема</string>
+    <string name="settings_title" formatted="false">Настройки</string>
+    <string name="settings_update_now" formatted="false">Обновить сейчас</string>
+    <string name="settings_update_url" formatted="false">Адрес обновления</string>
+    <string name="settings_update_url_empty" formatted="false">Не задан</string>
+    <string name="settings_update_url_hint" formatted="false">Вместо кода региона укажите {region}, например ir или global.</string>
+    <string name="settings_updating" formatted="false">Обновление…</string>
+    <string name="settings_week_start" formatted="false">Первый день недели</string>
+    <string name="source_bundled" formatted="false">Встроенные</string>
+    <string name="source_online" formatted="false">Из сети</string>
+    <string name="stats_current_streak">Лучшая текущая серия: %1$d дн.</string>
+    <string name="stats_done_of">Выполнено %1$d из %2$d</string>
+    <string name="stats_focus_sessions">Сессий: %1$d</string>
+    <string name="stats_focus_total">Всего фокуса: %1$d мин</string>
+    <string name="stats_focus_week">За 7 дней: %1$d мин</string>
+    <string name="stats_habits_count">Привычек: %1$d</string>
+    <string name="stats_lists_count">Списков: %1$d</string>
+    <string name="stats_longest_streak">Самая длинная серия: %1$d дн.</string>
+    <string name="stats_overdue">Просроченных задач: %1$d</string>
+    <string name="stats_title" formatted="false">Статистика</string>
+    <string name="streak_format">Серия: %1$d дн.</string>
+    <string name="sync_status_error" formatted="false">Ошибка</string>
+    <string name="sync_status_invalid" formatted="false">Неверные данные</string>
+    <string name="sync_status_not_configured" formatted="false">Не настроено</string>
+    <string name="sync_status_ok" formatted="false">Обновлено</string>
+    <string name="sync_status_up_to_date" formatted="false">Актуально</string>
+    <string name="sync_summary_failed">Не удалось: %1$d</string>
+    <string name="sync_summary_not_configured" formatted="false">Сначала задайте адрес обновления.</string>
+    <string name="sync_summary_up_to_date" formatted="false">Всё актуально.</string>
+    <string name="sync_summary_updated">Обновлено: %1$d</string>
+    <string name="tab_goals" formatted="false">Цели</string>
+    <string name="tab_habits" formatted="false">Привычки</string>
+    <string name="tab_tasks" formatted="false">Задачи</string>
+    <string name="target" formatted="false">Цель</string>
+    <string name="theme_dark" formatted="false">Тёмная</string>
+    <string name="theme_light" formatted="false">Светлая</string>
+    <string name="theme_system" formatted="false">Системная</string>
+    <string name="title" formatted="false">Название</string>
+    <string name="today" formatted="false">Сегодня</string>
+    <string name="today_in_calendar" formatted="false">Сегодня в календаре</string>
+    <string name="unverified" formatted="false">Не проверено</string>
+    <string name="week_starts_on" formatted="false">Неделя начинается с</string>
+    <string name="widget_description" formatted="false">Сегодняшняя дата и события</string>
+    <string name="widget_name" formatted="false">Nexora Сегодня</string>
+    <string name="widget_no_occasion" formatted="false">Сегодня событий нет</string>
+    <string-array name="jalali_months">
+        <item>Фарвардин</item>
+        <item>Ордибехешт</item>
+        <item>Хордад</item>
+        <item>Тир</item>
+        <item>Мордад</item>
+        <item>Шахривар</item>
+        <item>Мехр</item>
+        <item>Абан</item>
+        <item>Азар</item>
+        <item>Дей</item>
+        <item>Бахман</item>
+        <item>Эсфанд</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>Мухаррам</item>
+        <item>Сафар</item>
+        <item>Рабиуль-авваль</item>
+        <item>Рабиуль-ахир</item>
+        <item>Джумадаль-уля</item>
+        <item>Джумадаль-ахира</item>
+        <item>Раджаб</item>
+        <item>Шаабан</item>
+        <item>Рамадан</item>
+        <item>Шавваль</item>
+        <item>Зуль-каада</item>
+        <item>Зуль-хиджжа</item>
+    </string-array>
+</resources>

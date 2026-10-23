@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">所有功能均可离线使用，数据只保存在您的设备上。仅在您设置了更新地址时，才会联网更新节日列表。</string>
+    <string name="about_sources" formatted="false">每日占卜使用设拉子哈菲兹的诗句（公有领域），解读为专为本应用撰写的原创文字。节日来自内置数据；标记为“未核实”的日期请自行再确认。</string>
+    <string name="about_tagline" formatted="false">日历、计划与每日伴侣</string>
+    <string name="about_title" formatted="false">关于</string>
+    <string name="about_version" formatted="false">版本</string>
+    <string name="account_active" formatted="false">当前账户</string>
+    <string name="account_name" formatted="false">账户名称</string>
+    <string name="accounts_count_format">账户：%1$d / %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">最多可以拥有 3 个账户。</string>
+    <string name="accounts_title" formatted="false">账户</string>
+    <string name="add" formatted="false">添加</string>
+    <string name="add_account" formatted="false">新建账户</string>
+    <string name="add_block" formatted="false">添加时段</string>
+    <string name="add_event" formatted="false">添加节日</string>
+    <string name="add_goal" formatted="false">新目标</string>
+    <string name="add_habit" formatted="false">新习惯</string>
+    <string name="add_item_hint" formatted="false">添加一项</string>
+    <string name="add_list" formatted="false">新清单</string>
+    <string name="add_task" formatted="false">新任务</string>
+    <string name="app_name" formatted="false">Nexora Plus</string>
+    <string name="back" formatted="false">返回</string>
+    <string name="backup_export" formatted="false">导出备份</string>
+    <string name="backup_export_done" formatted="false">备份已保存。</string>
+    <string name="backup_export_failed" formatted="false">无法保存备份。</string>
+    <string name="backup_import" formatted="false">导入备份</string>
+    <string name="backup_import_done">备份已导入（新增 %1$d 个账户）。</string>
+    <string name="backup_import_invalid" formatted="false">此文件不是有效的 Nexora 备份。</string>
+    <string name="backup_import_too_many" formatted="false">导入将超过 3 个账户的上限，请先删除一个账户。</string>
+    <string name="backup_import_unsupported" formatted="false">此备份由更新版本的应用创建。</string>
+    <string name="block_name" formatted="false">时段名称</string>
+    <string name="cal_gregorian" formatted="false">公历</string>
+    <string name="cal_hijri" formatted="false">伊斯兰历</string>
+    <string name="cal_jalali" formatted="false">波斯历</string>
+    <string name="calendar_gregorian" formatted="false">公历</string>
+    <string name="calendar_hijri" formatted="false">伊斯兰历（回历）</string>
+    <string name="calendar_jalali" formatted="false">波斯历（贾拉利）</string>
+    <string name="cancel" formatted="false">取消</string>
+    <string name="cat_global" formatted="false">国际</string>
+    <string name="cat_national" formatted="false">国家</string>
+    <string name="cat_official" formatted="false">官方</string>
+    <string name="cat_religious" formatted="false">宗教</string>
+    <string name="cell_text" formatted="false">文字</string>
+    <string name="clear" formatted="false">清除</string>
+    <string name="confirm_delete_account_message" formatted="false">此账户及其所有任务、目标、习惯、清单、周计划和历史记录将被永久删除。</string>
+    <string name="confirm_delete_message" formatted="false">此项将被删除，且无法撤销。</string>
+    <string name="daily_fortune" formatted="false">每日占卜</string>
+    <string name="decrease" formatted="false">减少</string>
+    <string name="default_account_name" formatted="false">我的账户</string>
+    <string name="default_saved" formatted="false">已保存为默认</string>
+    <string name="delete" formatted="false">删除</string>
+    <string name="due_date" formatted="false">截止日期</string>
+    <string name="edit" formatted="false">编辑</string>
+    <string name="edit_account" formatted="false">编辑账户</string>
+    <string name="edit_cell" formatted="false">编辑单元格</string>
+    <string name="edit_goal" formatted="false">编辑目标</string>
+    <string name="edit_habit" formatted="false">编辑习惯</string>
+    <string name="edit_list" formatted="false">编辑清单</string>
+    <string name="edit_task" formatted="false">编辑任务</string>
+    <string name="empty_goals_message" formatted="false">添加一个目标，追踪你的进度。</string>
+    <string name="empty_goals_title" formatted="false">还没有目标</string>
+    <string name="empty_habits_message" formatted="false">添加一个习惯，每天打卡来累积连续天数。</string>
+    <string name="empty_habits_title" formatted="false">还没有习惯</string>
+    <string name="empty_lists_message" formatted="false">为购物、旅行或其他事情创建清单。</string>
+    <string name="empty_lists_title" formatted="false">还没有清单</string>
+    <string name="empty_tasks_message" formatted="false">点击 + 按钮添加第一个任务。</string>
+    <string name="empty_tasks_title" formatted="false">还没有任务</string>
+    <string name="focus_completed" formatted="false">已完成</string>
+    <string name="focus_dnd" formatted="false">勿扰模式</string>
+    <string name="focus_dnd_hint" formatted="false">专注期间静音通知</string>
+    <string name="focus_dnd_needs_access" formatted="false">需要“勿扰”权限</string>
+    <string name="focus_history" formatted="false">历史记录</string>
+    <string name="focus_history_empty" formatted="false">还没有专注记录。</string>
+    <string name="focus_open_settings" formatted="false">打开权限设置</string>
+    <string name="focus_start" formatted="false">开始</string>
+    <string name="focus_stop" formatted="false">停止</string>
+    <string name="focus_stopped_early" formatted="false">提前结束</string>
+    <string name="focus_title" formatted="false">深度专注</string>
+    <string name="fortune_disclaimer" formatted="false">诗句出自哈菲兹（公有领域），不同版本的文字略有差异。解读仅供启发，并非预言。</string>
+    <string name="fortune_history" formatted="false">往日记录</string>
+    <string name="fortune_meaning_1" formatted="false">开始时事情看似容易，随后困难才显现。保持平静，耐心会把艰难的开端变成稳步的进展。</string>
+    <string name="fortune_meaning_10" formatted="false">适合开始新事物的一天。打破旧的惯例，尝试新的计划。</string>
+    <string name="fortune_meaning_11" formatted="false">挫折之后，希望就是推你前行的风。继续尝试，也许会遇到友善的面孔。</string>
+    <string name="fortune_meaning_12" formatted="false">谦逊让人眼明。向遇到的每个人学习，你的视野会更清晰。</string>
+    <string name="fortune_meaning_2" formatted="false">一个宁静的灵感时刻即将到来。今天留意细小的迹象，并感恩所拥有的一切。</string>
+    <string name="fortune_meaning_3" formatted="false">艰难的时期正在过去。失去的东西可能以新的形式回来，请保持希望。</string>
+    <string name="fortune_meaning_4" formatted="false">美好的回忆是力量的源泉。今天联系一位你在乎的人吧。</string>
+    <string name="fortune_meaning_5" formatted="false">你在远方寻找的，也许就在你心里。向外寻找之前，先向内看看。</string>
+    <string name="fortune_meaning_6" formatted="false">可能有一则消息或一次重逢在路上。主动联系时多一份善意，回应也会温和。</string>
+    <string name="fortune_meaning_7" formatted="false">别让世俗的烦恼束缚你。摆脱拖累你的事物，把目标放得更高。</string>
+    <string name="fortune_meaning_8" formatted="false">自由来自需求更少。今天选一件事放下，感受那份轻松。</string>
+    <string name="fortune_meaning_9" formatted="false">对朋友热情，对异见者公正。良好的态度往往比争论更能解决问题。</string>
+    <string name="fortune_meaning_label" formatted="false">解读</string>
+    <string name="greeting_afternoon" formatted="false">下午好</string>
+    <string name="greeting_evening" formatted="false">晚上好</string>
+    <string name="greeting_morning" formatted="false">早上好</string>
+    <string name="greeting_night" formatted="false">晚安</string>
+    <string name="holiday" formatted="false">假日</string>
+    <string name="increase" formatted="false">增加</string>
+    <string name="items_done_format">已完成 %1$d / %2$d</string>
+    <string name="kind_event" formatted="false">节日</string>
+    <string name="kind_goal" formatted="false">目标</string>
+    <string name="kind_habit" formatted="false">习惯</string>
+    <string name="kind_list" formatted="false">清单</string>
+    <string name="kind_list_item" formatted="false">清单项</string>
+    <string name="kind_task" formatted="false">任务</string>
+    <string name="language_device_default" formatted="false">跟随设备</string>
+    <string name="lists_title" formatted="false">清单</string>
+    <string name="manage_blocks" formatted="false">管理时段</string>
+    <string name="mark_today" formatted="false">标记今天</string>
+    <string name="minutes_format">%1$d 分钟</string>
+    <string name="minutes_unit" formatted="false">分钟</string>
+    <string name="move_down" formatted="false">下移</string>
+    <string name="move_up" formatted="false">上移</string>
+    <string name="my_event_prefix">我的节日：%1$s</string>
+    <string name="my_events" formatted="false">我的节日</string>
+    <string name="nav_calendar" formatted="false">日历</string>
+    <string name="nav_home" formatted="false">首页</string>
+    <string name="nav_more" formatted="false">更多</string>
+    <string name="nav_tasks" formatted="false">任务</string>
+    <string name="nav_weekly" formatted="false">周计划</string>
+    <string name="next" formatted="false">下一个</string>
+    <string name="no_blocks_message" formatted="false">添加一个时间段，开始制作你的周计划。</string>
+    <string name="no_blocks_title" formatted="false">还没有时段</string>
+    <string name="no_color" formatted="false">无颜色</string>
+    <string name="no_occasions_day" formatted="false">这一天没有节日。</string>
+    <string name="no_occasions_today" formatted="false">今天没有节日。</string>
+    <string name="note" formatted="false">备注</string>
+    <string name="ok" formatted="false">确定</string>
+    <string name="overdue" formatted="false">已逾期</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="pin" formatted="false">置顶</string>
+    <string name="previous" formatted="false">上一个</string>
+    <string name="priority_high" formatted="false">高</string>
+    <string name="priority_low" formatted="false">低</string>
+    <string name="priority_normal" formatted="false">普通</string>
+    <string name="progress" formatted="false">进度</string>
+    <string name="quote_1" formatted="false">每天迈出的小步，汇成巨大的改变。</string>
+    <string name="quote_10" formatted="false">你的未来由今天的习惯塑造。</string>
+    <string name="quote_2" formatted="false">从你所在之处开始，用你所拥有的，做你能做的。</string>
+    <string name="quote_3" formatted="false">关注进步，而不是完美。</string>
+    <string name="quote_4" formatted="false">休息是工作的一部分，而不是工作的中断。</string>
+    <string name="quote_5" formatted="false">今天是崭新的一页，写下让你自豪的内容吧。</string>
+    <string name="quote_6" formatted="false">你每天做的事，比偶尔做的事更重要。</string>
+    <string name="quote_7" formatted="false">对自己多一点耐心，成长需要时间。</string>
+    <string name="quote_8" formatted="false">完成一件事，胜过十个完美的计划。</string>
+    <string name="quote_9" formatted="false">善意不花一分钱，却能改变一切。</string>
+    <string name="repeat_yearly" formatted="false">每年重复</string>
+    <string name="repeats_yearly" formatted="false">每年</string>
+    <string name="reset" formatted="false">重置</string>
+    <string name="reset_blocks_message" formatted="false">时段和单元格将被替换为你保存的默认设置（或出厂默认）。</string>
+    <string name="reset_to_default" formatted="false">恢复默认</string>
+    <string name="save" formatted="false">保存</string>
+    <string name="save_as_default" formatted="false">保存为默认</string>
+    <string name="search" formatted="false">搜索</string>
+    <string name="search_empty_message" formatted="false">换几个关键词试试。</string>
+    <string name="search_empty_title" formatted="false">没有结果</string>
+    <string name="search_hint" formatted="false">搜索任务、清单、节日……</string>
+    <string name="search_title" formatted="false">搜索</string>
+    <string name="set_due_date" formatted="false">设置截止日期</string>
+    <string name="set_target_date" formatted="false">设置目标日期</string>
+    <string name="settings_auto" formatted="false">自动</string>
+    <string name="settings_auto_update" formatted="false">自动更新</string>
+    <string name="settings_backup" formatted="false">备份</string>
+    <string name="settings_backup_hint" formatted="false">将数据保存为 JSON 文件，或从文件恢复。</string>
+    <string name="settings_calendar" formatted="false">日历与节日</string>
+    <string name="settings_calendar_type" formatted="false">日历类型</string>
+    <string name="settings_general" formatted="false">通用</string>
+    <string name="settings_hijri_correction" formatted="false">伊斯兰历日期校正</string>
+    <string name="settings_hijri_correction_hint" formatted="false">按当地见月情况调整天数</string>
+    <string name="settings_language" formatted="false">语言</string>
+    <string name="settings_occasions_update" formatted="false">节日更新</string>
+    <string name="settings_region" formatted="false">节日所属国家</string>
+    <string name="settings_show_hijri" formatted="false">同时显示伊斯兰历日期</string>
+    <string name="settings_theme" formatted="false">主题</string>
+    <string name="settings_title" formatted="false">设置</string>
+    <string name="settings_update_now" formatted="false">立即更新</string>
+    <string name="settings_update_url" formatted="false">更新地址</string>
+    <string name="settings_update_url_empty" formatted="false">未设置</string>
+    <string name="settings_update_url_hint" formatted="false">用 {region} 代替地区代码，例如 ir 或 global。</string>
+    <string name="settings_updating" formatted="false">正在更新……</string>
+    <string name="settings_week_start" formatted="false">每周第一天</string>
+    <string name="source_bundled" formatted="false">内置</string>
+    <string name="source_online" formatted="false">在线</string>
+    <string name="stats_current_streak">当前最佳连续：%1$d 天</string>
+    <string name="stats_done_of">已完成 %1$d / %2$d</string>
+    <string name="stats_focus_sessions">专注次数：%1$d</string>
+    <string name="stats_focus_total">总专注：%1$d 分钟</string>
+    <string name="stats_focus_week">近 7 天：%1$d 分钟</string>
+    <string name="stats_habits_count">习惯：%1$d</string>
+    <string name="stats_lists_count">清单：%1$d</string>
+    <string name="stats_longest_streak">最长连续：%1$d 天</string>
+    <string name="stats_overdue">逾期任务：%1$d</string>
+    <string name="stats_title" formatted="false">统计</string>
+    <string name="streak_format">连续 %1$d 天</string>
+    <string name="sync_status_error" formatted="false">错误</string>
+    <string name="sync_status_invalid" formatted="false">数据无效</string>
+    <string name="sync_status_not_configured" formatted="false">未配置</string>
+    <string name="sync_status_ok" formatted="false">已更新</string>
+    <string name="sync_status_up_to_date" formatted="false">已是最新</string>
+    <string name="sync_summary_failed">%1$d 个失败</string>
+    <string name="sync_summary_not_configured" formatted="false">请先设置更新地址。</string>
+    <string name="sync_summary_up_to_date" formatted="false">全部已是最新。</string>
+    <string name="sync_summary_updated">已更新 %1$d 个</string>
+    <string name="tab_goals" formatted="false">目标</string>
+    <string name="tab_habits" formatted="false">习惯</string>
+    <string name="tab_tasks" formatted="false">任务</string>
+    <string name="target" formatted="false">目标</string>
+    <string name="theme_dark" formatted="false">深色</string>
+    <string name="theme_light" formatted="false">浅色</string>
+    <string name="theme_system" formatted="false">跟随系统</string>
+    <string name="title" formatted="false">标题</string>
+    <string name="today" formatted="false">今天</string>
+    <string name="today_in_calendar" formatted="false">今天的日历</string>
+    <string name="unverified" formatted="false">未核实</string>
+    <string name="week_starts_on" formatted="false">每周开始于</string>
+    <string name="widget_description" formatted="false">今天的日期和节日</string>
+    <string name="widget_name" formatted="false">Nexora 今日</string>
+    <string name="widget_no_occasion" formatted="false">今天没有节日</string>
+    <string-array name="jalali_months">
+        <item>Farvardin</item>
+        <item>Ordibehesht</item>
+        <item>Khordad</item>
+        <item>Tir</item>
+        <item>Mordad</item>
+        <item>Shahrivar</item>
+        <item>Mehr</item>
+        <item>Aban</item>
+        <item>Azar</item>
+        <item>Dey</item>
+        <item>Bahman</item>
+        <item>Esfand</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>穆哈兰月</item>
+        <item>色法尔月</item>
+        <item>赖比尔·敖外鲁月</item>
+        <item>赖比尔·阿色尼月</item>
+        <item>主马达·敖外鲁月</item>
+        <item>主马达·阿色尼月</item>
+        <item>赖哲卜月</item>
+        <item>舍尔邦月</item>
+        <item>莱麦丹月</item>
+        <item>肖瓦鲁月</item>
+        <item>都尔喀尔德月</item>
+        <item>都尔黑哲月</item>
+    </string-array>
+</resources>

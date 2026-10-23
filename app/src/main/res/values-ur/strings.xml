@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">سب کچھ انٹرنیٹ کے بغیر چلتا ہے اور آپ کا ڈیٹا آپ کے آلے پر رہتا ہے۔ انٹرنیٹ صرف مواقع کی فہرست اپ ڈیٹ کرنے کے لیے، اور صرف اس صورت میں استعمال ہوتا ہے جب آپ نے اس کے لیے پتہ مقرر کیا ہو۔</string>
+    <string name="about_sources" formatted="false">روزانہ فال حافظ شیرازی کے اشعار (ملکیتِ عامہ) پر مبنی ہے؛ تشریحات اسی ایپ کے لیے لکھی گئی اصل تحریریں ہیں۔ مواقع ایپ کے ساتھ آنے والے ڈیٹا سے لیے جاتے ہیں؛ «غیر تصدیق شدہ» نشان والی تاریخیں دوبارہ جانچ لیں۔</string>
+    <string name="about_tagline" formatted="false">کیلنڈر، منصوبہ ساز اور روزانہ کا ساتھی</string>
+    <string name="about_title" formatted="false">کے بارے میں</string>
+    <string name="about_version" formatted="false">ورژن</string>
+    <string name="account_active" formatted="false">فعال اکاؤنٹ</string>
+    <string name="account_name" formatted="false">اکاؤنٹ کا نام</string>
+    <string name="accounts_count_format">اکاؤنٹس: %1$d از %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">آپ زیادہ سے زیادہ 3 اکاؤنٹس رکھ سکتے ہیں۔</string>
+    <string name="accounts_title" formatted="false">اکاؤنٹس</string>
+    <string name="add" formatted="false">شامل کریں</string>
+    <string name="add_account" formatted="false">نیا اکاؤنٹ</string>
+    <string name="add_block" formatted="false">وقفہ شامل کریں</string>
+    <string name="add_event" formatted="false">موقع شامل کریں</string>
+    <string name="add_goal" formatted="false">نیا ہدف</string>
+    <string name="add_habit" formatted="false">نئی عادت</string>
+    <string name="add_item_hint" formatted="false">ایک آئٹم شامل کریں</string>
+    <string name="add_list" formatted="false">نئی فہرست</string>
+    <string name="add_task" formatted="false">نیا کام</string>
+    <string name="app_name" formatted="false">نیکسورا پلس</string>
+    <string name="back" formatted="false">واپس</string>
+    <string name="backup_export" formatted="false">بیک اپ برآمد کریں</string>
+    <string name="backup_export_done" formatted="false">بیک اپ محفوظ ہو گیا۔</string>
+    <string name="backup_export_failed" formatted="false">بیک اپ محفوظ نہیں ہو سکا۔</string>
+    <string name="backup_import" formatted="false">بیک اپ درآمد کریں</string>
+    <string name="backup_import_done">بیک اپ درآمد ہو گیا (%1$d اکاؤنٹ شامل ہوئے)۔</string>
+    <string name="backup_import_invalid" formatted="false">یہ فائل نیکسورا کا درست بیک اپ نہیں ہے۔</string>
+    <string name="backup_import_too_many" formatted="false">درآمد کرنے سے 3 اکاؤنٹس کی حد پار ہو جائے گی۔ پہلے کوئی اکاؤنٹ حذف کریں۔</string>
+    <string name="backup_import_unsupported" formatted="false">یہ بیک اپ ایپ کے نئے ورژن سے بنا ہے۔</string>
+    <string name="block_name" formatted="false">وقفے کا نام</string>
+    <string name="cal_gregorian" formatted="false">عیسوی</string>
+    <string name="cal_hijri" formatted="false">ہجری</string>
+    <string name="cal_jalali" formatted="false">جلالی</string>
+    <string name="calendar_gregorian" formatted="false">عیسوی</string>
+    <string name="calendar_hijri" formatted="false">ہجری</string>
+    <string name="calendar_jalali" formatted="false">جلالی (شمسی ہجری)</string>
+    <string name="cancel" formatted="false">منسوخ</string>
+    <string name="cat_global" formatted="false">عالمی</string>
+    <string name="cat_national" formatted="false">قومی</string>
+    <string name="cat_official" formatted="false">سرکاری</string>
+    <string name="cat_religious" formatted="false">مذہبی</string>
+    <string name="cell_text" formatted="false">متن</string>
+    <string name="clear" formatted="false">صاف کریں</string>
+    <string name="confirm_delete_account_message" formatted="false">یہ اکاؤنٹ اپنے تمام کاموں، اہداف، عادات، فہرستوں، ہفتہ وار شیڈول اور تاریخچے سمیت مستقل طور پر حذف ہو جائے گا۔</string>
+    <string name="confirm_delete_message" formatted="false">یہ آئٹم حذف ہو جائے گا۔ اسے واپس نہیں لایا جا سکتا۔</string>
+    <string name="daily_fortune" formatted="false">روزانہ فال</string>
+    <string name="decrease" formatted="false">کم کریں</string>
+    <string name="default_account_name" formatted="false">میرا اکاؤنٹ</string>
+    <string name="default_saved" formatted="false">بطور ڈیفالٹ محفوظ ہو گیا</string>
+    <string name="delete" formatted="false">حذف کریں</string>
+    <string name="due_date" formatted="false">آخری تاریخ</string>
+    <string name="edit" formatted="false">ترمیم</string>
+    <string name="edit_account" formatted="false">اکاؤنٹ میں ترمیم</string>
+    <string name="edit_cell" formatted="false">خانے میں ترمیم</string>
+    <string name="edit_goal" formatted="false">ہدف میں ترمیم</string>
+    <string name="edit_habit" formatted="false">عادت میں ترمیم</string>
+    <string name="edit_list" formatted="false">فہرست میں ترمیم</string>
+    <string name="edit_task" formatted="false">کام میں ترمیم</string>
+    <string name="empty_goals_message" formatted="false">ایک ہدف شامل کریں اور اپنی پیش رفت دیکھیں۔</string>
+    <string name="empty_goals_title" formatted="false">ابھی کوئی ہدف نہیں</string>
+    <string name="empty_habits_message" formatted="false">ایک عادت شامل کریں اور سلسلہ بنانے کے لیے روزانہ نشان لگائیں۔</string>
+    <string name="empty_habits_title" formatted="false">ابھی کوئی عادت نہیں</string>
+    <string name="empty_lists_message" formatted="false">خریداری، سفر یا کسی اور چیز کے لیے فہرست بنائیں۔</string>
+    <string name="empty_lists_title" formatted="false">ابھی کوئی فہرست نہیں</string>
+    <string name="empty_tasks_message" formatted="false">+ بٹن سے اپنا پہلا کام شامل کریں۔</string>
+    <string name="empty_tasks_title" formatted="false">ابھی کوئی کام نہیں</string>
+    <string name="focus_completed" formatted="false">مکمل</string>
+    <string name="focus_dnd" formatted="false">پریشان نہ کریں</string>
+    <string name="focus_dnd_hint" formatted="false">سیشن کے دوران اطلاعات خاموش رہیں گی</string>
+    <string name="focus_dnd_needs_access" formatted="false">«پریشان نہ کریں» کی رسائی درکار ہے</string>
+    <string name="focus_history" formatted="false">تاریخچہ</string>
+    <string name="focus_history_empty" formatted="false">ابھی کوئی سیشن نہیں۔</string>
+    <string name="focus_open_settings" formatted="false">رسائی کی ترتیبات کھولیں</string>
+    <string name="focus_start" formatted="false">شروع کریں</string>
+    <string name="focus_stop" formatted="false">روکیں</string>
+    <string name="focus_stopped_early" formatted="false">جلد روک دیا گیا</string>
+    <string name="focus_title" formatted="false">گہری توجہ</string>
+    <string name="fortune_disclaimer" formatted="false">اشعار حافظ کے ہیں (ملکیتِ عامہ) اور مختلف ایڈیشنوں میں الفاظ میں معمولی فرق ہوتا ہے۔ تشریحات الہام کے لیے ہیں، پیش گوئی کے لیے نہیں۔</string>
+    <string name="fortune_history" formatted="false">گزشتہ دن</string>
+    <string name="fortune_meaning_1" formatted="false">آغاز آسان لگ سکتا ہے اور پھر مشکلیں سامنے آتی ہیں۔ سکون سے چلتے رہیں؛ صبر مشکل آغاز کو مستقل پیش رفت میں بدل دیتا ہے۔</string>
+    <string name="fortune_meaning_10" formatted="false">نئی شروعات کے لیے اچھا دن ہے۔ پرانا معمول توڑیں اور نیا منصوبہ آزمائیں۔</string>
+    <string name="fortune_meaning_11" formatted="false">ناکامی کے بعد امید وہ ہوا ہے جو آپ کو آگے بڑھاتی ہے۔ کوشش جاری رکھیں؛ کوئی ہمدرد چہرہ مل سکتا ہے۔</string>
+    <string name="fortune_meaning_12" formatted="false">عاجزی آنکھیں کھولتی ہے۔ ہر ملنے والے سے سیکھیں تو نظر صاف ہوتی جائے گی۔</string>
+    <string name="fortune_meaning_2" formatted="false">الہام کا ایک پرسکون لمحہ قریب ہے۔ آج چھوٹی نشانیوں پر دھیان دیں اور جو ملا ہے اس کا شکر ادا کریں۔</string>
+    <string name="fortune_meaning_3" formatted="false">مشکل دور گزر رہا ہے۔ جو کھو گیا وہ نئی صورت میں لوٹ سکتا ہے، امید زندہ رکھیں۔</string>
+    <string name="fortune_meaning_4" formatted="false">اچھی یادیں طاقت کا سرچشمہ ہیں۔ آج کسی عزیز سے رابطہ کریں۔</string>
+    <string name="fortune_meaning_5" formatted="false">جو آپ دور تلاش کر رہے ہیں وہ شاید پہلے ہی آپ کے اندر ہے۔ باہر دیکھنے سے پہلے اپنے اندر جھانکیں۔</string>
+    <string name="fortune_meaning_6" formatted="false">کوئی پیغام یا ملاقات آنے والی ہو سکتی ہے۔ رابطے میں نرمی رکھیں تو جواب بھی نرم ملے گا۔</string>
+    <string name="fortune_meaning_7" formatted="false">دنیاوی فکروں کو خود کو جکڑنے نہ دیں۔ جو چیز آپ کو نیچے کھینچتی ہے اس سے آزاد ہوں اور بلند ہدف رکھیں۔</string>
+    <string name="fortune_meaning_8" formatted="false">آزادی کم کی ضرورت سے آتی ہے۔ آج ایک چیز چھوڑنے کے لیے چنیں اور اس کی ہلکاہٹ محسوس کریں۔</string>
+    <string name="fortune_meaning_9" formatted="false">دوستوں کے ساتھ گرم جوش اور مخالفین کے ساتھ منصف رہیں۔ خوش اخلاقی بحث سے زیادہ مسئلے حل کرتی ہے۔</string>
+    <string name="fortune_meaning_label" formatted="false">تشریح</string>
+    <string name="greeting_afternoon" formatted="false">دوپہر بخیر</string>
+    <string name="greeting_evening" formatted="false">شام بخیر</string>
+    <string name="greeting_morning" formatted="false">صبح بخیر</string>
+    <string name="greeting_night" formatted="false">شب بخیر</string>
+    <string name="holiday" formatted="false">چھٹی</string>
+    <string name="increase" formatted="false">بڑھائیں</string>
+    <string name="items_done_format">%1$d از %2$d مکمل</string>
+    <string name="kind_event" formatted="false">موقع</string>
+    <string name="kind_goal" formatted="false">ہدف</string>
+    <string name="kind_habit" formatted="false">عادت</string>
+    <string name="kind_list" formatted="false">فہرست</string>
+    <string name="kind_list_item" formatted="false">فہرست کا آئٹم</string>
+    <string name="kind_task" formatted="false">کام</string>
+    <string name="language_device_default" formatted="false">آلے کی ڈیفالٹ</string>
+    <string name="lists_title" formatted="false">فہرستیں</string>
+    <string name="manage_blocks" formatted="false">وقفے منظم کریں</string>
+    <string name="mark_today" formatted="false">آج کو نشان زد کریں</string>
+    <string name="minutes_format">%1$d منٹ</string>
+    <string name="minutes_unit" formatted="false">منٹ</string>
+    <string name="move_down" formatted="false">نیچے لے جائیں</string>
+    <string name="move_up" formatted="false">اوپر لے جائیں</string>
+    <string name="my_event_prefix">میرا موقع: %1$s</string>
+    <string name="my_events" formatted="false">میرے مواقع</string>
+    <string name="nav_calendar" formatted="false">کیلنڈر</string>
+    <string name="nav_home" formatted="false">ہوم</string>
+    <string name="nav_more" formatted="false">مزید</string>
+    <string name="nav_tasks" formatted="false">کام</string>
+    <string name="nav_weekly" formatted="false">ہفتہ وار</string>
+    <string name="next" formatted="false">اگلا</string>
+    <string name="no_blocks_message" formatted="false">ہفتہ وار شیڈول بنانا شروع کرنے کے لیے ایک وقفہ شامل کریں۔</string>
+    <string name="no_blocks_title" formatted="false">ابھی کوئی وقفہ نہیں</string>
+    <string name="no_color" formatted="false">بغیر رنگ</string>
+    <string name="no_occasions_day" formatted="false">اس دن کوئی موقع نہیں۔</string>
+    <string name="no_occasions_today" formatted="false">آج کوئی موقع نہیں۔</string>
+    <string name="note" formatted="false">نوٹ</string>
+    <string name="ok" formatted="false">ٹھیک ہے</string>
+    <string name="overdue" formatted="false">تاخیر شدہ</string>
+    <string name="percent_format">%1$d٪</string>
+    <string name="pin" formatted="false">پن کریں</string>
+    <string name="previous" formatted="false">پچھلا</string>
+    <string name="priority_high" formatted="false">اعلیٰ</string>
+    <string name="priority_low" formatted="false">کم</string>
+    <string name="priority_normal" formatted="false">عام</string>
+    <string name="progress" formatted="false">پیش رفت</string>
+    <string name="quote_1" formatted="false">روزانہ اٹھائے گئے چھوٹے قدم بڑی تبدیلیاں بن جاتے ہیں۔</string>
+    <string name="quote_10" formatted="false">آپ کا مستقبل آج کی عادتوں سے بنتا ہے۔</string>
+    <string name="quote_2" formatted="false">جہاں ہیں وہیں سے شروع کریں، جو ہے اسے استعمال کریں، جو ہو سکے کریں۔</string>
+    <string name="quote_3" formatted="false">کمال پر نہیں، پیش رفت پر توجہ دیں۔</string>
+    <string name="quote_4" formatted="false">آرام کام کا حصہ ہے، اس سے وقفہ نہیں۔</string>
+    <string name="quote_5" formatted="false">آج ایک نیا صفحہ ہے۔ ایسی بات لکھیں جس پر فخر ہو۔</string>
+    <string name="quote_6" formatted="false">جو آپ روز کرتے ہیں وہ اس سے زیادہ اہم ہے جو کبھی کبھار کرتے ہیں۔</string>
+    <string name="quote_7" formatted="false">اپنے ساتھ صبر کریں؛ ترقی میں وقت لگتا ہے۔</string>
+    <string name="quote_8" formatted="false">ایک مکمل کام دس بہترین منصوبوں سے بہتر ہے۔</string>
+    <string name="quote_9" formatted="false">مہربانی کی کوئی قیمت نہیں اور یہ سب کچھ بدل دیتی ہے۔</string>
+    <string name="repeat_yearly" formatted="false">ہر سال دہرائیں</string>
+    <string name="repeats_yearly" formatted="false">ہر سال</string>
+    <string name="reset" formatted="false">ری سیٹ</string>
+    <string name="reset_blocks_message" formatted="false">وقفے اور خانے آپ کے محفوظ کردہ ڈیفالٹ (یا فیکٹری ڈیفالٹ) سے بدل دیے جائیں گے۔</string>
+    <string name="reset_to_default" formatted="false">ڈیفالٹ پر واپس</string>
+    <string name="save" formatted="false">محفوظ کریں</string>
+    <string name="save_as_default" formatted="false">بطور ڈیفالٹ محفوظ کریں</string>
+    <string name="search" formatted="false">تلاش</string>
+    <string name="search_empty_message" formatted="false">دوسرے الفاظ آزمائیں۔</string>
+    <string name="search_empty_title" formatted="false">کچھ نہیں ملا</string>
+    <string name="search_hint" formatted="false">کام، فہرستیں، مواقع تلاش کریں…</string>
+    <string name="search_title" formatted="false">تلاش</string>
+    <string name="set_due_date" formatted="false">آخری تاریخ مقرر کریں</string>
+    <string name="set_target_date" formatted="false">ہدفی تاریخ مقرر کریں</string>
+    <string name="settings_auto" formatted="false">خودکار</string>
+    <string name="settings_auto_update" formatted="false">خودکار اپ ڈیٹ</string>
+    <string name="settings_backup" formatted="false">بیک اپ</string>
+    <string name="settings_backup_hint" formatted="false">اپنا ڈیٹا JSON فائل میں محفوظ کریں یا اس سے بحال کریں۔</string>
+    <string name="settings_calendar" formatted="false">کیلنڈر اور مواقع</string>
+    <string name="settings_calendar_type" formatted="false">کیلنڈر کی قسم</string>
+    <string name="settings_general" formatted="false">عمومی</string>
+    <string name="settings_hijri_correction" formatted="false">ہجری تاریخ کی درستی</string>
+    <string name="settings_hijri_correction_hint" formatted="false">مقامی رویتِ ہلال سے ملانے کے لیے دنوں کا فرق دیں</string>
+    <string name="settings_language" formatted="false">زبان</string>
+    <string name="settings_occasions_update" formatted="false">مواقع کی اپ ڈیٹ</string>
+    <string name="settings_region" formatted="false">مواقع کا ملک</string>
+    <string name="settings_show_hijri" formatted="false">ہجری تاریخ ساتھ دکھائیں</string>
+    <string name="settings_theme" formatted="false">تھیم</string>
+    <string name="settings_title" formatted="false">ترتیبات</string>
+    <string name="settings_update_now" formatted="false">ابھی اپ ڈیٹ کریں</string>
+    <string name="settings_update_url" formatted="false">اپ ڈیٹ کا پتہ</string>
+    <string name="settings_update_url_empty" formatted="false">مقرر نہیں</string>
+    <string name="settings_update_url_hint" formatted="false">علاقے کے کوڈ کی جگہ {region} لکھیں، مثلاً ir یا global۔</string>
+    <string name="settings_updating" formatted="false">اپ ڈیٹ ہو رہا ہے…</string>
+    <string name="settings_week_start" formatted="false">ہفتے کا پہلا دن</string>
+    <string name="source_bundled" formatted="false">ایپ کے ساتھ</string>
+    <string name="source_online" formatted="false">آن لائن</string>
+    <string name="stats_current_streak">بہترین موجودہ سلسلہ: %1$d دن</string>
+    <string name="stats_done_of">%1$d از %2$d مکمل</string>
+    <string name="stats_focus_sessions">سیشن: %1$d</string>
+    <string name="stats_focus_total">کل توجہ: %1$d منٹ</string>
+    <string name="stats_focus_week">پچھلے 7 دن: %1$d منٹ</string>
+    <string name="stats_habits_count">عادات: %1$d</string>
+    <string name="stats_lists_count">فہرستیں: %1$d</string>
+    <string name="stats_longest_streak">سب سے طویل سلسلہ: %1$d دن</string>
+    <string name="stats_overdue">تاخیر شدہ کام: %1$d</string>
+    <string name="stats_title" formatted="false">اعداد و شمار</string>
+    <string name="streak_format">%1$d دن کا سلسلہ</string>
+    <string name="sync_status_error" formatted="false">خرابی</string>
+    <string name="sync_status_invalid" formatted="false">غلط ڈیٹا</string>
+    <string name="sync_status_not_configured" formatted="false">ترتیب نہیں دی گئی</string>
+    <string name="sync_status_ok" formatted="false">اپ ڈیٹ ہو گیا</string>
+    <string name="sync_status_up_to_date" formatted="false">تازہ ترین</string>
+    <string name="sync_summary_failed">%1$d ناکام</string>
+    <string name="sync_summary_not_configured" formatted="false">پہلے اپ ڈیٹ کا پتہ مقرر کریں۔</string>
+    <string name="sync_summary_up_to_date" formatted="false">سب کچھ تازہ ترین ہے۔</string>
+    <string name="sync_summary_updated">%1$d اپ ڈیٹ ہوئے</string>
+    <string name="tab_goals" formatted="false">اہداف</string>
+    <string name="tab_habits" formatted="false">عادات</string>
+    <string name="tab_tasks" formatted="false">کام</string>
+    <string name="target" formatted="false">ہدف</string>
+    <string name="theme_dark" formatted="false">گہرا</string>
+    <string name="theme_light" formatted="false">ہلکا</string>
+    <string name="theme_system" formatted="false">سسٹم</string>
+    <string name="title" formatted="false">عنوان</string>
+    <string name="today" formatted="false">آج</string>
+    <string name="today_in_calendar" formatted="false">کیلنڈر میں آج</string>
+    <string name="unverified" formatted="false">غیر تصدیق شدہ</string>
+    <string name="week_starts_on" formatted="false">ہفتہ شروع ہوتا ہے</string>
+    <string name="widget_description" formatted="false">آج کی تاریخ اور مواقع</string>
+    <string name="widget_name" formatted="false">نیکسورا آج</string>
+    <string name="widget_no_occasion" formatted="false">آج کوئی موقع نہیں</string>
+    <string-array name="jalali_months">
+        <item>فروردین</item>
+        <item>اردیبہشت</item>
+        <item>خرداد</item>
+        <item>تیر</item>
+        <item>مرداد</item>
+        <item>شہریور</item>
+        <item>مہر</item>
+        <item>آبان</item>
+        <item>آذر</item>
+        <item>دی</item>
+        <item>بہمن</item>
+        <item>اسفند</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>محرم</item>
+        <item>صفر</item>
+        <item>ربیع الاول</item>
+        <item>ربیع الثانی</item>
+        <item>جمادی الاول</item>
+        <item>جمادی الثانی</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوال</item>
+        <item>ذیقعد</item>
+        <item>ذوالحجہ</item>
+    </string-array>
+</resources>

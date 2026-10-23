@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">Semuanya berjalan tanpa internet dan data Anda tetap di perangkat. Internet hanya dipakai untuk memperbarui daftar hari penting, dan hanya jika Anda sudah menetapkan alamatnya.</string>
+    <string name="about_sources" formatted="false">Ramalan harian memakai bait-bait Hafez dari Syiraz (domain publik); tafsirnya adalah teks orisinal yang ditulis untuk aplikasi ini. Hari penting berasal dari data bawaan; periksa kembali tanggal yang bertanda “Belum diverifikasi”.</string>
+    <string name="about_tagline" formatted="false">Kalender, perencana, dan teman harian</string>
+    <string name="about_title" formatted="false">Tentang</string>
+    <string name="about_version" formatted="false">Versi</string>
+    <string name="account_active" formatted="false">Akun aktif</string>
+    <string name="account_name" formatted="false">Nama akun</string>
+    <string name="accounts_count_format">Akun: %1$d dari %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">Anda dapat memiliki maksimal 3 akun.</string>
+    <string name="accounts_title" formatted="false">Akun</string>
+    <string name="add" formatted="false">Tambah</string>
+    <string name="add_account" formatted="false">Akun baru</string>
+    <string name="add_block" formatted="false">Tambah blok</string>
+    <string name="add_event" formatted="false">Tambah hari penting</string>
+    <string name="add_goal" formatted="false">Target baru</string>
+    <string name="add_habit" formatted="false">Kebiasaan baru</string>
+    <string name="add_item_hint" formatted="false">Tambahkan item</string>
+    <string name="add_list" formatted="false">Daftar baru</string>
+    <string name="add_task" formatted="false">Tugas baru</string>
+    <string name="app_name" formatted="false">Nexora Plus</string>
+    <string name="back" formatted="false">Kembali</string>
+    <string name="backup_export" formatted="false">Ekspor cadangan</string>
+    <string name="backup_export_done" formatted="false">Cadangan disimpan.</string>
+    <string name="backup_export_failed" formatted="false">Cadangan tidak dapat disimpan.</string>
+    <string name="backup_import" formatted="false">Impor cadangan</string>
+    <string name="backup_import_done">Cadangan diimpor (%1$d akun ditambahkan).</string>
+    <string name="backup_import_invalid" formatted="false">Berkas ini bukan cadangan Nexora yang valid.</string>
+    <string name="backup_import_too_many" formatted="false">Impor akan melebihi batas 3 akun. Hapus satu akun terlebih dahulu.</string>
+    <string name="backup_import_unsupported" formatted="false">Cadangan ini dibuat oleh aplikasi versi yang lebih baru.</string>
+    <string name="block_name" formatted="false">Nama blok</string>
+    <string name="cal_gregorian" formatted="false">Masehi</string>
+    <string name="cal_hijri" formatted="false">Hijriah</string>
+    <string name="cal_jalali" formatted="false">Jalali</string>
+    <string name="calendar_gregorian" formatted="false">Masehi</string>
+    <string name="calendar_hijri" formatted="false">Hijriah</string>
+    <string name="calendar_jalali" formatted="false">Jalali (Persia)</string>
+    <string name="cancel" formatted="false">Batal</string>
+    <string name="cat_global" formatted="false">Dunia</string>
+    <string name="cat_national" formatted="false">Nasional</string>
+    <string name="cat_official" formatted="false">Resmi</string>
+    <string name="cat_religious" formatted="false">Keagamaan</string>
+    <string name="cell_text" formatted="false">Teks</string>
+    <string name="clear" formatted="false">Hapus isi</string>
+    <string name="confirm_delete_account_message" formatted="false">Akun ini akan dihapus permanen beserta semua tugas, target, kebiasaan, daftar, jadwal, dan riwayatnya.</string>
+    <string name="confirm_delete_message" formatted="false">Item ini akan dihapus dan tidak dapat dikembalikan.</string>
+    <string name="daily_fortune" formatted="false">Ramalan harian</string>
+    <string name="decrease" formatted="false">Kurangi</string>
+    <string name="default_account_name" formatted="false">Akun saya</string>
+    <string name="default_saved" formatted="false">Disimpan sebagai bawaan</string>
+    <string name="delete" formatted="false">Hapus</string>
+    <string name="due_date" formatted="false">Tenggat</string>
+    <string name="edit" formatted="false">Ubah</string>
+    <string name="edit_account" formatted="false">Ubah akun</string>
+    <string name="edit_cell" formatted="false">Ubah sel</string>
+    <string name="edit_goal" formatted="false">Ubah target</string>
+    <string name="edit_habit" formatted="false">Ubah kebiasaan</string>
+    <string name="edit_list" formatted="false">Ubah daftar</string>
+    <string name="edit_task" formatted="false">Ubah tugas</string>
+    <string name="empty_goals_message" formatted="false">Tambahkan target dan pantau kemajuan Anda.</string>
+    <string name="empty_goals_title" formatted="false">Belum ada target</string>
+    <string name="empty_habits_message" formatted="false">Tambahkan kebiasaan dan tandai setiap hari untuk membangun rangkaian.</string>
+    <string name="empty_habits_title" formatted="false">Belum ada kebiasaan</string>
+    <string name="empty_lists_message" formatted="false">Buat daftar untuk belanja, perjalanan, atau apa pun.</string>
+    <string name="empty_lists_title" formatted="false">Belum ada daftar</string>
+    <string name="empty_tasks_message" formatted="false">Tambahkan tugas pertama Anda dengan tombol +.</string>
+    <string name="empty_tasks_title" formatted="false">Belum ada tugas</string>
+    <string name="focus_completed" formatted="false">Selesai</string>
+    <string name="focus_dnd" formatted="false">Jangan Ganggu</string>
+    <string name="focus_dnd_hint" formatted="false">Bisukan notifikasi selama sesi</string>
+    <string name="focus_dnd_needs_access" formatted="false">Perlu akses Jangan Ganggu</string>
+    <string name="focus_history" formatted="false">Riwayat</string>
+    <string name="focus_history_empty" formatted="false">Belum ada sesi.</string>
+    <string name="focus_open_settings" formatted="false">Buka pengaturan akses</string>
+    <string name="focus_start" formatted="false">Mulai</string>
+    <string name="focus_stop" formatted="false">Berhenti</string>
+    <string name="focus_stopped_early" formatted="false">Dihentikan lebih awal</string>
+    <string name="focus_title" formatted="false">Fokus mendalam</string>
+    <string name="fortune_disclaimer" formatted="false">Bait-bait ini karya Hafez (domain publik); redaksinya sedikit berbeda antar edisi. Tafsir hanya sebagai inspirasi, bukan ramalan.</string>
+    <string name="fortune_history" formatted="false">Hari-hari sebelumnya</string>
+    <string name="fortune_meaning_1" formatted="false">Awal sesuatu bisa tampak mudah lalu menunjukkan kesulitannya. Teruslah dengan tenang; kesabaran mengubah awal yang berat menjadi kemajuan yang mantap.</string>
+    <string name="fortune_meaning_10" formatted="false">Hari yang baik untuk memulai sesuatu yang baru. Patahkan rutinitas lama dan coba rencana segar.</string>
+    <string name="fortune_meaning_11" formatted="false">Setelah kegagalan, harapan adalah angin yang mendorong Anda maju. Teruslah mencoba; wajah sahabat mungkin muncul.</string>
+    <string name="fortune_meaning_12" formatted="false">Kerendahan hati membuka mata. Belajarlah dari setiap orang yang Anda temui dan pandangan Anda akan lebih jernih.</string>
+    <string name="fortune_meaning_2" formatted="false">Saat ilham yang tenang sudah dekat. Perhatikan tanda-tanda kecil hari ini dan bersyukurlah atas apa yang Anda terima.</string>
+    <string name="fortune_meaning_3" formatted="false">Masa sulit sedang berlalu. Yang hilang bisa kembali dalam bentuk baru, jadi jaga harapan tetap hidup.</string>
+    <string name="fortune_meaning_4" formatted="false">Kenangan baik adalah sumber kekuatan. Hubungi seseorang yang Anda sayangi hari ini.</string>
+    <string name="fortune_meaning_5" formatted="false">Yang Anda cari jauh-jauh mungkin sudah ada di dalam diri. Lihatlah ke dalam sebelum mencari ke luar.</string>
+    <string name="fortune_meaning_6" formatted="false">Sebuah kabar atau pertemuan mungkin sedang menuju Anda. Bersikaplah ramah saat menghubungi, dan jawabannya pun ramah.</string>
+    <string name="fortune_meaning_7" formatted="false">Jangan biarkan kecemasan duniawi mengikat Anda. Lepaskan diri dari yang menarik ke bawah dan bidiklah lebih tinggi.</string>
+    <string name="fortune_meaning_8" formatted="false">Kebebasan datang dari membutuhkan lebih sedikit. Pilih satu hal untuk dilepas hari ini dan rasakan ringannya.</string>
+    <string name="fortune_meaning_9" formatted="false">Bersikaplah hangat pada sahabat dan adil pada yang berbeda pendapat. Sopan santun menyelesaikan lebih banyak daripada berdebat.</string>
+    <string name="fortune_meaning_label" formatted="false">Tafsir</string>
+    <string name="greeting_afternoon" formatted="false">Selamat siang</string>
+    <string name="greeting_evening" formatted="false">Selamat malam</string>
+    <string name="greeting_morning" formatted="false">Selamat pagi</string>
+    <string name="greeting_night" formatted="false">Selamat beristirahat</string>
+    <string name="holiday" formatted="false">Libur</string>
+    <string name="increase" formatted="false">Tambah</string>
+    <string name="items_done_format">%1$d dari %2$d selesai</string>
+    <string name="kind_event" formatted="false">Hari penting</string>
+    <string name="kind_goal" formatted="false">Target</string>
+    <string name="kind_habit" formatted="false">Kebiasaan</string>
+    <string name="kind_list" formatted="false">Daftar</string>
+    <string name="kind_list_item" formatted="false">Item daftar</string>
+    <string name="kind_task" formatted="false">Tugas</string>
+    <string name="language_device_default" formatted="false">Bawaan perangkat</string>
+    <string name="lists_title" formatted="false">Daftar</string>
+    <string name="manage_blocks" formatted="false">Kelola blok</string>
+    <string name="mark_today" formatted="false">Tandai hari ini</string>
+    <string name="minutes_format">%1$d mnt</string>
+    <string name="minutes_unit" formatted="false">Menit</string>
+    <string name="move_down" formatted="false">Pindah ke bawah</string>
+    <string name="move_up" formatted="false">Pindah ke atas</string>
+    <string name="my_event_prefix">Hari penting saya: %1$s</string>
+    <string name="my_events" formatted="false">Hari penting saya</string>
+    <string name="nav_calendar" formatted="false">Kalender</string>
+    <string name="nav_home" formatted="false">Beranda</string>
+    <string name="nav_more" formatted="false">Lainnya</string>
+    <string name="nav_tasks" formatted="false">Tugas</string>
+    <string name="nav_weekly" formatted="false">Mingguan</string>
+    <string name="next" formatted="false">Berikutnya</string>
+    <string name="no_blocks_message" formatted="false">Tambahkan blok waktu untuk mulai menyusun jadwal mingguan.</string>
+    <string name="no_blocks_title" formatted="false">Belum ada blok</string>
+    <string name="no_color" formatted="false">Tanpa warna</string>
+    <string name="no_occasions_day" formatted="false">Tidak ada hari penting pada hari ini.</string>
+    <string name="no_occasions_today" formatted="false">Tidak ada hari penting hari ini.</string>
+    <string name="note" formatted="false">Catatan</string>
+    <string name="ok" formatted="false">OK</string>
+    <string name="overdue" formatted="false">Terlambat</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="pin" formatted="false">Sematkan</string>
+    <string name="previous" formatted="false">Sebelumnya</string>
+    <string name="priority_high" formatted="false">Tinggi</string>
+    <string name="priority_low" formatted="false">Rendah</string>
+    <string name="priority_normal" formatted="false">Biasa</string>
+    <string name="progress" formatted="false">Kemajuan</string>
+    <string name="quote_1" formatted="false">Langkah kecil setiap hari menjadi perubahan besar.</string>
+    <string name="quote_10" formatted="false">Masa depan Anda dibangun oleh kebiasaan hari ini.</string>
+    <string name="quote_2" formatted="false">Mulailah dari tempat Anda berada, gunakan yang Anda punya, lakukan yang Anda bisa.</string>
+    <string name="quote_3" formatted="false">Fokuslah pada kemajuan, bukan kesempurnaan.</string>
+    <string name="quote_4" formatted="false">Istirahat adalah bagian dari bekerja, bukan jeda darinya.</string>
+    <string name="quote_5" formatted="false">Hari ini adalah halaman baru. Tulislah sesuatu yang Anda banggakan.</string>
+    <string name="quote_6" formatted="false">Yang Anda lakukan setiap hari lebih penting daripada yang sesekali.</string>
+    <string name="quote_7" formatted="false">Bersabarlah pada diri sendiri; bertumbuh butuh waktu.</string>
+    <string name="quote_8" formatted="false">Satu tugas yang selesai lebih berharga daripada sepuluh rencana sempurna.</string>
+    <string name="quote_9" formatted="false">Kebaikan tidak berbiaya dan mengubah segalanya.</string>
+    <string name="repeat_yearly" formatted="false">Ulangi setiap tahun</string>
+    <string name="repeats_yearly" formatted="false">Setiap tahun</string>
+    <string name="reset" formatted="false">Atur ulang</string>
+    <string name="reset_blocks_message" formatted="false">Blok dan sel akan diganti dengan bawaan yang Anda simpan (atau bawaan pabrik).</string>
+    <string name="reset_to_default" formatted="false">Kembali ke bawaan</string>
+    <string name="save" formatted="false">Simpan</string>
+    <string name="save_as_default" formatted="false">Simpan sebagai bawaan</string>
+    <string name="search" formatted="false">Cari</string>
+    <string name="search_empty_message" formatted="false">Coba kata lain.</string>
+    <string name="search_empty_title" formatted="false">Tidak ditemukan</string>
+    <string name="search_hint" formatted="false">Cari tugas, daftar, hari penting…</string>
+    <string name="search_title" formatted="false">Pencarian</string>
+    <string name="set_due_date" formatted="false">Atur tenggat</string>
+    <string name="set_target_date" formatted="false">Atur tanggal target</string>
+    <string name="settings_auto" formatted="false">Otomatis</string>
+    <string name="settings_auto_update" formatted="false">Perbarui otomatis</string>
+    <string name="settings_backup" formatted="false">Cadangan</string>
+    <string name="settings_backup_hint" formatted="false">Simpan data Anda ke berkas JSON atau pulihkan dari berkas tersebut.</string>
+    <string name="settings_calendar" formatted="false">Kalender dan hari penting</string>
+    <string name="settings_calendar_type" formatted="false">Jenis kalender</string>
+    <string name="settings_general" formatted="false">Umum</string>
+    <string name="settings_hijri_correction" formatted="false">Koreksi tanggal Hijriah</string>
+    <string name="settings_hijri_correction_hint" formatted="false">Geser beberapa hari sesuai rukyat hilal setempat</string>
+    <string name="settings_language" formatted="false">Bahasa</string>
+    <string name="settings_occasions_update" formatted="false">Pembaruan hari penting</string>
+    <string name="settings_region" formatted="false">Negara hari penting</string>
+    <string name="settings_show_hijri" formatted="false">Tampilkan tanggal Hijriah juga</string>
+    <string name="settings_theme" formatted="false">Tema</string>
+    <string name="settings_title" formatted="false">Pengaturan</string>
+    <string name="settings_update_now" formatted="false">Perbarui sekarang</string>
+    <string name="settings_update_url" formatted="false">Alamat pembaruan</string>
+    <string name="settings_update_url_empty" formatted="false">Belum diatur</string>
+    <string name="settings_update_url_hint" formatted="false">Gunakan {region} sebagai pengganti kode wilayah, misalnya ir atau global.</string>
+    <string name="settings_updating" formatted="false">Memperbarui…</string>
+    <string name="settings_week_start" formatted="false">Hari pertama dalam seminggu</string>
+    <string name="source_bundled" formatted="false">Bawaan</string>
+    <string name="source_online" formatted="false">Daring</string>
+    <string name="stats_current_streak">Rangkaian terbaik saat ini: %1$d hari</string>
+    <string name="stats_done_of">%1$d dari %2$d selesai</string>
+    <string name="stats_focus_sessions">Sesi: %1$d</string>
+    <string name="stats_focus_total">Total fokus: %1$d mnt</string>
+    <string name="stats_focus_week">7 hari terakhir: %1$d mnt</string>
+    <string name="stats_habits_count">Kebiasaan: %1$d</string>
+    <string name="stats_lists_count">Daftar: %1$d</string>
+    <string name="stats_longest_streak">Rangkaian terpanjang: %1$d hari</string>
+    <string name="stats_overdue">Tugas terlambat: %1$d</string>
+    <string name="stats_title" formatted="false">Statistik</string>
+    <string name="streak_format">Rangkaian %1$d hari</string>
+    <string name="sync_status_error" formatted="false">Galat</string>
+    <string name="sync_status_invalid" formatted="false">Data tidak valid</string>
+    <string name="sync_status_not_configured" formatted="false">Belum diatur</string>
+    <string name="sync_status_ok" formatted="false">Diperbarui</string>
+    <string name="sync_status_up_to_date" formatted="false">Terbaru</string>
+    <string name="sync_summary_failed">%1$d gagal</string>
+    <string name="sync_summary_not_configured" formatted="false">Atur alamat pembaruan terlebih dahulu.</string>
+    <string name="sync_summary_up_to_date" formatted="false">Semua sudah terbaru.</string>
+    <string name="sync_summary_updated">%1$d diperbarui</string>
+    <string name="tab_goals" formatted="false">Target</string>
+    <string name="tab_habits" formatted="false">Kebiasaan</string>
+    <string name="tab_tasks" formatted="false">Tugas</string>
+    <string name="target" formatted="false">Target</string>
+    <string name="theme_dark" formatted="false">Gelap</string>
+    <string name="theme_light" formatted="false">Terang</string>
+    <string name="theme_system" formatted="false">Sistem</string>
+    <string name="title" formatted="false">Judul</string>
+    <string name="today" formatted="false">Hari ini</string>
+    <string name="today_in_calendar" formatted="false">Hari ini di kalender</string>
+    <string name="unverified" formatted="false">Belum diverifikasi</string>
+    <string name="week_starts_on" formatted="false">Minggu dimulai pada</string>
+    <string name="widget_description" formatted="false">Tanggal dan hari penting hari ini</string>
+    <string name="widget_name" formatted="false">Nexora Hari Ini</string>
+    <string name="widget_no_occasion" formatted="false">Tidak ada hari penting hari ini</string>
+    <string-array name="jalali_months">
+        <item>Farvardin</item>
+        <item>Ordibehesht</item>
+        <item>Khordad</item>
+        <item>Tir</item>
+        <item>Mordad</item>
+        <item>Shahrivar</item>
+        <item>Mehr</item>
+        <item>Aban</item>
+        <item>Azar</item>
+        <item>Dey</item>
+        <item>Bahman</item>
+        <item>Esfand</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabiulawal</item>
+        <item>Rabiulakhir</item>
+        <item>Jumadilawal</item>
+        <item>Jumadilakhir</item>
+        <item>Rajab</item>
+        <item>Syaban</item>
+        <item>Ramadan</item>
+        <item>Syawal</item>
+        <item>Zulkaidah</item>
+        <item>Zulhijah</item>
+    </string-array>
+</resources>

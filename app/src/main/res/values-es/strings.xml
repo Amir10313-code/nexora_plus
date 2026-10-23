@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_offline" formatted="false">Todo funciona sin conexión y tus datos permanecen en tu dispositivo. Internet solo se usa para actualizar la lista de ocasiones y únicamente si has definido una dirección para ello.</string>
+    <string name="about_sources" formatted="false">La adivinación diaria usa versos de Hafez de Shiraz (dominio público); las interpretaciones son textos originales escritos para esta aplicación. Las ocasiones proceden de los datos incluidos; revisa las fechas marcadas como «Sin verificar».</string>
+    <string name="about_tagline" formatted="false">Calendario, planificador y compañero diario</string>
+    <string name="about_title" formatted="false">Acerca de</string>
+    <string name="about_version" formatted="false">Versión</string>
+    <string name="account_active" formatted="false">Cuenta activa</string>
+    <string name="account_name" formatted="false">Nombre de la cuenta</string>
+    <string name="accounts_count_format">Cuentas: %1$d de %2$d</string>
+    <string name="accounts_limit_reached" formatted="false">Puedes tener un máximo de 3 cuentas.</string>
+    <string name="accounts_title" formatted="false">Cuentas</string>
+    <string name="add" formatted="false">Añadir</string>
+    <string name="add_account" formatted="false">Nueva cuenta</string>
+    <string name="add_block" formatted="false">Añadir bloque</string>
+    <string name="add_event" formatted="false">Añadir ocasión</string>
+    <string name="add_goal" formatted="false">Nuevo objetivo</string>
+    <string name="add_habit" formatted="false">Nuevo hábito</string>
+    <string name="add_item_hint" formatted="false">Añade un elemento</string>
+    <string name="add_list" formatted="false">Nueva lista</string>
+    <string name="add_task" formatted="false">Nueva tarea</string>
+    <string name="app_name" formatted="false">Nexora Plus</string>
+    <string name="back" formatted="false">Atrás</string>
+    <string name="backup_export" formatted="false">Exportar copia de seguridad</string>
+    <string name="backup_export_done" formatted="false">Copia de seguridad guardada.</string>
+    <string name="backup_export_failed" formatted="false">No se pudo guardar la copia de seguridad.</string>
+    <string name="backup_import" formatted="false">Importar copia de seguridad</string>
+    <string name="backup_import_done">Copia importada (%1$d cuentas añadidas).</string>
+    <string name="backup_import_invalid" formatted="false">Este archivo no es una copia de seguridad válida de Nexora.</string>
+    <string name="backup_import_too_many" formatted="false">La importación superaría el límite de 3 cuentas. Elimina primero una cuenta.</string>
+    <string name="backup_import_unsupported" formatted="false">Esta copia se creó con una versión más reciente de la aplicación.</string>
+    <string name="block_name" formatted="false">Nombre del bloque</string>
+    <string name="cal_gregorian" formatted="false">Gregoriano</string>
+    <string name="cal_hijri" formatted="false">Hegirano</string>
+    <string name="cal_jalali" formatted="false">Yalali</string>
+    <string name="calendar_gregorian" formatted="false">Gregoriano</string>
+    <string name="calendar_hijri" formatted="false">Hegirano (lunar)</string>
+    <string name="calendar_jalali" formatted="false">Yalali (persa)</string>
+    <string name="cancel" formatted="false">Cancelar</string>
+    <string name="cat_global" formatted="false">Mundial</string>
+    <string name="cat_national" formatted="false">Nacional</string>
+    <string name="cat_official" formatted="false">Oficial</string>
+    <string name="cat_religious" formatted="false">Religioso</string>
+    <string name="cell_text" formatted="false">Texto</string>
+    <string name="clear" formatted="false">Borrar</string>
+    <string name="confirm_delete_account_message" formatted="false">Esta cuenta se eliminará de forma permanente junto con todas sus tareas, objetivos, hábitos, listas, horario e historial.</string>
+    <string name="confirm_delete_message" formatted="false">Este elemento se eliminará. No se puede deshacer.</string>
+    <string name="daily_fortune" formatted="false">Fal del día</string>
+    <string name="decrease" formatted="false">Disminuir</string>
+    <string name="default_account_name" formatted="false">Mi cuenta</string>
+    <string name="default_saved" formatted="false">Guardado como predeterminado</string>
+    <string name="delete" formatted="false">Eliminar</string>
+    <string name="due_date" formatted="false">Fecha límite</string>
+    <string name="edit" formatted="false">Editar</string>
+    <string name="edit_account" formatted="false">Editar cuenta</string>
+    <string name="edit_cell" formatted="false">Editar celda</string>
+    <string name="edit_goal" formatted="false">Editar objetivo</string>
+    <string name="edit_habit" formatted="false">Editar hábito</string>
+    <string name="edit_list" formatted="false">Editar lista</string>
+    <string name="edit_task" formatted="false">Editar tarea</string>
+    <string name="empty_goals_message" formatted="false">Añade un objetivo y sigue tu progreso.</string>
+    <string name="empty_goals_title" formatted="false">Aún no hay objetivos</string>
+    <string name="empty_habits_message" formatted="false">Añade un hábito y márcalo cada día para crear una racha.</string>
+    <string name="empty_habits_title" formatted="false">Aún no hay hábitos</string>
+    <string name="empty_lists_message" formatted="false">Crea una lista para la compra, un viaje o lo que quieras.</string>
+    <string name="empty_lists_title" formatted="false">Aún no hay listas</string>
+    <string name="empty_tasks_message" formatted="false">Añade tu primera tarea con el botón +.</string>
+    <string name="empty_tasks_title" formatted="false">Aún no hay tareas</string>
+    <string name="focus_completed" formatted="false">Completada</string>
+    <string name="focus_dnd" formatted="false">No molestar</string>
+    <string name="focus_dnd_hint" formatted="false">Silenciar las notificaciones durante la sesión</string>
+    <string name="focus_dnd_needs_access" formatted="false">Requiere acceso a «No molestar»</string>
+    <string name="focus_history" formatted="false">Historial</string>
+    <string name="focus_history_empty" formatted="false">Aún no hay sesiones.</string>
+    <string name="focus_open_settings" formatted="false">Abrir ajustes de acceso</string>
+    <string name="focus_start" formatted="false">Iniciar</string>
+    <string name="focus_stop" formatted="false">Detener</string>
+    <string name="focus_stopped_early" formatted="false">Detenida antes de tiempo</string>
+    <string name="focus_title" formatted="false">Concentración profunda</string>
+    <string name="fortune_disclaimer" formatted="false">Los versos son de Hafez (dominio público); el texto varía ligeramente entre ediciones. Las interpretaciones sirven de inspiración, no de predicción.</string>
+    <string name="fortune_history" formatted="false">Días anteriores</string>
+    <string name="fortune_meaning_1" formatted="false">Los comienzos pueden parecer fáciles y luego mostrar sus dificultades. Sigue con calma: la paciencia convierte un inicio duro en un avance constante.</string>
+    <string name="fortune_meaning_10" formatted="false">Es un buen día para empezar algo nuevo. Rompe la rutina y prueba un plan distinto.</string>
+    <string name="fortune_meaning_11" formatted="false">Tras un revés, la esperanza es el viento que te empuja. Sigue intentándolo; puede aparecer un rostro amigo.</string>
+    <string name="fortune_meaning_12" formatted="false">La humildad abre los ojos. Aprende de todos los que conozcas y tu mirada se aclarará.</string>
+    <string name="fortune_meaning_2" formatted="false">Se acerca un momento tranquilo de inspiración. Fíjate hoy en las pequeñas señales y agradece lo que se te ha dado.</string>
+    <string name="fortune_meaning_3" formatted="false">Un periodo difícil está pasando. Lo perdido puede volver de otra forma; mantén viva la esperanza.</string>
+    <string name="fortune_meaning_4" formatted="false">Los buenos recuerdos son una fuente de fuerza. Ponte en contacto hoy con alguien a quien aprecias.</string>
+    <string name="fortune_meaning_5" formatted="false">Lo que buscas lejos quizá ya esté dentro de ti. Mira hacia dentro antes de buscar fuera.</string>
+    <string name="fortune_meaning_6" formatted="false">Puede que venga en camino un mensaje o un reencuentro. Sé amable al acercarte y la respuesta también lo será.</string>
+    <string name="fortune_meaning_7" formatted="false">No dejes que las preocupaciones mundanas te aten. Libérate de lo que te arrastra y apunta más alto.</string>
+    <string name="fortune_meaning_8" formatted="false">La libertad llega al necesitar menos. Elige hoy algo que soltar y nota lo liviano que resulta.</string>
+    <string name="fortune_meaning_9" formatted="false">Sé cálido con los amigos y justo con quienes discrepan. La buena educación resuelve más que las discusiones.</string>
+    <string name="fortune_meaning_label" formatted="false">Interpretación</string>
+    <string name="greeting_afternoon" formatted="false">Buenas tardes</string>
+    <string name="greeting_evening" formatted="false">Buenas noches</string>
+    <string name="greeting_morning" formatted="false">Buenos días</string>
+    <string name="greeting_night" formatted="false">Que descanses</string>
+    <string name="holiday" formatted="false">Festivo</string>
+    <string name="increase" formatted="false">Aumentar</string>
+    <string name="items_done_format">%1$d de %2$d completados</string>
+    <string name="kind_event" formatted="false">Ocasión</string>
+    <string name="kind_goal" formatted="false">Objetivo</string>
+    <string name="kind_habit" formatted="false">Hábito</string>
+    <string name="kind_list" formatted="false">Lista</string>
+    <string name="kind_list_item" formatted="false">Elemento de lista</string>
+    <string name="kind_task" formatted="false">Tarea</string>
+    <string name="language_device_default" formatted="false">Predeterminado del dispositivo</string>
+    <string name="lists_title" formatted="false">Listas</string>
+    <string name="manage_blocks" formatted="false">Gestionar bloques</string>
+    <string name="mark_today" formatted="false">Marcar hoy</string>
+    <string name="minutes_format">%1$d min</string>
+    <string name="minutes_unit" formatted="false">Minutos</string>
+    <string name="move_down" formatted="false">Mover abajo</string>
+    <string name="move_up" formatted="false">Mover arriba</string>
+    <string name="my_event_prefix">Mi ocasión: %1$s</string>
+    <string name="my_events" formatted="false">Mis ocasiones</string>
+    <string name="nav_calendar" formatted="false">Calendario</string>
+    <string name="nav_home" formatted="false">Inicio</string>
+    <string name="nav_more" formatted="false">Más</string>
+    <string name="nav_tasks" formatted="false">Tareas</string>
+    <string name="nav_weekly" formatted="false">Semana</string>
+    <string name="next" formatted="false">Siguiente</string>
+    <string name="no_blocks_message" formatted="false">Añade un bloque horario para empezar tu horario semanal.</string>
+    <string name="no_blocks_title" formatted="false">Aún no hay bloques</string>
+    <string name="no_color" formatted="false">Sin color</string>
+    <string name="no_occasions_day" formatted="false">No hay ocasiones este día.</string>
+    <string name="no_occasions_today" formatted="false">Hoy no hay ocasiones.</string>
+    <string name="note" formatted="false">Nota</string>
+    <string name="ok" formatted="false">Aceptar</string>
+    <string name="overdue" formatted="false">Vencida</string>
+    <string name="percent_format">%1$d %%</string>
+    <string name="pin" formatted="false">Fijar</string>
+    <string name="previous" formatted="false">Anterior</string>
+    <string name="priority_high" formatted="false">Alta</string>
+    <string name="priority_low" formatted="false">Baja</string>
+    <string name="priority_normal" formatted="false">Normal</string>
+    <string name="progress" formatted="false">Progreso</string>
+    <string name="quote_1" formatted="false">Pequeños pasos cada día suman grandes cambios.</string>
+    <string name="quote_10" formatted="false">Tu futuro se construye con los hábitos de hoy.</string>
+    <string name="quote_2" formatted="false">Empieza donde estás, usa lo que tienes, haz lo que puedas.</string>
+    <string name="quote_3" formatted="false">Enfócate en el progreso, no en la perfección.</string>
+    <string name="quote_4" formatted="false">El descanso es parte del trabajo, no una pausa de él.</string>
+    <string name="quote_5" formatted="false">Hoy es una página en blanco. Escribe algo de lo que te sientas orgulloso.</string>
+    <string name="quote_6" formatted="false">Lo que haces cada día importa más que lo que haces de vez en cuando.</string>
+    <string name="quote_7" formatted="false">Ten paciencia contigo; crecer lleva tiempo.</string>
+    <string name="quote_8" formatted="false">Una tarea terminada vale más que diez planes perfectos.</string>
+    <string name="quote_9" formatted="false">La amabilidad no cuesta nada y lo cambia todo.</string>
+    <string name="repeat_yearly" formatted="false">Repetir cada año</string>
+    <string name="repeats_yearly" formatted="false">Cada año</string>
+    <string name="reset" formatted="false">Restablecer</string>
+    <string name="reset_blocks_message" formatted="false">Los bloques y las celdas se sustituirán por tu configuración predeterminada guardada (o la de fábrica).</string>
+    <string name="reset_to_default" formatted="false">Volver al predeterminado</string>
+    <string name="save" formatted="false">Guardar</string>
+    <string name="save_as_default" formatted="false">Guardar como predeterminado</string>
+    <string name="search" formatted="false">Buscar</string>
+    <string name="search_empty_message" formatted="false">Prueba con otras palabras.</string>
+    <string name="search_empty_title" formatted="false">Sin resultados</string>
+    <string name="search_hint" formatted="false">Buscar tareas, listas, ocasiones…</string>
+    <string name="search_title" formatted="false">Búsqueda</string>
+    <string name="set_due_date" formatted="false">Fijar fecha límite</string>
+    <string name="set_target_date" formatted="false">Fijar fecha objetivo</string>
+    <string name="settings_auto" formatted="false">Automático</string>
+    <string name="settings_auto_update" formatted="false">Actualizar automáticamente</string>
+    <string name="settings_backup" formatted="false">Copia de seguridad</string>
+    <string name="settings_backup_hint" formatted="false">Guarda tus datos en un archivo JSON o restáuralos desde uno.</string>
+    <string name="settings_calendar" formatted="false">Calendario y ocasiones</string>
+    <string name="settings_calendar_type" formatted="false">Tipo de calendario</string>
+    <string name="settings_general" formatted="false">General</string>
+    <string name="settings_hijri_correction" formatted="false">Corrección de la fecha hegirana</string>
+    <string name="settings_hijri_correction_hint" formatted="false">Desplaza días según la observación local de la luna</string>
+    <string name="settings_language" formatted="false">Idioma</string>
+    <string name="settings_occasions_update" formatted="false">Actualización de ocasiones</string>
+    <string name="settings_region" formatted="false">País de las ocasiones</string>
+    <string name="settings_show_hijri" formatted="false">Mostrar también la fecha hegirana</string>
+    <string name="settings_theme" formatted="false">Tema</string>
+    <string name="settings_title" formatted="false">Ajustes</string>
+    <string name="settings_update_now" formatted="false">Actualizar ahora</string>
+    <string name="settings_update_url" formatted="false">Dirección de actualización</string>
+    <string name="settings_update_url_empty" formatted="false">Sin definir</string>
+    <string name="settings_update_url_hint" formatted="false">Usa {region} donde va el código de región, por ejemplo ir o global.</string>
+    <string name="settings_updating" formatted="false">Actualizando…</string>
+    <string name="settings_week_start" formatted="false">Primer día de la semana</string>
+    <string name="source_bundled" formatted="false">Incluido</string>
+    <string name="source_online" formatted="false">En línea</string>
+    <string name="stats_current_streak">Mejor racha actual: %1$d días</string>
+    <string name="stats_done_of">%1$d de %2$d completados</string>
+    <string name="stats_focus_sessions">Sesiones: %1$d</string>
+    <string name="stats_focus_total">Concentración total: %1$d min</string>
+    <string name="stats_focus_week">Últimos 7 días: %1$d min</string>
+    <string name="stats_habits_count">Hábitos: %1$d</string>
+    <string name="stats_lists_count">Listas: %1$d</string>
+    <string name="stats_longest_streak">Racha más larga: %1$d días</string>
+    <string name="stats_overdue">Tareas vencidas: %1$d</string>
+    <string name="stats_title" formatted="false">Estadísticas</string>
+    <string name="streak_format">Racha de %1$d días</string>
+    <string name="sync_status_error" formatted="false">Error</string>
+    <string name="sync_status_invalid" formatted="false">Datos no válidos</string>
+    <string name="sync_status_not_configured" formatted="false">Sin configurar</string>
+    <string name="sync_status_ok" formatted="false">Actualizado</string>
+    <string name="sync_status_up_to_date" formatted="false">Al día</string>
+    <string name="sync_summary_failed">%1$d fallidos</string>
+    <string name="sync_summary_not_configured" formatted="false">Define primero una dirección de actualización.</string>
+    <string name="sync_summary_up_to_date" formatted="false">Todo está al día.</string>
+    <string name="sync_summary_updated">%1$d actualizados</string>
+    <string name="tab_goals" formatted="false">Objetivos</string>
+    <string name="tab_habits" formatted="false">Hábitos</string>
+    <string name="tab_tasks" formatted="false">Tareas</string>
+    <string name="target" formatted="false">Objetivo</string>
+    <string name="theme_dark" formatted="false">Oscuro</string>
+    <string name="theme_light" formatted="false">Claro</string>
+    <string name="theme_system" formatted="false">Sistema</string>
+    <string name="title" formatted="false">Título</string>
+    <string name="today" formatted="false">Hoy</string>
+    <string name="today_in_calendar" formatted="false">Hoy en el calendario</string>
+    <string name="unverified" formatted="false">Sin verificar</string>
+    <string name="week_starts_on" formatted="false">La semana empieza el</string>
+    <string name="widget_description" formatted="false">Fecha de hoy y ocasiones</string>
+    <string name="widget_name" formatted="false">Nexora Hoy</string>
+    <string name="widget_no_occasion" formatted="false">Hoy no hay ocasiones</string>
+    <string-array name="jalali_months">
+        <item>Farvardin</item>
+        <item>Ordibehesht</item>
+        <item>Jordad</item>
+        <item>Tir</item>
+        <item>Mordad</item>
+        <item>Shahrivar</item>
+        <item>Mehr</item>
+        <item>Aban</item>
+        <item>Azar</item>
+        <item>Dey</item>
+        <item>Bahman</item>
+        <item>Esfand</item>
+    </string-array>
+    <string-array name="hijri_months">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi al-awwal</item>
+        <item>Rabi al-zani</item>
+        <item>Yumada al-awwal</item>
+        <item>Yumada al-zani</item>
+        <item>Rayab</item>
+        <item>Shaabán</item>
+        <item>Ramadán</item>
+        <item>Shawwal</item>
+        <item>Dul Qaada</item>
+        <item>Dul Hiyya</item>
+    </string-array>
+</resources>
